@@ -1,0 +1,24 @@
+{
+  "checkpoint_version": 1,
+  "updated_at": "2026-05-14T10:45:00+08:00",
+  "collection_date": "2026-05-14",
+  "batch_id": "2026-05-14_first",
+  "stop_rule": "initial_stop_by_yesterday_inner_date",
+  "top_item": {
+    "source_position": 1,
+    "outer_author": "王炽",
+    "inner_author": "久路",
+    "inner_date_text": "2026.5.14",
+    "title": "2026.5.14 短线策略跟踪【立昂微】",
+    "image_hash": "sha256:413d5ae2d6b4c5d48c9607a3ac717602c53b69ba134ef59fba587b3a1c7f08fb",
+    "ocr_fingerprint": "manual:20260514-jiulu-liangweice"
+  },
+  "stop_marker": {
+    "outer_author": "邹坤",
+    "inner_author": "邹坤",
+    "inner_date_text": "20260513",
+    "title": "20260513复盘及展望",
+    "raw_image_path": "data/raw/2026-05-14/2026-05-14_first_batch_screen_003.png",
+    "included_in_batch": false
+  }
+}

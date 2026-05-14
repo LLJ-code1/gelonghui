@@ -1,4 +1,5 @@
 .DS_Store
+.swift-module-cache/
 state/checkpoint.json
 state/seen_items.json
 data/raw/
