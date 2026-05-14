@@ -1,0 +1,7 @@
+.DS_Store
+state/checkpoint.json
+state/seen_items.json
+data/raw/
+data/ocr/
+data/structured/
+*.tmp

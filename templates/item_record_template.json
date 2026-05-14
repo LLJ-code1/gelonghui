@@ -1,0 +1,26 @@
+{
+  "item_id": "2026-05-14_2100_001",
+  "batch_id": "2026-05-14_2100",
+  "collection_date": "2026-05-14",
+  "collected_at": "2026-05-14T21:00:00+08:00",
+  "feed_sort": "latest",
+  "source_url": "https://web.fanbook.cn/channels/887510463079116800/circle?sort=publish",
+  "source_position": 1,
+  "outer_author": "周阳",
+  "inner_author": "恒亦",
+  "inner_date_text": "5月14",
+  "title": "盘前思路",
+  "market_tags": ["A股"],
+  "topic_tags": ["盘前策略"],
+  "raw_image_paths": [
+    "data/raw/2026-05-14/2026-05-14_2100_001.png"
+  ],
+  "ocr_text_path": "data/ocr/2026-05-14/2026-05-14_2100_001.txt",
+  "image_hash": "sha256:example-image-hash",
+  "ocr_fingerprint": "fp:example-ocr-fingerprint",
+  "duplicate_of": null,
+  "status": "captured",
+  "summary": "",
+  "viewpoint": "",
+  "evidence_note": ""
+}
