@@ -1,25 +1,26 @@
 {
   "checkpoint_version": 1,
-  "updated_at": "2026-05-14T10:45:00+08:00",
+  "updated_at": "2026-05-14T15:26:59+08:00",
   "collection_date": "2026-05-14",
-  "batch_id": "2026-05-14_first",
-  "stop_rule": "initial_stop_by_yesterday_inner_date",
+  "batch_id": "2026-05-14_1526",
+  "stop_rule": "previous_checkpoint_found",
   "top_item": {
     "source_position": 1,
+    "outer_author": "速递君",
+    "inner_author": "信息速递君",
+    "summary_author": "速递君",
+    "inner_date_text": "2026-05-14 13:54；5月14日 13:45:00",
+    "title": "据消息人士【独家】透露，美国已批准阿里巴巴、字节跳动、腾讯、京东等中国买家采购英伟达芯片",
+    "image_hash": "sha256:c8f9be7e6ebccf212d7f13e651524438b86cccabcf4c1d09de4f41ceb63ff6e6",
+    "ocr_fingerprint": "manual:20260514-sudijun-nvidia-china-buyers"
+  },
+  "stop_marker": {
     "outer_author": "王炽",
     "inner_author": "久路",
     "summary_author": "王炽",
     "inner_date_text": "2026.5.14",
     "title": "2026.5.14 短线策略跟踪【立昂微】",
-    "image_hash": "sha256:413d5ae2d6b4c5d48c9607a3ac717602c53b69ba134ef59fba587b3a1c7f08fb",
-    "ocr_fingerprint": "manual:20260514-jiulu-liangweice"
-  },
-  "stop_marker": {
-    "outer_author": "邹坤",
-    "inner_author": "邹坤",
-    "inner_date_text": "20260513",
-    "title": "20260513复盘及展望",
-    "raw_image_path": "data/raw/2026-05-14/2026-05-14_first_batch_screen_003.png",
+    "raw_image_path": "data/raw/2026-05-14/2026-05-14_second_screen_001_state.png",
     "included_in_batch": false
   }
 }
