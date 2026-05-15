@@ -1,26 +1,26 @@
 {
   "checkpoint_version": 1,
-  "updated_at": "2026-05-14T15:26:59+08:00",
-  "collection_date": "2026-05-14",
-  "batch_id": "2026-05-14_1526",
+  "updated_at": "2026-05-15T10:31:41+08:00",
+  "collection_date": "2026-05-15",
+  "batch_id": "2026-05-15_0936",
   "stop_rule": "previous_checkpoint_found",
   "top_item": {
     "source_position": 1,
     "outer_author": "速递君",
     "inner_author": "信息速递君",
     "summary_author": "速递君",
-    "inner_date_text": "2026-05-14 13:54；5月14日 13:45:00",
-    "title": "据消息人士【独家】透露，美国已批准阿里巴巴、字节跳动、腾讯、京东等中国买家采购英伟达芯片",
-    "image_hash": "sha256:c8f9be7e6ebccf212d7f13e651524438b86cccabcf4c1d09de4f41ceb63ff6e6",
-    "ocr_fingerprint": "manual:20260514-sudijun-nvidia-china-buyers"
+    "inner_date_text": "2026-05-15 09:32",
+    "title": "目前北京时刻A股市场情绪波动较大，继续抓双创为代表的AI硬科技主线",
+    "image_hash": "sha256:ecef8e00fad88d907d0e6a752ab496aa5fb0f579b600870401db17b4526497c1",
+    "ocr_fingerprint": "manual:20260515-sudijun-ai-hardtech-semiconductor-equipment"
   },
   "stop_marker": {
-    "outer_author": "王炽",
-    "inner_author": "久路",
-    "summary_author": "王炽",
-    "inner_date_text": "2026.5.14",
-    "title": "2026.5.14 短线策略跟踪【立昂微】",
-    "raw_image_path": "data/raw/2026-05-14/2026-05-14_second_screen_001_state.png",
+    "outer_author": "速递君",
+    "inner_author": "信息速递君",
+    "summary_author": "速递君",
+    "inner_date_text": "2026-05-14 13:54；5月14日 13:45:00",
+    "title": "据消息人士【独家】透露，美国已批准阿里巴巴、字节跳动、腾讯、京东等中国买家采购英伟达芯片",
+    "raw_image_path": "data/raw/2026-05-15/2026-05-15_0936_screen_005.png",
     "included_in_batch": false
   }
 }
