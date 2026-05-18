@@ -1,26 +1,26 @@
 {
   "checkpoint_version": 1,
-  "updated_at": "2026-05-15T10:31:41+08:00",
-  "collection_date": "2026-05-15",
-  "batch_id": "2026-05-15_0936",
+  "updated_at": "2026-05-18T19:09:28+08:00",
+  "collection_date": "2026-05-18",
+  "batch_id": "2026-05-18_1857",
   "stop_rule": "previous_checkpoint_found",
   "top_item": {
     "source_position": 1,
-    "outer_author": "速递君",
-    "inner_author": "信息速递君",
-    "summary_author": "速递君",
-    "inner_date_text": "2026-05-15 09:32",
-    "title": "目前北京时刻A股市场情绪波动较大，继续抓双创为代表的AI硬科技主线",
-    "image_hash": "sha256:ecef8e00fad88d907d0e6a752ab496aa5fb0f579b600870401db17b4526497c1",
-    "ocr_fingerprint": "manual:20260515-sudijun-ai-hardtech-semiconductor-equipment"
+    "outer_author": "美股",
+    "inner_author": "GLH海外研究团队",
+    "summary_author": "美股",
+    "inner_date_text": "260516",
+    "title": "本周海外市场展望",
+    "image_hash": "sha256:2c066d85e98175e41ca01466ba55f0d1d6661480fba05888aa16f6cefc032ef0",
+    "ocr_fingerprint": "manual:20260518-meigu-overseas-weekly-outlook"
   },
   "stop_marker": {
     "outer_author": "速递君",
     "inner_author": "信息速递君",
     "summary_author": "速递君",
-    "inner_date_text": "2026-05-14 13:54；5月14日 13:45:00",
-    "title": "据消息人士【独家】透露，美国已批准阿里巴巴、字节跳动、腾讯、京东等中国买家采购英伟达芯片",
-    "raw_image_path": "data/raw/2026-05-15/2026-05-15_0936_screen_005.png",
+    "inner_date_text": "2026-05-15 09:32",
+    "title": "目前北京时刻A股市场情绪波动较大，继续抓双创为代表的AI硬科技主线",
+    "raw_image_path": "data/raw/2026-05-18/2026-05-18_1857_screen_005.png",
     "included_in_batch": false
   }
 }
