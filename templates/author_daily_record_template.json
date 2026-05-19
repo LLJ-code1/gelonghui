@@ -1,0 +1,23 @@
+{
+  "author": "王炽",
+  "date": "2026-05-19",
+  "batch_ids": ["2026-05-19_1034"],
+  "item_ids": ["2026-05-19_1034_005"],
+  "source_status": "summarized",
+  "confidence": "high",
+  "today_conclusion": "市场进入震荡阶段，量能不过分萎缩时仍有轮动机会。",
+  "focus": ["CPO", "OCS", "硅光", "英伟达财报"],
+  "bullish": ["有产业节点催化的光通信方向"],
+  "cautious": ["高位追涨", "缺少事件验证的科技题材"],
+  "operation": ["降低追高", "控仓低吸", "等产业节点确认"],
+  "change_vs_previous": "延续前一轮科技分化判断，但更强调震荡和低吸节奏。",
+  "watchlist": ["英伟达财报后光通信链反馈", "OCS/硅光产业节点是否继续发酵"],
+  "raw_evidence": [
+    {
+      "item_id": "2026-05-19_1034_005",
+      "ocr_text_path": "data/ocr/2026-05-19/2026-05-19_1034_005.txt",
+      "raw_image_paths": ["data/raw/2026-05-19/2026-05-19_1034_screen_001_D1.png"]
+    }
+  ],
+  "review_note": "已打开详情页视觉复核。"
+}

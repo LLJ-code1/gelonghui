@@ -19,7 +19,7 @@
 3. 从 `最新` 顶部开始，只读采集新增帖子，扫到上一轮 checkpoint 停止。
 4. 按 Fanbook 外层作者归档；截图内作者只作为 `inner_author` 元数据。
 5. 长图、密集文字图、首屏缩略图必须打开原图或详情图复核后，才能写成强观点。
-6. 更新 `data/ocr/`、`data/structured/`、`outputs/daily/`、`outputs/authors/`、`docs/操作日志.md`、`state/checkpoint.json`。
+6. 更新 `data/ocr/`、`data/structured/`、`data/author_daily/`、`outputs/daily/`、`outputs/authors/`、`docs/操作日志.md`、`state/checkpoint.json`。
 7. 不在 Fanbook 发布、发送、删除、上传或修改任何内容。
 
 如果用户明确说“只看本地已有内容”或“不要打开 Fanbook”，才改成本地整理。
