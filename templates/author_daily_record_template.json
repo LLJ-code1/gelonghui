@@ -6,12 +6,36 @@
   "source_status": "summarized",
   "confidence": "high",
   "today_conclusion": "市场进入震荡阶段，量能不过分萎缩时仍有轮动机会。",
-  "focus": ["CPO", "OCS", "硅光", "英伟达财报"],
-  "bullish": ["有产业节点催化的光通信方向"],
+  "logic_chain": "美伊谈判不明朗但影响主要在油价；上证4190附近有压力、4100附近看支撑；鸿海向英伟达CPO交换机出货目标上修，CPO渗透预期提升；谷歌开发者大会临近，OCS可能催化；5月20日英伟达财报是兑现节点。",
+  "macro_context": ["美伊地缘扰动仍在，但主要影响油价", "指数进入震荡阶段，上方4190附近有压力，下方4100附近看支撑"],
+  "focus": ["CPO", "OCS", "硅光", "英伟达财报", "商业航天", "机器人"],
+  "asset_mentions": [
+    {
+      "name": "鸿海 / CPO交换机",
+      "type": "company_or_theme",
+      "direction": "关注",
+      "reason": "鸿海上修英伟达CPO交换机出货目标，CPO渗透预期提升",
+      "action": "等产业验证",
+      "price_note": null,
+      "confidence": "high"
+    },
+    {
+      "name": "OCS / 硅光",
+      "type": "industry_chain",
+      "direction": "看好",
+      "reason": "谷歌开发者大会可能产生催化",
+      "action": "等催化确认",
+      "price_note": null,
+      "confidence": "high"
+    }
+  ],
+  "key_numbers": ["4190附近压力", "4100附近支撑", "5月20日盘后英伟达财报"],
+  "bullish": ["有产业节点催化的光通信方向", "震荡中仍有轮动机会的科技细分"],
   "cautious": ["高位追涨", "缺少事件验证的科技题材"],
   "operation": ["降低追高", "控仓低吸", "等产业节点确认"],
-  "change_vs_previous": "延续前一轮科技分化判断，但更强调震荡和低吸节奏。",
-  "watchlist": ["英伟达财报后光通信链反馈", "OCS/硅光产业节点是否继续发酵"],
+  "change_vs_previous": "延续5月18日科技分化判断，但从关注有催化的方向进一步收窄为降低追高、严格控仓、低位为主。",
+  "watchlist": ["英伟达财报后光通信链反馈", "谷歌开发者大会OCS/硅光是否发酵", "市场量能是否明显萎缩"],
+  "source_key_points": ["市场进入震荡阶段", "CPO渗透预期提升", "谷歌OCS可能催化", "英伟达财报是资金兑现节点"],
   "raw_evidence": [
     {
       "item_id": "2026-05-19_1034_005",
@@ -19,5 +43,5 @@
       "raw_image_paths": ["data/raw/2026-05-19/2026-05-19_1034_screen_001_D1.png"]
     }
   ],
-  "review_note": "已打开详情页视觉复核。"
+  "review_note": "本条在2026-05-19日报中标记为summarized，可写入强观点。"
 }
