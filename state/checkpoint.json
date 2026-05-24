@@ -1,26 +1,26 @@
 {
   "checkpoint_version": 1,
-  "updated_at": "2026-05-19T10:50:29+08:00",
-  "collection_date": "2026-05-19",
-  "batch_id": "2026-05-19_1034",
+  "updated_at": "2026-05-22T21:26:00+08:00",
+  "collection_date": "2026-05-22",
+  "batch_id": "2026-05-22_2126",
   "stop_rule": "previous_checkpoint_found",
   "top_item": {
     "source_position": 1,
-    "outer_author": "速递君",
-    "inner_author": "信息速递君",
-    "summary_author": "速递君",
-    "inner_date_text": "2026-05-19 09:30",
-    "title": "美伊和谈继续 / 机器人、半导体、光通信方向",
-    "image_hash": "sha256:a2203dca8aea6f672b9d9bd8e73b7c0692c38a4943c0b72e9731d4d2ad72e824",
-    "ocr_fingerprint": "manual:20260519-sudijun-robot-semiconductor-optical"
-  },
-  "stop_marker": {
     "outer_author": "美股",
     "inner_author": "GLH海外研究团队",
     "summary_author": "美股",
-    "inner_date_text": "2026-05-18 08:33",
-    "title": "260518 本周海外市场展望",
-    "raw_image_path": "data/raw/2026-05-18/2026-05-18_1857_001_meigu_original.jpg",
+    "inner_date_text": "260522",
+    "title": "英伟达财报落地后：科技+资源双主线攻防策略",
+    "image_hash": "sha256:ade7d2203810f15ed3dd62858e9309d330adba5a35eece9bf1517a975f63bf67",
+    "ocr_fingerprint": "manual:20260522-meigu-nvidia-tech-resource-defense"
+  },
+  "stop_marker": {
+    "outer_author": "程恒祥",
+    "inner_author": "赏金猎手（趋势波段）",
+    "summary_author": "程恒祥",
+    "inner_date_text": "2026-05-22",
+    "title": "A股盘前策略——2026.5.22",
+    "raw_image_path": "data/raw/2026-05-22/2026-05-22_0916_screen_001_top.png",
     "included_in_batch": false
   }
 }

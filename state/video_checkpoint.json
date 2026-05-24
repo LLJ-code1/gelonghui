@@ -1,0 +1,27 @@
+{
+  "fanbook_channel": "视频",
+  "channel_url": "https://web.fanbook.cn/channels/887510463079116800/887585348161761280",
+  "last_run_at": "2026-05-24T20:39:40+08:00",
+  "last_seen_item": {
+    "message_date": "2026-05-24",
+    "message_time": "20:02",
+    "outer_author": "流浪地球",
+    "title": "邹坤(3)",
+    "quark_url": "https://pan.quark.cn/s/8fa558d63137",
+    "file_name": "邹坤(3).mp4",
+    "file_size": "152.4M",
+    "modified_at": "2026-05-24 20:06"
+  },
+  "last_saved_item": {
+    "message_date": "2026-05-24",
+    "message_time": "17:41",
+    "outer_author": "流浪地球",
+    "title": "程恒祥，大帅(5)",
+    "quark_url": "https://pan.quark.cn/s/3d3afe918d5d",
+    "file_name": "程恒祥，大帅(5).mp4",
+    "file_size": "598.6M",
+    "modified_at": "2026-05-24 17:34"
+  },
+  "target_folder": "全部文件/格隆汇/26.5.24",
+  "status": "saved_to_target"
+}
