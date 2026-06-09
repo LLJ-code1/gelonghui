@@ -1,0 +1,5104 @@
+{
+  "metadata": {
+    "video_path": "/Users/a123/Downloads/格隆汇视频/美股周观点(5).mp4",
+    "date": "2026-06-04",
+    "name": "美股周观点_5",
+    "title": "美股周观点(5).mp4",
+    "outer_author": "美股",
+    "model": "medium",
+    "language": "zh",
+    "duration_limit_seconds": null,
+    "corrections_file": "data/video_terms_corrections.json",
+    "generated_at": "2026-06-05T10:35:16+08:00",
+    "whisper_info": {
+      "language": "zh",
+      "language_probability": 1,
+      "duration": 2645.890625
+    },
+    "segment_count": 847
+  },
+  "segments": [
+    {
+      "start": 39.18,
+      "end": 41.26,
+      "raw_text": "OK,OK,大家下午好",
+      "corrected_text": "OK,OK,大家下午好"
+    },
+    {
+      "start": 41.68,
+      "end": 43.7,
+      "raw_text": "那我們就直接開始吧",
+      "corrected_text": "那我們就直接開始吧"
+    },
+    {
+      "start": 44.18,
+      "end": 47.34,
+      "raw_text": "然後還是先過一下說今天講什麼內容",
+      "corrected_text": "然後還是先過一下說今天講什麼內容"
+    },
+    {
+      "start": 47.46,
+      "end": 53.22,
+      "raw_text": "今天主要是講一下老黃的那個投資版圖",
+      "corrected_text": "今天主要是講一下老黃的那個投資版圖"
+    },
+    {
+      "start": 54.08,
+      "end": 57.62,
+      "raw_text": "然後以及前面是這點追蹤相關的東西",
+      "corrected_text": "然後以及前面是這點追蹤相關的東西"
+    },
+    {
+      "start": 60.08,
+      "end": 62.18,
+      "raw_text": "然後以及說那個",
+      "corrected_text": "然後以及說那個"
+    },
+    {
+      "start": 62.18,
+      "end": 64.82,
+      "raw_text": "新三角、舊三角的那個",
+      "corrected_text": "新三角、舊三角的那個"
+    },
+    {
+      "start": 64.82,
+      "end": 67.54,
+      "raw_text": "PC行業的一個新三角和舊三角",
+      "corrected_text": "PC行業的一個新三角和舊三角"
+    },
+    {
+      "start": 68.5,
+      "end": 72.26,
+      "raw_text": "就是霸主,就是英特爾和AMD",
+      "corrected_text": "就是霸主,就是英特爾和AMD"
+    },
+    {
+      "start": 72.26,
+      "end": 75.78,
+      "raw_text": "以及說啊,微軟和英偉達",
+      "corrected_text": "以及說啊,微軟和英偉達"
+    },
+    {
+      "start": 78.01,
+      "end": 81.05,
+      "raw_text": "然後以及說老黃的GTC台北大會",
+      "corrected_text": "然後以及說老黃的GTC台北大會"
+    },
+    {
+      "start": 81.17,
+      "end": 84.33,
+      "raw_text": "然後還有一些財報,CRDO包括那個",
+      "corrected_text": "然後還有一些財報,CRDO包括那個"
+    },
+    {
+      "start": 84.33,
+      "end": 85.33,
+      "raw_text": "MyWare",
+      "corrected_text": "MyWare"
+    },
+    {
+      "start": 86.05,
+      "end": 88.25,
+      "raw_text": "的一個會議",
+      "corrected_text": "的一個會議"
+    },
+    {
+      "start": 88.25,
+      "end": 91.69,
+      "raw_text": "然後會語的一個財報,博通的一個財報",
+      "corrected_text": "然後會語的一個財報,博通的一個財報"
+    },
+    {
+      "start": 91.89,
+      "end": 94.29,
+      "raw_text": "然後還有CRWD的一個財報",
+      "corrected_text": "然後還有CRWD的一個財報"
+    },
+    {
+      "start": 97.88,
+      "end": 101.76,
+      "raw_text": "OK,好,那就是今天要講的內容",
+      "corrected_text": "OK,好,那就是今天要講的內容"
+    },
+    {
+      "start": 101.92,
+      "end": 102.96,
+      "raw_text": "我們先來看一下",
+      "corrected_text": "我們先來看一下"
+    },
+    {
+      "start": 103.56,
+      "end": 106.36,
+      "raw_text": "其實還是圍繞這一個去走的",
+      "corrected_text": "其實還是圍繞這一個去走的"
+    },
+    {
+      "start": 106.36,
+      "end": 108.28,
+      "raw_text": "老黃的五層蛋糕理論去走",
+      "corrected_text": "老黃的五層蛋糕理論去走"
+    },
+    {
+      "start": 108.52,
+      "end": 110.36,
+      "raw_text": "然後我們可以看到說",
+      "corrected_text": "然後我們可以看到說"
+    },
+    {
+      "start": 110.92,
+      "end": 113.48,
+      "raw_text": "其實邏輯最硬的還是存儲",
+      "corrected_text": "其實邏輯最硬的還是存儲"
+    },
+    {
+      "start": 114.04,
+      "end": 115.4,
+      "raw_text": "邏輯最硬的還是存儲",
+      "corrected_text": "邏輯最硬的還是存儲"
+    },
+    {
+      "start": 115.52,
+      "end": 117.4,
+      "raw_text": "然後接著是那個互聯",
+      "corrected_text": "然後接著是那個互聯"
+    },
+    {
+      "start": 118.08,
+      "end": 120.08,
+      "raw_text": "互聯,也是MyWare這一塊",
+      "corrected_text": "互聯,也是MyWare這一塊"
+    },
+    {
+      "start": 120.08,
+      "end": 122.12,
+      "raw_text": "然後博通這一塊是受到削弱了",
+      "corrected_text": "然後博通這一塊是受到削弱了"
+    },
+    {
+      "start": 122.28,
+      "end": 125.68,
+      "raw_text": "因為現在是英偉達加MyWare的一個強強聯合",
+      "corrected_text": "因為現在是英偉達加MyWare的一個強強聯合"
+    },
+    {
+      "start": 126.04,
+      "end": 127.88,
+      "raw_text": "然後去削弱了",
+      "corrected_text": "然後去削弱了"
+    },
+    {
+      "start": 127.88,
+      "end": 129.8,
+      "raw_text": "博通這一塊的一個唯一性",
+      "corrected_text": "博通這一塊的一個唯一性"
+    },
+    {
+      "start": 130.36,
+      "end": 131.84,
+      "raw_text": "然後以及說",
+      "corrected_text": "然後以及說"
+    },
+    {
+      "start": 132.28,
+      "end": 134.8,
+      "raw_text": "接下來是光通性相關的,這是第三",
+      "corrected_text": "接下來是光通性相關的,這是第三"
+    },
+    {
+      "start": 135.52,
+      "end": 137.08,
+      "raw_text": "然後再往下走",
+      "corrected_text": "然後再往下走"
+    },
+    {
+      "start": 137.64,
+      "end": 140.72,
+      "raw_text": "就是CPU,CPU裡面也是有削弱的一個點",
+      "corrected_text": "就是CPU,CPU裡面也是有削弱的一個點"
+    },
+    {
+      "start": 140.96,
+      "end": 145.04,
+      "raw_text": "就是英偉達聯合Arm架構去推他的Vera",
+      "corrected_text": "就是英偉達聯合Arm架構去推他的Vera"
+    },
+    {
+      "start": 145.16,
+      "end": 146.2,
+      "raw_text": "Vera CPU",
+      "corrected_text": "Vera CPU"
+    },
+    {
+      "start": 147.64,
+      "end": 150.16,
+      "raw_text": "所以導致說英特爾和AMD這個",
+      "corrected_text": "所以導致說英特爾和AMD這個"
+    },
+    {
+      "start": 150.16,
+      "end": 152.76,
+      "raw_text": "這兩個就是霸主其實是受到一個削弱的",
+      "corrected_text": "這兩個就是霸主其實是受到一個削弱的"
+    },
+    {
+      "start": 153.28,
+      "end": 155.96,
+      "raw_text": "所以你可以看到說老黃的野心很大",
+      "corrected_text": "所以你可以看到說老黃的野心很大"
+    },
+    {
+      "start": 156.28,
+      "end": 159.32,
+      "raw_text": "就他不斷去扶持一些",
+      "corrected_text": "就他不斷去扶持一些"
+    },
+    {
+      "start": 159.84,
+      "end": 162.36,
+      "raw_text": "稍微小一點的公司去挑戰",
+      "corrected_text": "稍微小一點的公司去挑戰"
+    },
+    {
+      "start": 162.52,
+      "end": 166.24,
+      "raw_text": "去制衡那些大的一個競爭對手",
+      "corrected_text": "去制衡那些大的一個競爭對手"
+    },
+    {
+      "start": 167.4,
+      "end": 170.8,
+      "raw_text": "你看比如說你看聯合MyWare去搞博通",
+      "corrected_text": "你看比如說你看聯合MyWare去搞博通"
+    },
+    {
+      "start": 170.96,
+      "end": 173.32,
+      "raw_text": "聯合Arm去搞英特爾和AMD",
+      "corrected_text": "聯合Arm去搞英特爾和AMD"
+    },
+    {
+      "start": 175.85,
+      "end": 179.01,
+      "raw_text": "OK,然後我們看一下他的一個投資版圖大概是這樣子",
+      "corrected_text": "OK,然後我們看一下他的一個投資版圖大概是這樣子"
+    },
+    {
+      "start": 179.33,
+      "end": 183.13,
+      "raw_text": "這邊這張圖其實是他26QE的一個13F磁場",
+      "corrected_text": "這邊這張圖其實是他26QE的一個13F磁場"
+    },
+    {
+      "start": 183.49,
+      "end": 186.13,
+      "raw_text": "你看像英特爾是941",
+      "corrected_text": "你看像英特爾是941"
+    },
+    {
+      "start": 186.13,
+      "end": 187.29,
+      "raw_text": "然後CoreWare",
+      "corrected_text": "然後CoreWare"
+    },
+    {
+      "start": 187.29,
+      "end": 190.89,
+      "raw_text": "然後是SMPS,就是EDA的巨頭之一",
+      "corrected_text": "然後是SMPS,就是EDA的巨頭之一"
+    },
+    {
+      "start": 191.33,
+      "end": 195.25,
+      "raw_text": "然後Coherent就是光的那個諾基亞還有那MBS",
+      "corrected_text": "然後Coherent就是光的那個諾基亞還有那MBS"
+    },
+    {
+      "start": 195.73,
+      "end": 198.13,
+      "raw_text": "然後我們可以看到右邊這張圖",
+      "corrected_text": "然後我們可以看到右邊這張圖"
+    },
+    {
+      "start": 198.41,
+      "end": 204.05,
+      "raw_text": "他其實就是腫瀾了英偉達在過去幾年時間的一個投資",
+      "corrected_text": "他其實就是腫瀾了英偉達在過去幾年時間的一個投資"
+    },
+    {
+      "start": 204.89,
+      "end": 205.69,
+      "raw_text": "你看英特爾",
+      "corrected_text": "你看英特爾"
+    },
+    {
+      "start": 205.97,
+      "end": 207.73,
+      "raw_text": "我們可以看一下英特爾50E",
+      "corrected_text": "我們可以看一下英特爾50E"
+    },
+    {
+      "start": 207.73,
+      "end": 210.13,
+      "raw_text": "然後SMPS21",
+      "corrected_text": "然後SMPS21"
+    },
+    {
+      "start": 210.13,
+      "end": 214.33,
+      "raw_text": "然後Lite、Coherent還有MyWare都是21",
+      "corrected_text": "然後Lite、Coherent還有MyWare都是21"
+    },
+    {
+      "start": 214.53,
+      "end": 217.13,
+      "raw_text": "然後康寧是光纜這一塊是5E",
+      "corrected_text": "然後康寧是光纜這一塊是5E"
+    },
+    {
+      "start": 217.53,
+      "end": 219.53,
+      "raw_text": "這些其實都是光護聯相關的",
+      "corrected_text": "這些其實都是光護聯相關的"
+    },
+    {
+      "start": 220.53,
+      "end": 222.53,
+      "raw_text": "然後這個沒上市這個也沒上市",
+      "corrected_text": "然後這個沒上市這個也沒上市"
+    },
+    {
+      "start": 222.53,
+      "end": 225.29,
+      "raw_text": "然後IEM是21E",
+      "corrected_text": "然後IEM是21E"
+    },
+    {
+      "start": 225.29,
+      "end": 227.53,
+      "raw_text": "CoreWare和MBS各21E",
+      "corrected_text": "CoreWare和MBS各21E"
+    },
+    {
+      "start": 228.29,
+      "end": 230.05,
+      "raw_text": "這個20E其實追加的",
+      "corrected_text": "這個20E其實追加的"
+    },
+    {
+      "start": 230.05,
+      "end": 235.09,
+      "raw_text": "因為CoreWare之前還是有做了一些其他的投資在裡面",
+      "corrected_text": "因為CoreWare之前還是有做了一些其他的投資在裡面"
+    },
+    {
+      "start": 235.25,
+      "end": 236.45,
+      "raw_text": "但這裡不做",
+      "corrected_text": "但這裡不做"
+    },
+    {
+      "start": 236.81,
+      "end": 238.53,
+      "raw_text": "不把資金的加進來",
+      "corrected_text": "不把資金的加進來"
+    },
+    {
+      "start": 238.53,
+      "end": 241.57,
+      "raw_text": "就是單純說這兩年的一個投資",
+      "corrected_text": "就是單純說這兩年的一個投資"
+    },
+    {
+      "start": 242.13,
+      "end": 243.73,
+      "raw_text": "然後這兩個都沒上市",
+      "corrected_text": "然後這兩個都沒上市"
+    },
+    {
+      "start": 243.73,
+      "end": 244.53,
+      "raw_text": "這個也沒上市",
+      "corrected_text": "這個也沒上市"
+    },
+    {
+      "start": 244.53,
+      "end": 245.93,
+      "raw_text": "諾基亞11美金",
+      "corrected_text": "諾基亞11美金"
+    },
+    {
+      "start": 246.37,
+      "end": 248.13,
+      "raw_text": "所以像諾基亞這個",
+      "corrected_text": "所以像諾基亞這個"
+    },
+    {
+      "start": 248.37,
+      "end": 252.05,
+      "raw_text": "諾基亞其實它也是光護聯相關的",
+      "corrected_text": "諾基亞其實它也是光護聯相關的"
+    },
+    {
+      "start": 252.77,
+      "end": 257.01,
+      "raw_text": "就大家知道說光護聯其實分為三塊",
+      "corrected_text": "就大家知道說光護聯其實分為三塊"
+    },
+    {
+      "start": 258.05,
+      "end": 260.01,
+      "raw_text": "第一塊就是機櫃之內的",
+      "corrected_text": "第一塊就是機櫃之內的"
+    },
+    {
+      "start": 260.17,
+      "end": 261.57,
+      "raw_text": "機櫃內的一個",
+      "corrected_text": "機櫃內的一個"
+    },
+    {
+      "start": 264.01,
+      "end": 266.65,
+      "raw_text": "光纜、光纜相關的一個連接",
+      "corrected_text": "光纜、光纜相關的一個連接"
+    },
+    {
+      "start": 267.17,
+      "end": 271.53,
+      "raw_text": "然後第二個類就是機櫃與機櫃之間的這種連接",
+      "corrected_text": "然後第二個類就是機櫃與機櫃之間的這種連接"
+    },
+    {
+      "start": 272.41,
+      "end": 274.29,
+      "raw_text": "還有一種是長距離的",
+      "corrected_text": "還有一種是長距離的"
+    },
+    {
+      "start": 274.81,
+      "end": 276.93,
+      "raw_text": "就像諾基亞做的就是長距離的",
+      "corrected_text": "就像諾基亞做的就是長距離的"
+    },
+    {
+      "start": 277.29,
+      "end": 280.05,
+      "raw_text": "這種百公里千公里的一個光纜",
+      "corrected_text": "這種百公里千公里的一個光纜"
+    },
+    {
+      "start": 280.33,
+      "end": 282.81,
+      "raw_text": "這一塊這一塊就是諾基亞去做的",
+      "corrected_text": "這一塊這一塊就是諾基亞去做的"
+    },
+    {
+      "start": 283.73,
+      "end": 286.05,
+      "raw_text": "包括像康寧其實也做光纜",
+      "corrected_text": "包括像康寧其實也做光纜"
+    },
+    {
+      "start": 286.85,
+      "end": 289.25,
+      "raw_text": "所以你看它其實佈局很全面",
+      "corrected_text": "所以你看它其實佈局很全面"
+    },
+    {
+      "start": 289.77,
+      "end": 290.61,
+      "raw_text": "佈局很全面",
+      "corrected_text": "佈局很全面"
+    },
+    {
+      "start": 291.17,
+      "end": 294.97,
+      "raw_text": "所以諾基亞主要就是做的是這種百公里千公里的這種光纜",
+      "corrected_text": "所以諾基亞主要就是做的是這種百公里千公里的這種光纜"
+    },
+    {
+      "start": 295.65,
+      "end": 296.73,
+      "raw_text": "光纜這一塊",
+      "corrected_text": "光纜這一塊"
+    },
+    {
+      "start": 298.57,
+      "end": 299.97,
+      "raw_text": "所以這是這一塊",
+      "corrected_text": "所以這是這一塊"
+    },
+    {
+      "start": 300.13,
+      "end": 302.05,
+      "raw_text": "其實大家可以看到說你看英特爾",
+      "corrected_text": "其實大家可以看到說你看英特爾"
+    },
+    {
+      "start": 302.53,
+      "end": 305.77,
+      "raw_text": "他之前投其實是因為川普",
+      "corrected_text": "他之前投其實是因為川普"
+    },
+    {
+      "start": 307.77,
+      "end": 309.57,
+      "raw_text": "川普在去年8月份的時候",
+      "corrected_text": "川普在去年8月份的時候"
+    },
+    {
+      "start": 310.41,
+      "end": 312.61,
+      "raw_text": "拿了10%的英特爾的一個股份",
+      "corrected_text": "拿了10%的英特爾的一個股份"
+    },
+    {
+      "start": 313.49,
+      "end": 315.65,
+      "raw_text": "去直接去買了他10%的股份",
+      "corrected_text": "去直接去買了他10%的股份"
+    },
+    {
+      "start": 315.65,
+      "end": 318.37,
+      "raw_text": "然後後面爆出一個消息就是",
+      "corrected_text": "然後後面爆出一個消息就是"
+    },
+    {
+      "start": 318.37,
+      "end": 322.65,
+      "raw_text": "50億美金因為大家跟英特爾合作去開發CPU這一塊",
+      "corrected_text": "50億美金因為大家跟英特爾合作去開發CPU這一塊"
+    },
+    {
+      "start": 323.41,
+      "end": 325.93,
+      "raw_text": "所以這是為什麼說有50億美金的投資在裡面",
+      "corrected_text": "所以這是為什麼說有50億美金的投資在裡面"
+    },
+    {
+      "start": 326.81,
+      "end": 328.45,
+      "raw_text": "但你看他現在是扶持了ARM",
+      "corrected_text": "但你看他現在是扶持了ARM"
+    },
+    {
+      "start": 328.77,
+      "end": 331.13,
+      "raw_text": "去做在CPU裡面去",
+      "corrected_text": "去做在CPU裡面去"
+    },
+    {
+      "start": 332.13,
+      "end": 332.77,
+      "raw_text": "卡實",
+      "corrected_text": "卡實"
+    },
+    {
+      "start": 333.49,
+      "end": 337.29,
+      "raw_text": "去弱化英特爾包括AMD這一塊",
+      "corrected_text": "去弱化英特爾包括AMD這一塊"
+    },
+    {
+      "start": 337.81,
+      "end": 340.33,
+      "raw_text": "在CPU領域的一個主打地位",
+      "corrected_text": "在CPU領域的一個主打地位"
+    },
+    {
+      "start": 342.49,
+      "end": 346.05,
+      "raw_text": "然後現在扶持邁威爾去跟伯通去對抗",
+      "corrected_text": "然後現在扶持邁威爾去跟伯通去對抗"
+    },
+    {
+      "start": 347.37,
+      "end": 349.85,
+      "raw_text": "然後另外的話這些OpenAI XAI",
+      "corrected_text": "然後另外的話這些OpenAI XAI"
+    },
+    {
+      "start": 350.17,
+      "end": 351.69,
+      "raw_text": "這些其實都是一些",
+      "corrected_text": "這些其實都是一些"
+    },
+    {
+      "start": 352.57,
+      "end": 354.29,
+      "raw_text": "沒有上市的還沒有上市",
+      "corrected_text": "沒有上市的還沒有上市"
+    },
+    {
+      "start": 354.57,
+      "end": 356.73,
+      "raw_text": "然後裡來投11美金研發",
+      "corrected_text": "然後裡來投11美金研發"
+    },
+    {
+      "start": 357.05,
+      "end": 359.81,
+      "raw_text": "AI藥物研發這一塊還有RXIX",
+      "corrected_text": "AI藥物研發這一塊還有RXIX"
+    },
+    {
+      "start": 361.21,
+      "end": 364.17,
+      "raw_text": "但藥物這一塊走的一般",
+      "corrected_text": "但藥物這一塊走的一般"
+    },
+    {
+      "start": 364.41,
+      "end": 366.37,
+      "raw_text": "裡來還好裡來還好一些",
+      "corrected_text": "裡來還好裡來還好一些"
+    },
+    {
+      "start": 366.57,
+      "end": 369.41,
+      "raw_text": "裡來至少那個減肥藥它的一個效果不錯",
+      "corrected_text": "裡來至少那個減肥藥它的一個效果不錯"
+    },
+    {
+      "start": 369.61,
+      "end": 372.33,
+      "raw_text": "所以裡來是主要是減肥藥這一塊撐著",
+      "corrected_text": "所以裡來是主要是減肥藥這一塊撐著"
+    },
+    {
+      "start": 374.93,
+      "end": 377.81,
+      "raw_text": "所以核心主要還是集中在前面這一張圖",
+      "corrected_text": "所以核心主要還是集中在前面這一張圖"
+    },
+    {
+      "start": 378.49,
+      "end": 379.33,
+      "raw_text": "前面這一張",
+      "corrected_text": "前面這一張"
+    },
+    {
+      "start": 381.17,
+      "end": 384.09,
+      "raw_text": "你看這些投的公司其實基本都漲過一輪了",
+      "corrected_text": "你看這些投的公司其實基本都漲過一輪了"
+    },
+    {
+      "start": 384.61,
+      "end": 385.57,
+      "raw_text": "都漲過一輪了",
+      "corrected_text": "都漲過一輪了"
+    },
+    {
+      "start": 387.05,
+      "end": 389.29,
+      "raw_text": "所以我們說下一個是誰",
+      "corrected_text": "所以我們說下一個是誰"
+    },
+    {
+      "start": 390.05,
+      "end": 392.69,
+      "raw_text": "暫時如果按照這個圖來講的話",
+      "corrected_text": "暫時如果按照這個圖來講的話"
+    },
+    {
+      "start": 392.69,
+      "end": 393.61,
+      "raw_text": "暫時不知道",
+      "corrected_text": "暫時不知道"
+    },
+    {
+      "start": 394.25,
+      "end": 395.01,
+      "raw_text": "暫時不知道",
+      "corrected_text": "暫時不知道"
+    },
+    {
+      "start": 395.37,
+      "end": 397.17,
+      "raw_text": "目前就是邁威爾先跑出來",
+      "corrected_text": "目前就是邁威爾先跑出來"
+    },
+    {
+      "start": 397.45,
+      "end": 400.65,
+      "raw_text": "就是當下最近最新的就是邁威爾先跑出來",
+      "corrected_text": "就是當下最近最新的就是邁威爾先跑出來"
+    },
+    {
+      "start": 401.37,
+      "end": 404.01,
+      "raw_text": "因為他老黃直接點了他是萬一美金",
+      "corrected_text": "因為他老黃直接點了他是萬一美金"
+    },
+    {
+      "start": 404.41,
+      "end": 407.61,
+      "raw_text": "但是我覺得邁威爾先到5000億吧",
+      "corrected_text": "但是我覺得邁威爾先到5000億吧"
+    },
+    {
+      "start": 407.81,
+      "end": 408.69,
+      "raw_text": "先到5000億吧",
+      "corrected_text": "先到5000億吧"
+    },
+    {
+      "start": 409.01,
+      "end": 410.61,
+      "raw_text": "就目前的狀態先到5000億吧",
+      "corrected_text": "就目前的狀態先到5000億吧"
+    },
+    {
+      "start": 412.21,
+      "end": 415.09,
+      "raw_text": "大家其實也看到我們之前更新的那個組合",
+      "corrected_text": "大家其實也看到我們之前更新的那個組合"
+    },
+    {
+      "start": 415.77,
+      "end": 418.61,
+      "raw_text": "組合表裡面就是把邁威爾放到前面去了",
+      "corrected_text": "組合表裡面就是把邁威爾放到前面去了"
+    },
+    {
+      "start": 425.14,
+      "end": 426.38,
+      "raw_text": "那你可以看到這張圖",
+      "corrected_text": "那你可以看到這張圖"
+    },
+    {
+      "start": 429.65,
+      "end": 431.01,
+      "raw_text": "整體來講還是這張圖",
+      "corrected_text": "整體來講還是這張圖"
+    },
+    {
+      "start": 433.47,
+      "end": 434.27,
+      "raw_text": "然後",
+      "corrected_text": "然後"
+    },
+    {
+      "start": 434.79,
+      "end": 436.87,
+      "raw_text": "剛剛為什麼說第一的還是存儲呢",
+      "corrected_text": "剛剛為什麼說第一的還是存儲呢"
+    },
+    {
+      "start": 436.87,
+      "end": 440.55,
+      "raw_text": "因為在這個增量裡面存儲還是最大的",
+      "corrected_text": "因為在這個增量裡面存儲還是最大的"
+    },
+    {
+      "start": 440.91,
+      "end": 442.23,
+      "raw_text": "它的邏輯是最硬的",
+      "corrected_text": "它的邏輯是最硬的"
+    },
+    {
+      "start": 442.47,
+      "end": 446.15,
+      "raw_text": "包括說那個台北電腦展以及說GTC大會",
+      "corrected_text": "包括說那個台北電腦展以及說GTC大會"
+    },
+    {
+      "start": 446.35,
+      "end": 448.87,
+      "raw_text": "這一塊它其實透露出的一些",
+      "corrected_text": "這一塊它其實透露出的一些"
+    },
+    {
+      "start": 449.07,
+      "end": 450.87,
+      "raw_text": "關於PC相關的東西",
+      "corrected_text": "關於PC相關的東西"
+    },
+    {
+      "start": 451.15,
+      "end": 454.03,
+      "raw_text": "PC這一塊你往AIPC去做",
+      "corrected_text": "PC這一塊你往AIPC去做"
+    },
+    {
+      "start": 454.19,
+      "end": 457.35,
+      "raw_text": "它其實也一定程度上需要更多的一個存儲",
+      "corrected_text": "它其實也一定程度上需要更多的一個存儲"
+    },
+    {
+      "start": 457.75,
+      "end": 459.31,
+      "raw_text": "很去處理這些數據",
+      "corrected_text": "很去處理這些數據"
+    },
+    {
+      "start": 459.87,
+      "end": 464.15,
+      "raw_text": "所以也是一個存儲的一個增量需求在裡面",
+      "corrected_text": "所以也是一個存儲的一個增量需求在裡面"
+    },
+    {
+      "start": 464.83,
+      "end": 469.07,
+      "raw_text": "這一塊只是說是那個VR200跟那個GB300的一個對比",
+      "corrected_text": "這一塊只是說是那個VR200跟那個GB300的一個對比"
+    },
+    {
+      "start": 469.59,
+      "end": 470.71,
+      "raw_text": "裡面的一個增量",
+      "corrected_text": "裡面的一個增量"
+    },
+    {
+      "start": 471.15,
+      "end": 472.75,
+      "raw_text": "是存儲是最大的",
+      "corrected_text": "是存儲是最大的"
+    },
+    {
+      "start": 475.71,
+      "end": 476.51,
+      "raw_text": "然後",
+      "corrected_text": "然後"
+    },
+    {
+      "start": 476.91,
+      "end": 478.11,
+      "raw_text": "這些就",
+      "corrected_text": "這些就"
+    },
+    {
+      "start": 479.15,
+      "end": 479.99,
+      "raw_text": "是戴爾",
+      "corrected_text": "是戴爾"
+    },
+    {
+      "start": 480.43,
+      "end": 484.35,
+      "raw_text": "但我覺得戴爾他的優先級在我這裡沒有那麼高",
+      "corrected_text": "但我覺得戴爾他的優先級在我這裡沒有那麼高"
+    },
+    {
+      "start": 484.67,
+      "end": 486.59,
+      "raw_text": "因為戴爾我看了一下他的財報",
+      "corrected_text": "因為戴爾我看了一下他的財報"
+    },
+    {
+      "start": 486.83,
+      "end": 489.03,
+      "raw_text": "包括像後面會講的那個會議會議",
+      "corrected_text": "包括像後面會講的那個會議會議"
+    },
+    {
+      "start": 489.35,
+      "end": 492.51,
+      "raw_text": "HPE會議科技他們包括像聯想",
+      "corrected_text": "HPE會議科技他們包括像聯想"
+    },
+    {
+      "start": 492.67,
+      "end": 494.91,
+      "raw_text": "這三家其實都是做的是",
+      "corrected_text": "這三家其實都是做的是"
+    },
+    {
+      "start": 495.31,
+      "end": 497.71,
+      "raw_text": "整機這一塊整機組裝的這一塊",
+      "corrected_text": "整機這一塊整機組裝的這一塊"
+    },
+    {
+      "start": 498.95,
+      "end": 501.43,
+      "raw_text": "就是他們的一個利潤率太低了",
+      "corrected_text": "就是他們的一個利潤率太低了"
+    },
+    {
+      "start": 502.63,
+      "end": 504.23,
+      "raw_text": "就戴爾這個季度的利潤率",
+      "corrected_text": "就戴爾這個季度的利潤率"
+    },
+    {
+      "start": 504.23,
+      "end": 507.67,
+      "raw_text": "我記得他的營業利潤率才不到10%",
+      "corrected_text": "我記得他的營業利潤率才不到10%"
+    },
+    {
+      "start": 508.39,
+      "end": 511.75,
+      "raw_text": "所以你就想想說一個營業利潤率不到10%的公司",
+      "corrected_text": "所以你就想想說一個營業利潤率不到10%的公司"
+    },
+    {
+      "start": 512.03,
+      "end": 514.03,
+      "raw_text": "能撐起這麼大的一個漲幅嗎",
+      "corrected_text": "能撐起這麼大的一個漲幅嗎"
+    },
+    {
+      "start": 514.51,
+      "end": 515.99,
+      "raw_text": "我覺得有點玄",
+      "corrected_text": "我覺得有點玄"
+    },
+    {
+      "start": 516.27,
+      "end": 517.23,
+      "raw_text": "我覺得有點玄",
+      "corrected_text": "我覺得有點玄"
+    },
+    {
+      "start": 518.39,
+      "end": 520.51,
+      "raw_text": "所以我覺得戴爾這個可能",
+      "corrected_text": "所以我覺得戴爾這個可能"
+    },
+    {
+      "start": 521.79,
+      "end": 523.51,
+      "raw_text": "可能是需要有一個回調的",
+      "corrected_text": "可能是需要有一個回調的"
+    },
+    {
+      "start": 531.83,
+      "end": 533.55,
+      "raw_text": "包括聯想戴爾和惠宇",
+      "corrected_text": "包括聯想戴爾和惠宇"
+    },
+    {
+      "start": 533.87,
+      "end": 536.51,
+      "raw_text": "這幾家你看年初至今基本就是三倍",
+      "corrected_text": "這幾家你看年初至今基本就是三倍"
+    },
+    {
+      "start": 536.87,
+      "end": 538.19,
+      "raw_text": "然後戴爾兩倍多",
+      "corrected_text": "然後戴爾兩倍多"
+    },
+    {
+      "start": 541.26,
+      "end": 541.86,
+      "raw_text": "看一下",
+      "corrected_text": "看一下"
+    },
+    {
+      "start": 542.58,
+      "end": 545.1,
+      "raw_text": "他最近也有開始有一些回調在裡面",
+      "corrected_text": "他最近也有開始有一些回調在裡面"
+    },
+    {
+      "start": 545.66,
+      "end": 548.78,
+      "raw_text": "但我覺得戴爾背後是因為有那個川普點",
+      "corrected_text": "但我覺得戴爾背後是因為有那個川普點"
+    },
+    {
+      "start": 549.14,
+      "end": 552.38,
+      "raw_text": "川普點他的那個包括川普有持倉這個戴爾",
+      "corrected_text": "川普點他的那個包括川普有持倉這個戴爾"
+    },
+    {
+      "start": 552.66,
+      "end": 554.38,
+      "raw_text": "所以戴爾會稍微走的好一點",
+      "corrected_text": "所以戴爾會稍微走的好一點"
+    },
+    {
+      "start": 555.34,
+      "end": 556.98,
+      "raw_text": "就稍微有資金去撐他",
+      "corrected_text": "就稍微有資金去撐他"
+    },
+    {
+      "start": 556.98,
+      "end": 559.66,
+      "raw_text": "因為背後有這個川普的影子",
+      "corrected_text": "因為背後有這個川普的影子"
+    },
+    {
+      "start": 562.34,
+      "end": 564.46,
+      "raw_text": "然後惠宇你看他會弱一些",
+      "corrected_text": "然後惠宇你看他會弱一些"
+    },
+    {
+      "start": 564.58,
+      "end": 565.42,
+      "raw_text": "他會弱一些",
+      "corrected_text": "他會弱一些"
+    },
+    {
+      "start": 566.62,
+      "end": 569.1,
+      "raw_text": "但6月2號這一天其實是因為",
+      "corrected_text": "但6月2號這一天其實是因為"
+    },
+    {
+      "start": 569.34,
+      "end": 572.46,
+      "raw_text": "Maiwea帶著整體的情緒的復甦",
+      "corrected_text": "Maiwea帶著整體的情緒的復甦"
+    },
+    {
+      "start": 572.58,
+      "end": 573.5,
+      "raw_text": "包括說",
+      "corrected_text": "包括說"
+    },
+    {
+      "start": 573.78,
+      "end": 575.42,
+      "raw_text": "那個PC這一塊",
+      "corrected_text": "那個PC這一塊"
+    },
+    {
+      "start": 575.7,
+      "end": 576.5,
+      "raw_text": "是",
+      "corrected_text": "是"
+    },
+    {
+      "start": 577.34,
+      "end": 579.82,
+      "raw_text": "戴爾跟惠宇包括像聯想這一塊",
+      "corrected_text": "戴爾跟惠宇包括像聯想這一塊"
+    },
+    {
+      "start": 579.82,
+      "end": 582.82,
+      "raw_text": "他們要去出貨這個英偉達的一個PC",
+      "corrected_text": "他們要去出貨這個英偉達的一個PC"
+    },
+    {
+      "start": 585.3,
+      "end": 587.62,
+      "raw_text": "所以把整個情緒都帶起來了",
+      "corrected_text": "所以把整個情緒都帶起來了"
+    },
+    {
+      "start": 588.1,
+      "end": 590.66,
+      "raw_text": "但我覺得這一輪真的打得太快了",
+      "corrected_text": "但我覺得這一輪真的打得太快了"
+    },
+    {
+      "start": 590.66,
+      "end": 591.98,
+      "raw_text": "他需要做一部對線",
+      "corrected_text": "他需要做一部對線"
+    },
+    {
+      "start": 592.26,
+      "end": 593.82,
+      "raw_text": "所以你看對線拿來呢",
+      "corrected_text": "所以你看對線拿來呢"
+    },
+    {
+      "start": 593.82,
+      "end": 596.42,
+      "raw_text": "就是今天早上凌晨的博通財報",
+      "corrected_text": "就是今天早上凌晨的博通財報"
+    },
+    {
+      "start": 596.78,
+      "end": 599.74,
+      "raw_text": "博通財報把這個市場情緒給砸下來的",
+      "corrected_text": "博通財報把這個市場情緒給砸下來的"
+    },
+    {
+      "start": 600.3,
+      "end": 602.02,
+      "raw_text": "我覺得是需要這麼一個",
+      "corrected_text": "我覺得是需要這麼一個"
+    },
+    {
+      "start": 602.66,
+      "end": 604.02,
+      "raw_text": "調整一下",
+      "corrected_text": "調整一下"
+    },
+    {
+      "start": 604.3,
+      "end": 605.22,
+      "raw_text": "會比較健康",
+      "corrected_text": "會比較健康"
+    },
+    {
+      "start": 613.57,
+      "end": 614.53,
+      "raw_text": "然後看一下",
+      "corrected_text": "然後看一下"
+    },
+    {
+      "start": 617.51,
+      "end": 619.95,
+      "raw_text": "對然後我們看一下這個存儲相關的",
+      "corrected_text": "對然後我們看一下這個存儲相關的"
+    },
+    {
+      "start": 620.63,
+      "end": 622.55,
+      "raw_text": "為什麼還是說回那個存儲",
+      "corrected_text": "為什麼還是說回那個存儲"
+    },
+    {
+      "start": 622.55,
+      "end": 623.59,
+      "raw_text": "為什麼是最硬邏輯",
+      "corrected_text": "為什麼是最硬邏輯"
+    },
+    {
+      "start": 623.59,
+      "end": 626.15,
+      "raw_text": "因為產能完全是不夠的",
+      "corrected_text": "因為產能完全是不夠的"
+    },
+    {
+      "start": 626.79,
+      "end": 629.27,
+      "raw_text": "就是有效的新增產能",
+      "corrected_text": "就是有效的新增產能"
+    },
+    {
+      "start": 629.27,
+      "end": 631.27,
+      "raw_text": "真正有益的一個新增產能",
+      "corrected_text": "真正有益的一個新增產能"
+    },
+    {
+      "start": 631.59,
+      "end": 633.67,
+      "raw_text": "是主要看三家工廠",
+      "corrected_text": "是主要看三家工廠"
+    },
+    {
+      "start": 633.79,
+      "end": 634.83,
+      "raw_text": "三星的P4",
+      "corrected_text": "三星的P4"
+    },
+    {
+      "start": 634.87,
+      "end": 636.83,
+      "raw_text": "海力士的M15X",
+      "corrected_text": "海力士的M15X"
+    },
+    {
+      "start": 636.95,
+      "end": 638.71,
+      "raw_text": "美光的A3這三家工廠",
+      "corrected_text": "美光的A3這三家工廠"
+    },
+    {
+      "start": 639.11,
+      "end": 640.35,
+      "raw_text": "新增晶圓產能",
+      "corrected_text": "新增晶圓產能"
+    },
+    {
+      "start": 641.35,
+      "end": 645.11,
+      "raw_text": "但你看像HX凱利士包括像A3",
+      "corrected_text": "但你看像HX凱利士包括像A3"
+    },
+    {
+      "start": 645.15,
+      "end": 647.43,
+      "raw_text": "美光的A3其實主要是HBM用的",
+      "corrected_text": "美光的A3其實主要是HBM用的"
+    },
+    {
+      "start": 647.79,
+      "end": 650.11,
+      "raw_text": "所以對普通的DRAM貢獻是有限的",
+      "corrected_text": "所以對普通的DRAM貢獻是有限的"
+    },
+    {
+      "start": 650.31,
+      "end": 651.79,
+      "raw_text": "所以你看P4這一塊",
+      "corrected_text": "所以你看P4這一塊"
+    },
+    {
+      "start": 652.23,
+      "end": 655.87,
+      "raw_text": "它其實後續供的是這種普通的一個DRAM",
+      "corrected_text": "它其實後續供的是這種普通的一個DRAM"
+    },
+    {
+      "start": 657.11,
+      "end": 659.79,
+      "raw_text": "所以你看海力士和美光這兩個廠",
+      "corrected_text": "所以你看海力士和美光這兩個廠"
+    },
+    {
+      "start": 661.07,
+      "end": 663.07,
+      "raw_text": "這兩個廠其實你看海力士這個廠",
+      "corrected_text": "這兩個廠其實你看海力士這個廠"
+    },
+    {
+      "start": 663.07,
+      "end": 665.19,
+      "raw_text": "至少要到二月份才能上線",
+      "corrected_text": "至少要到二月份才能上線"
+    },
+    {
+      "start": 665.71,
+      "end": 667.15,
+      "raw_text": "也就是新建的產能",
+      "corrected_text": "也就是新建的產能"
+    },
+    {
+      "start": 667.99,
+      "end": 670.99,
+      "raw_text": "最早二月份明年二月份",
+      "corrected_text": "最早二月份明年二月份"
+    },
+    {
+      "start": 671.99,
+      "end": 674.15,
+      "raw_text": "然後美光的廠大概是27年年中",
+      "corrected_text": "然後美光的廠大概是27年年中"
+    },
+    {
+      "start": 674.99,
+      "end": 678.55,
+      "raw_text": "也就是說今年完全沒有新增的一個增量出來",
+      "corrected_text": "也就是說今年完全沒有新增的一個增量出來"
+    },
+    {
+      "start": 678.67,
+      "end": 679.55,
+      "raw_text": "就供極端",
+      "corrected_text": "就供極端"
+    },
+    {
+      "start": 680.11,
+      "end": 682.47,
+      "raw_text": "現在是極度的供不應求",
+      "corrected_text": "現在是極度的供不應求"
+    },
+    {
+      "start": 683.15,
+      "end": 685.55,
+      "raw_text": "但是26年完全沒有供給出來",
+      "corrected_text": "但是26年完全沒有供給出來"
+    },
+    {
+      "start": 686.39,
+      "end": 687.47,
+      "raw_text": "完全沒有供給出來",
+      "corrected_text": "完全沒有供給出來"
+    },
+    {
+      "start": 688.19,
+      "end": 690.63,
+      "raw_text": "所以到明年二月份",
+      "corrected_text": "所以到明年二月份"
+    },
+    {
+      "start": 690.91,
+      "end": 693.07,
+      "raw_text": "這些產能基本都是只能乾燈眼",
+      "corrected_text": "這些產能基本都是只能乾燈眼"
+    },
+    {
+      "start": 695.11,
+      "end": 696.39,
+      "raw_text": "然後你看海力士這一塊",
+      "corrected_text": "然後你看海力士這一塊"
+    },
+    {
+      "start": 696.39,
+      "end": 699.83,
+      "raw_text": "它是五年內把晶圓產能翻一倍",
+      "corrected_text": "它是五年內把晶圓產能翻一倍"
+    },
+    {
+      "start": 700.71,
+      "end": 703.11,
+      "raw_text": "但是你就只是翻一倍",
+      "corrected_text": "但是你就只是翻一倍"
+    },
+    {
+      "start": 703.15,
+      "end": 707.39,
+      "raw_text": "完全不夠這種推理端需求爆發式的",
+      "corrected_text": "完全不夠這種推理端需求爆發式的"
+    },
+    {
+      "start": 707.55,
+      "end": 709.15,
+      "raw_text": "這種指數級的增長",
+      "corrected_text": "這種指數級的增長"
+    },
+    {
+      "start": 709.71,
+      "end": 711.59,
+      "raw_text": "你產能翻一番是完全不夠的",
+      "corrected_text": "你產能翻一番是完全不夠的"
+    },
+    {
+      "start": 711.99,
+      "end": 713.95,
+      "raw_text": "所以你看海力士其實講的是",
+      "corrected_text": "所以你看海力士其實講的是"
+    },
+    {
+      "start": 714.31,
+      "end": 716.67,
+      "raw_text": "純屬這塊瓶頸能到30年",
+      "corrected_text": "純屬這塊瓶頸能到30年"
+    },
+    {
+      "start": 718.43,
+      "end": 721.75,
+      "raw_text": "然後三星這塊推了一個HBM5",
+      "corrected_text": "然後三星這塊推了一個HBM5"
+    },
+    {
+      "start": 723.19,
+      "end": 727.15,
+      "raw_text": "現在主要還是那個HBM3E",
+      "corrected_text": "現在主要還是那個HBM3E"
+    },
+    {
+      "start": 727.15,
+      "end": 729.87,
+      "raw_text": "然後HBM4馬上下半年出",
+      "corrected_text": "然後HBM4馬上下半年出"
+    },
+    {
+      "start": 730.23,
+      "end": 732.15,
+      "raw_text": "然後HBM5現在已經推出來了",
+      "corrected_text": "然後HBM5現在已經推出來了"
+    },
+    {
+      "start": 733.63,
+      "end": 735.87,
+      "raw_text": "所以當時也稍微帶了一波",
+      "corrected_text": "所以當時也稍微帶了一波"
+    },
+    {
+      "start": 736.83,
+      "end": 739.27,
+      "raw_text": "然後凱翔你看他說在談這個",
+      "corrected_text": "然後凱翔你看他說在談這個"
+    },
+    {
+      "start": 739.27,
+      "end": 742.35,
+      "raw_text": "29年以後的一個NAND的一個賞成纏約",
+      "corrected_text": "29年以後的一個NAND的一個賞成纏約"
+    },
+    {
+      "start": 744.23,
+      "end": 745.07,
+      "raw_text": "然後另外EFA",
+      "corrected_text": "然後另外EFA"
+    },
+    {
+      "start": 746.11,
+      "end": 748.71,
+      "raw_text": "EFA這一塊是把碳耗歸類相關的帶起來",
+      "corrected_text": "EFA這一塊是把碳耗歸類相關的帶起來"
+    },
+    {
+      "start": 749.03,
+      "end": 751.55,
+      "raw_text": "就是直接把它的一個26年數據",
+      "corrected_text": "就是直接把它的一個26年數據"
+    },
+    {
+      "start": 751.87,
+      "end": 754.55,
+      "raw_text": "數據中心的一個營收指引直接翻倍",
+      "corrected_text": "數據中心的一個營收指引直接翻倍"
+    },
+    {
+      "start": 754.75,
+      "end": 756.11,
+      "raw_text": "之前指引五億美金",
+      "corrected_text": "之前指引五億美金"
+    },
+    {
+      "start": 757.43,
+      "end": 758.03,
+      "raw_text": "那你看",
+      "corrected_text": "那你看"
+    },
+    {
+      "start": 764.28,
+      "end": 765.92,
+      "raw_text": "對你看碳耗歸類相關的",
+      "corrected_text": "對你看碳耗歸類相關的"
+    },
+    {
+      "start": 766.44,
+      "end": 766.92,
+      "raw_text": "最近",
+      "corrected_text": "最近"
+    },
+    {
+      "start": 767.92,
+      "end": 772.08,
+      "raw_text": "對最近把碳耗歸相關的這三家",
+      "corrected_text": "對最近把碳耗歸相關的這三家"
+    },
+    {
+      "start": 772.08,
+      "end": 773.08,
+      "raw_text": "主要是這三家",
+      "corrected_text": "主要是這三家"
+    },
+    {
+      "start": 773.36,
+      "end": 776.6,
+      "raw_text": "EFA、英飛凌和安森美這三家是比較",
+      "corrected_text": "EFA、英飛凌和安森美這三家是比較"
+    },
+    {
+      "start": 776.92,
+      "end": 777.8,
+      "raw_text": "比較穩的",
+      "corrected_text": "比較穩的"
+    },
+    {
+      "start": 784.36,
+      "end": 786.88,
+      "raw_text": "然後英偉達、微軟R、PC新時代",
+      "corrected_text": "然後英偉達、微軟R、PC新時代"
+    },
+    {
+      "start": 789.56,
+      "end": 792.6,
+      "raw_text": "對包括Vera這一塊的一個CPU",
+      "corrected_text": "對包括Vera這一塊的一個CPU"
+    },
+    {
+      "start": 793.04,
+      "end": 796.48,
+      "raw_text": "去跟AMD跟英特爾去打",
+      "corrected_text": "去跟AMD跟英特爾去打"
+    },
+    {
+      "start": 799.58,
+      "end": 802.26,
+      "raw_text": "台積電今年下半年要調價",
+      "corrected_text": "台積電今年下半年要調價"
+    },
+    {
+      "start": 802.74,
+      "end": 804.7,
+      "raw_text": "大家要知道說台積電",
+      "corrected_text": "大家要知道說台積電"
+    },
+    {
+      "start": 805.02,
+      "end": 807.86,
+      "raw_text": "很罕見的一年內兩次調價",
+      "corrected_text": "很罕見的一年內兩次調價"
+    },
+    {
+      "start": 808.62,
+      "end": 810.34,
+      "raw_text": "它之前一般都是年初漲價",
+      "corrected_text": "它之前一般都是年初漲價"
+    },
+    {
+      "start": 810.9,
+      "end": 811.86,
+      "raw_text": "你要像現在",
+      "corrected_text": "你要像現在"
+    },
+    {
+      "start": 812.66,
+      "end": 814.02,
+      "raw_text": "為什麼下半年要漲價呢",
+      "corrected_text": "為什麼下半年要漲價呢"
+    },
+    {
+      "start": 814.02,
+      "end": 815.5,
+      "raw_text": "因為成本",
+      "corrected_text": "因為成本"
+    },
+    {
+      "start": 815.86,
+      "end": 816.78,
+      "raw_text": "成本有點高",
+      "corrected_text": "成本有點高"
+    },
+    {
+      "start": 816.78,
+      "end": 817.94,
+      "raw_text": "所以它也要漲價",
+      "corrected_text": "所以它也要漲價"
+    },
+    {
+      "start": 820.02,
+      "end": 822.66,
+      "raw_text": "我覺得比較大的成本還是那個",
+      "corrected_text": "我覺得比較大的成本還是那個"
+    },
+    {
+      "start": 825.18,
+      "end": 828.02,
+      "raw_text": "就是它通過不斷的去調價是能夠去",
+      "corrected_text": "就是它通過不斷的去調價是能夠去"
+    },
+    {
+      "start": 828.46,
+      "end": 831.02,
+      "raw_text": "包括主要是它的金主爸爸",
+      "corrected_text": "包括主要是它的金主爸爸"
+    },
+    {
+      "start": 831.34,
+      "end": 835.02,
+      "raw_text": "像你看金主爸爸現在是英偉達是最大的一個",
+      "corrected_text": "像你看金主爸爸現在是英偉達是最大的一個"
+    },
+    {
+      "start": 835.38,
+      "end": 837.7,
+      "raw_text": "最大的一個營收金主",
+      "corrected_text": "最大的一個營收金主"
+    },
+    {
+      "start": 838.86,
+      "end": 840.86,
+      "raw_text": "所以英偉達不缺錢",
+      "corrected_text": "所以英偉達不缺錢"
+    },
+    {
+      "start": 841.38,
+      "end": 843.94,
+      "raw_text": "所以台積電通過不斷的去調這個價",
+      "corrected_text": "所以台積電通過不斷的去調這個價"
+    },
+    {
+      "start": 844.22,
+      "end": 846.18,
+      "raw_text": "其實對英偉達來說不算什麼事",
+      "corrected_text": "其實對英偉達來說不算什麼事"
+    },
+    {
+      "start": 847.46,
+      "end": 848.94,
+      "raw_text": "而且也只能是",
+      "corrected_text": "而且也只能是"
+    },
+    {
+      "start": 849.22,
+      "end": 852.46,
+      "raw_text": "而且能供給這麼大的一個產能的供給",
+      "corrected_text": "而且能供給這麼大的一個產能的供給"
+    },
+    {
+      "start": 852.46,
+      "end": 854.18,
+      "raw_text": "其實只有台積電能勝任",
+      "corrected_text": "其實只有台積電能勝任"
+    },
+    {
+      "start": 856.23,
+      "end": 857.75,
+      "raw_text": "尤其是三星英特爾",
+      "corrected_text": "尤其是三星英特爾"
+    },
+    {
+      "start": 857.99,
+      "end": 860.55,
+      "raw_text": "其實是跟英偉達存在競爭關係",
+      "corrected_text": "其實是跟英偉達存在競爭關係"
+    },
+    {
+      "start": 861.03,
+      "end": 861.51,
+      "raw_text": "所以",
+      "corrected_text": "所以"
+    },
+    {
+      "start": 862.43,
+      "end": 864.99,
+      "raw_text": "英偉達也就只能綁定在台積電身上",
+      "corrected_text": "英偉達也就只能綁定在台積電身上"
+    },
+    {
+      "start": 865.23,
+      "end": 867.55,
+      "raw_text": "因為台積電是完全",
+      "corrected_text": "因為台積電是完全"
+    },
+    {
+      "start": 868.27,
+      "end": 869.55,
+      "raw_text": "不跟客戶做競爭的",
+      "corrected_text": "不跟客戶做競爭的"
+    },
+    {
+      "start": 872.07,
+      "end": 873.39,
+      "raw_text": "所以你看台積電",
+      "corrected_text": "所以你看台積電"
+    },
+    {
+      "start": 873.67,
+      "end": 876.07,
+      "raw_text": "為什麼之前一直說台積電是穩穩的幸福",
+      "corrected_text": "為什麼之前一直說台積電是穩穩的幸福"
+    },
+    {
+      "start": 876.07,
+      "end": 877.59,
+      "raw_text": "因為它每年漲價",
+      "corrected_text": "因為它每年漲價"
+    },
+    {
+      "start": 878.07,
+      "end": 879.67,
+      "raw_text": "現在變成一年兩漲價",
+      "corrected_text": "現在變成一年兩漲價"
+    },
+    {
+      "start": 880.07,
+      "end": 880.87,
+      "raw_text": "半年漲價",
+      "corrected_text": "半年漲價"
+    },
+    {
+      "start": 881.87,
+      "end": 882.75,
+      "raw_text": "所以很誇張",
+      "corrected_text": "所以很誇張"
+    },
+    {
+      "start": 883.03,
+      "end": 884.71,
+      "raw_text": "所以還是穩穩的幸福是台積電",
+      "corrected_text": "所以還是穩穩的幸福是台積電"
+    },
+    {
+      "start": 886.66,
+      "end": 889.34,
+      "raw_text": "所以就是我們說唯一性確定性壟斷性",
+      "corrected_text": "所以就是我們說唯一性確定性壟斷性"
+    },
+    {
+      "start": 889.66,
+      "end": 891.02,
+      "raw_text": "就是台積電AI裡面",
+      "corrected_text": "就是台積電AI裡面"
+    },
+    {
+      "start": 892.18,
+      "end": 893.02,
+      "raw_text": "沒有第二家",
+      "corrected_text": "沒有第二家"
+    },
+    {
+      "start": 896.72,
+      "end": 900.0,
+      "raw_text": "然後最近的那個SpaceX學的SpaceX上市",
+      "corrected_text": "然後最近的那個SpaceX學的SpaceX上市"
+    },
+    {
+      "start": 900.0,
+      "end": 902.64,
+      "raw_text": "其實這幾個都走弱了",
+      "corrected_text": "其實這幾個都走弱了"
+    },
+    {
+      "start": 903.4,
+      "end": 905.4,
+      "raw_text": "就相關的一個票都走弱了",
+      "corrected_text": "就相關的一個票都走弱了"
+    },
+    {
+      "start": 905.92,
+      "end": 906.6,
+      "raw_text": "就是",
+      "corrected_text": "就是"
+    },
+    {
+      "start": 907.6,
+      "end": 909.32,
+      "raw_text": "我感覺是提前去做一部對線",
+      "corrected_text": "我感覺是提前去做一部對線"
+    },
+    {
+      "start": 909.32,
+      "end": 913.0,
+      "raw_text": "然後到時候再看這個SpaceX上市的一個狀態是怎樣子",
+      "corrected_text": "然後到時候再看這個SpaceX上市的一個狀態是怎樣子"
+    },
+    {
+      "start": 913.68,
+      "end": 917.32,
+      "raw_text": "所以我覺得大家也可以提前去把這個做一些對線",
+      "corrected_text": "所以我覺得大家也可以提前去把這個做一些對線"
+    },
+    {
+      "start": 917.32,
+      "end": 918.96,
+      "raw_text": "然後等上市之後",
+      "corrected_text": "然後等上市之後"
+    },
+    {
+      "start": 919.24,
+      "end": 921.6,
+      "raw_text": "再看SpaceX上市的一個表現是怎樣子的",
+      "corrected_text": "再看SpaceX上市的一個表現是怎樣子的"
+    },
+    {
+      "start": 922.4,
+      "end": 922.64,
+      "raw_text": "對",
+      "corrected_text": "對"
+    },
+    {
+      "start": 923.2,
+      "end": 925.4,
+      "raw_text": "所以大概是這個大概是這樣子",
+      "corrected_text": "所以大概是這個大概是這樣子"
+    },
+    {
+      "start": 929.0,
+      "end": 930.84,
+      "raw_text": "然後說一下比特幣相關的",
+      "corrected_text": "然後說一下比特幣相關的"
+    },
+    {
+      "start": 930.88,
+      "end": 932.08,
+      "raw_text": "比特幣注意一下",
+      "corrected_text": "比特幣注意一下"
+    },
+    {
+      "start": 932.08,
+      "end": 934.32,
+      "raw_text": "MSDR都已經開始賣比特幣了",
+      "corrected_text": "MSDR都已經開始賣比特幣了"
+    },
+    {
+      "start": 935.0,
+      "end": 937.8,
+      "raw_text": "所以把這個情緒從情緒面來講",
+      "corrected_text": "所以把這個情緒從情緒面來講"
+    },
+    {
+      "start": 937.8,
+      "end": 940.04,
+      "raw_text": "它其實是它這波以賣",
+      "corrected_text": "它其實是它這波以賣"
+    },
+    {
+      "start": 940.72,
+      "end": 942.68,
+      "raw_text": "這個MSDR是那個",
+      "corrected_text": "這個MSDR是那個"
+    },
+    {
+      "start": 944.68,
+      "end": 945.88,
+      "raw_text": "就是螃蟹",
+      "corrected_text": "就是螃蟹"
+    },
+    {
+      "start": 946.52,
+      "end": 947.44,
+      "raw_text": "就是怎麼說呢",
+      "corrected_text": "就是怎麼說呢"
+    },
+    {
+      "start": 948.08,
+      "end": 948.6,
+      "raw_text": "就是",
+      "corrected_text": "就是"
+    },
+    {
+      "start": 949.76,
+      "end": 951.32,
+      "raw_text": "這一塊的一個",
+      "corrected_text": "這一塊的一個"
+    },
+    {
+      "start": 951.72,
+      "end": 953.36,
+      "raw_text": "就大家會盯著MSDR",
+      "corrected_text": "就大家會盯著MSDR"
+    },
+    {
+      "start": 953.48,
+      "end": 956.2,
+      "raw_text": "但MSDR自己都開始賣比特幣了",
+      "corrected_text": "但MSDR自己都開始賣比特幣了"
+    },
+    {
+      "start": 956.32,
+      "end": 960.36,
+      "raw_text": "就之前來講MSDR一直都是借錢去買比特幣",
+      "corrected_text": "就之前來講MSDR一直都是借錢去買比特幣"
+    },
+    {
+      "start": 960.56,
+      "end": 962.96,
+      "raw_text": "但現在他首次去賣比特幣了",
+      "corrected_text": "但現在他首次去賣比特幣了"
+    },
+    {
+      "start": 963.4,
+      "end": 965.24,
+      "raw_text": "所以大家要注意一下這個風險",
+      "corrected_text": "所以大家要注意一下這個風險"
+    },
+    {
+      "start": 965.24,
+      "end": 967.72,
+      "raw_text": "就是比特幣會加速去流出",
+      "corrected_text": "就是比特幣會加速去流出"
+    },
+    {
+      "start": 968.24,
+      "end": 969.72,
+      "raw_text": "尤其是之前跟大帥交流",
+      "corrected_text": "尤其是之前跟大帥交流"
+    },
+    {
+      "start": 969.72,
+      "end": 971.32,
+      "raw_text": "其實大帥也有提到一個點",
+      "corrected_text": "其實大帥也有提到一個點"
+    },
+    {
+      "start": 971.6,
+      "end": 973.84,
+      "raw_text": "就是因為現在的科技新貴的一個資金",
+      "corrected_text": "就是因為現在的科技新貴的一個資金"
+    },
+    {
+      "start": 974.16,
+      "end": 975.6,
+      "raw_text": "基本都在懟AI",
+      "corrected_text": "基本都在懟AI"
+    },
+    {
+      "start": 976.92,
+      "end": 979.6,
+      "raw_text": "包括像一些幣圈的一個大佬",
+      "corrected_text": "包括像一些幣圈的一個大佬"
+    },
+    {
+      "start": 979.6,
+      "end": 983.6,
+      "raw_text": "他其實也跑去做AI做存儲做光去了",
+      "corrected_text": "他其實也跑去做AI做存儲做光去了"
+    },
+    {
+      "start": 984.16,
+      "end": 985.0,
+      "raw_text": "所以這個",
+      "corrected_text": "所以這個"
+    },
+    {
+      "start": 985.44,
+      "end": 987.72,
+      "raw_text": "幣圈裡面其實是沒有資金",
+      "corrected_text": "幣圈裡面其實是沒有資金"
+    },
+    {
+      "start": 988.04,
+      "end": 990.08,
+      "raw_text": "沒有新貴的資金進入的",
+      "corrected_text": "沒有新貴的資金進入的"
+    },
+    {
+      "start": 990.96,
+      "end": 993.44,
+      "raw_text": "所以幣圈要多注意一下",
+      "corrected_text": "所以幣圈要多注意一下"
+    },
+    {
+      "start": 993.8,
+      "end": 995.8,
+      "raw_text": "就是至少從資金層面來講",
+      "corrected_text": "就是至少從資金層面來講"
+    },
+    {
+      "start": 995.8,
+      "end": 998.64,
+      "raw_text": "沒有新進的一個資金去在裡面去做",
+      "corrected_text": "沒有新進的一個資金去在裡面去做"
+    },
+    {
+      "start": 998.8,
+      "end": 1000.88,
+      "raw_text": "因為大家都去跑去做AI去了",
+      "corrected_text": "因為大家都去跑去做AI去了"
+    },
+    {
+      "start": 1006.6,
+      "end": 1008.92,
+      "raw_text": "然後IGV最近其實是",
+      "corrected_text": "然後IGV最近其實是"
+    },
+    {
+      "start": 1009.6,
+      "end": 1010.36,
+      "raw_text": "你可以看到",
+      "corrected_text": "你可以看到"
+    },
+    {
+      "start": 1010.76,
+      "end": 1012.24,
+      "raw_text": "很強的一個翹翹靶下意",
+      "corrected_text": "很強的一個翹翹靶下意"
+    },
+    {
+      "start": 1012.52,
+      "end": 1014.56,
+      "raw_text": "就是半導體漲的時候",
+      "corrected_text": "就是半導體漲的時候"
+    },
+    {
+      "start": 1015.08,
+      "end": 1016.56,
+      "raw_text": "半導體強的時候",
+      "corrected_text": "半導體強的時候"
+    },
+    {
+      "start": 1016.56,
+      "end": 1020.16,
+      "raw_text": "包括你看這周其實就是麥威爾特別強",
+      "corrected_text": "包括你看這周其實就是麥威爾特別強"
+    },
+    {
+      "start": 1020.68,
+      "end": 1022.88,
+      "raw_text": "把很多的資金都吸過去了",
+      "corrected_text": "把很多的資金都吸過去了"
+    },
+    {
+      "start": 1023.0,
+      "end": 1025.52,
+      "raw_text": "麥威爾帶動了整個的一個光通性相關的",
+      "corrected_text": "麥威爾帶動了整個的一個光通性相關的"
+    },
+    {
+      "start": 1025.88,
+      "end": 1027.36,
+      "raw_text": "吸了不少資金去",
+      "corrected_text": "吸了不少資金去"
+    },
+    {
+      "start": 1027.68,
+      "end": 1029.4,
+      "raw_text": "所以你看IGV就成了雪包",
+      "corrected_text": "所以你看IGV就成了雪包"
+    },
+    {
+      "start": 1030.4,
+      "end": 1033.4,
+      "raw_text": "然後像之前半導體稍稍走弱的時候",
+      "corrected_text": "然後像之前半導體稍稍走弱的時候"
+    },
+    {
+      "start": 1033.92,
+      "end": 1036.68,
+      "raw_text": "半導體就成了雪包給IGV去漲",
+      "corrected_text": "半導體就成了雪包給IGV去漲"
+    },
+    {
+      "start": 1037.4,
+      "end": 1039.28,
+      "raw_text": "所以是有一個翹翹靶下意在裡面",
+      "corrected_text": "所以是有一個翹翹靶下意在裡面"
+    },
+    {
+      "start": 1039.76,
+      "end": 1041.28,
+      "raw_text": "而且我們跟大家說",
+      "corrected_text": "而且我們跟大家說"
+    },
+    {
+      "start": 1041.28,
+      "end": 1043.76,
+      "raw_text": "IGV就是軟件這一塊",
+      "corrected_text": "IGV就是軟件這一塊"
+    },
+    {
+      "start": 1043.88,
+      "end": 1045.52,
+      "raw_text": "如果說大家的配置",
+      "corrected_text": "如果說大家的配置"
+    },
+    {
+      "start": 1045.76,
+      "end": 1046.56,
+      "raw_text": "倉位比",
+      "corrected_text": "倉位比"
+    },
+    {
+      "start": 1047.76,
+      "end": 1049.16,
+      "raw_text": "超過10%的話",
+      "corrected_text": "超過10%的話"
+    },
+    {
+      "start": 1049.44,
+      "end": 1052.64,
+      "raw_text": "我會建議大家把倉位給降到10%",
+      "corrected_text": "我會建議大家把倉位給降到10%"
+    },
+    {
+      "start": 1053.0,
+      "end": 1054.08,
+      "raw_text": "或者百分之以下",
+      "corrected_text": "或者百分之以下"
+    },
+    {
+      "start": 1054.68,
+      "end": 1055.44,
+      "raw_text": "會好一點",
+      "corrected_text": "會好一點"
+    },
+    {
+      "start": 1055.84,
+      "end": 1058.36,
+      "raw_text": "因為現在的一個主要的一個狀態",
+      "corrected_text": "因為現在的一個主要的一個狀態"
+    },
+    {
+      "start": 1058.36,
+      "end": 1059.76,
+      "raw_text": "還是在硬件端",
+      "corrected_text": "還是在硬件端"
+    },
+    {
+      "start": 1061.32,
+      "end": 1063.28,
+      "raw_text": "因為我們不確定說後面",
+      "corrected_text": "因為我們不確定說後面"
+    },
+    {
+      "start": 1063.56,
+      "end": 1066.04,
+      "raw_text": "比如說一些巨頭又要出發新模型了",
+      "corrected_text": "比如說一些巨頭又要出發新模型了"
+    },
+    {
+      "start": 1066.36,
+      "end": 1069.64,
+      "raw_text": "會不會又來一波這個IGV的一個衝擊在裡面",
+      "corrected_text": "會不會又來一波這個IGV的一個衝擊在裡面"
+    },
+    {
+      "start": 1070.28,
+      "end": 1071.72,
+      "raw_text": "尤其是另外就是",
+      "corrected_text": "尤其是另外就是"
+    },
+    {
+      "start": 1072.0,
+      "end": 1074.12,
+      "raw_text": "你看這個網安這三家",
+      "corrected_text": "你看這個網安這三家"
+    },
+    {
+      "start": 1074.36,
+      "end": 1076.32,
+      "raw_text": "這三家網安其實漲得很快",
+      "corrected_text": "這三家網安其實漲得很快"
+    },
+    {
+      "start": 1076.84,
+      "end": 1079.44,
+      "raw_text": "尤其是CWB它從底部反彈",
+      "corrected_text": "尤其是CWB它從底部反彈"
+    },
+    {
+      "start": 1079.68,
+      "end": 1080.64,
+      "raw_text": "從4月13吧",
+      "corrected_text": "從4月13吧"
+    },
+    {
+      "start": 1080.64,
+      "end": 1081.84,
+      "raw_text": "從4月13反彈起來",
+      "corrected_text": "從4月13反彈起來"
+    },
+    {
+      "start": 1081.84,
+      "end": 1084.04,
+      "raw_text": "有個翻倍的一個漲幅",
+      "corrected_text": "有個翻倍的一個漲幅"
+    },
+    {
+      "start": 1085.08,
+      "end": 1087.48,
+      "raw_text": "然後它財報後跌10%",
+      "corrected_text": "然後它財報後跌10%"
+    },
+    {
+      "start": 1087.76,
+      "end": 1088.76,
+      "raw_text": "我覺得是合理的",
+      "corrected_text": "我覺得是合理的"
+    },
+    {
+      "start": 1090.6,
+      "end": 1092.88,
+      "raw_text": "所以就是網路安全這一塊是",
+      "corrected_text": "所以就是網路安全這一塊是"
+    },
+    {
+      "start": 1093.12,
+      "end": 1094.64,
+      "raw_text": "我覺得是會有一段時間",
+      "corrected_text": "我覺得是會有一段時間"
+    },
+    {
+      "start": 1094.64,
+      "end": 1095.96,
+      "raw_text": "需要去做一個兌現",
+      "corrected_text": "需要去做一個兌現"
+    },
+    {
+      "start": 1096.36,
+      "end": 1096.92,
+      "raw_text": "在裡面",
+      "corrected_text": "在裡面"
+    },
+    {
+      "start": 1098.72,
+      "end": 1101.32,
+      "raw_text": "就畢竟4月13到現在",
+      "corrected_text": "就畢竟4月13到現在"
+    },
+    {
+      "start": 1101.68,
+      "end": 1103.4,
+      "raw_text": "不到兩個月漲翻倍",
+      "corrected_text": "不到兩個月漲翻倍"
+    },
+    {
+      "start": 1104.24,
+      "end": 1105.24,
+      "raw_text": "所以很誇張",
+      "corrected_text": "所以很誇張"
+    },
+    {
+      "start": 1109.92,
+      "end": 1110.64,
+      "raw_text": "我們看一下",
+      "corrected_text": "我們看一下"
+    },
+    {
+      "start": 1119.47,
+      "end": 1120.11,
+      "raw_text": "給大家看一下",
+      "corrected_text": "給大家看一下"
+    },
+    {
+      "start": 1120.95,
+      "end": 1122.79,
+      "raw_text": "你看這個圖其實我們之前講過",
+      "corrected_text": "你看這個圖其實我們之前講過"
+    },
+    {
+      "start": 1123.71,
+      "end": 1125.23,
+      "raw_text": "就是它的陡峭程度",
+      "corrected_text": "就是它的陡峭程度"
+    },
+    {
+      "start": 1125.87,
+      "end": 1126.83,
+      "raw_text": "很誇張",
+      "corrected_text": "很誇張"
+    },
+    {
+      "start": 1127.47,
+      "end": 1130.51,
+      "raw_text": "陡峭程度甚至超過了之前的AMD",
+      "corrected_text": "陡峭程度甚至超過了之前的AMD"
+    },
+    {
+      "start": 1134.07,
+      "end": 1134.55,
+      "raw_text": "你看",
+      "corrected_text": "你看"
+    },
+    {
+      "start": 1135.55,
+      "end": 1137.47,
+      "raw_text": "AMD還稍微滑一些",
+      "corrected_text": "AMD還稍微滑一些"
+    },
+    {
+      "start": 1137.99,
+      "end": 1139.47,
+      "raw_text": "感覺是15度角左右",
+      "corrected_text": "感覺是15度角左右"
+    },
+    {
+      "start": 1139.87,
+      "end": 1141.79,
+      "raw_text": "然後CWD是30度角",
+      "corrected_text": "然後CWD是30度角"
+    },
+    {
+      "start": 1145.93,
+      "end": 1147.45,
+      "raw_text": "你看非常陡峭",
+      "corrected_text": "你看非常陡峭"
+    },
+    {
+      "start": 1147.81,
+      "end": 1149.09,
+      "raw_text": "基本上30度角有點",
+      "corrected_text": "基本上30度角有點"
+    },
+    {
+      "start": 1150.01,
+      "end": 1151.37,
+      "raw_text": "所以它從底部",
+      "corrected_text": "所以它從底部"
+    },
+    {
+      "start": 1151.77,
+      "end": 1153.53,
+      "raw_text": "我們可以直接從這裡開始",
+      "corrected_text": "我們可以直接從這裡開始"
+    },
+    {
+      "start": 1154.33,
+      "end": 1155.13,
+      "raw_text": "基本上是翻倍",
+      "corrected_text": "基本上是翻倍"
+    },
+    {
+      "start": 1156.01,
+      "end": 1156.69,
+      "raw_text": "基本上是翻倍",
+      "corrected_text": "基本上是翻倍"
+    },
+    {
+      "start": 1156.69,
+      "end": 1157.61,
+      "raw_text": "翻倍到現在",
+      "corrected_text": "翻倍到現在"
+    },
+    {
+      "start": 1158.13,
+      "end": 1159.85,
+      "raw_text": "我覺得是需要做一步兌現的",
+      "corrected_text": "我覺得是需要做一步兌現的"
+    },
+    {
+      "start": 1159.85,
+      "end": 1160.29,
+      "raw_text": "所以",
+      "corrected_text": "所以"
+    },
+    {
+      "start": 1160.57,
+      "end": 1162.57,
+      "raw_text": "IGV我覺得大家如果說",
+      "corrected_text": "IGV我覺得大家如果說"
+    },
+    {
+      "start": 1163.41,
+      "end": 1165.29,
+      "raw_text": "你的倉位超過10%的話",
+      "corrected_text": "你的倉位超過10%的話"
+    },
+    {
+      "start": 1165.41,
+      "end": 1166.37,
+      "raw_text": "減到10%以內",
+      "corrected_text": "減到10%以內"
+    },
+    {
+      "start": 1167.25,
+      "end": 1169.61,
+      "raw_text": "如果你倉位在10%以內的話",
+      "corrected_text": "如果你倉位在10%以內的話"
+    },
+    {
+      "start": 1169.61,
+      "end": 1170.37,
+      "raw_text": "我覺得OK",
+      "corrected_text": "我覺得OK"
+    },
+    {
+      "start": 1170.85,
+      "end": 1171.45,
+      "raw_text": "我覺得OK",
+      "corrected_text": "我覺得OK"
+    },
+    {
+      "start": 1172.37,
+      "end": 1175.45,
+      "raw_text": "因為我們需要把更多的優先機配給硬件",
+      "corrected_text": "因為我們需要把更多的優先機配給硬件"
+    },
+    {
+      "start": 1176.01,
+      "end": 1177.89,
+      "raw_text": "需要把更多的硬先機配給硬件",
+      "corrected_text": "需要把更多的硬先機配給硬件"
+    },
+    {
+      "start": 1178.81,
+      "end": 1180.33,
+      "raw_text": "現在買什麼合適",
+      "corrected_text": "現在買什麼合適"
+    },
+    {
+      "start": 1180.33,
+      "end": 1180.93,
+      "raw_text": "現在",
+      "corrected_text": "現在"
+    },
+    {
+      "start": 1183.9,
+      "end": 1187.06,
+      "raw_text": "說實話我還是覺得有點高",
+      "corrected_text": "說實話我還是覺得有點高"
+    },
+    {
+      "start": 1189.94,
+      "end": 1192.22,
+      "raw_text": "就是它基本不給你回調的機會",
+      "corrected_text": "就是它基本不給你回調的機會"
+    },
+    {
+      "start": 1194.1,
+      "end": 1196.9,
+      "raw_text": "如果你硬要說你要配的話就D-RUN",
+      "corrected_text": "如果你硬要說你要配的話就D-RUN"
+    },
+    {
+      "start": 1197.42,
+      "end": 1198.42,
+      "raw_text": "就其實就是D-RUN",
+      "corrected_text": "就其實就是D-RUN"
+    },
+    {
+      "start": 1199.5,
+      "end": 1201.66,
+      "raw_text": "就因為D-RUN其實是一籃子",
+      "corrected_text": "就因為D-RUN其實是一籃子"
+    },
+    {
+      "start": 1202.18,
+      "end": 1202.9,
+      "raw_text": "就一籃子",
+      "corrected_text": "就一籃子"
+    },
+    {
+      "start": 1204.14,
+      "end": 1206.58,
+      "raw_text": "然後你說個股層面的話其實就是美光",
+      "corrected_text": "然後你說個股層面的話其實就是美光"
+    },
+    {
+      "start": 1207.3,
+      "end": 1208.82,
+      "raw_text": "因為從這個",
+      "corrected_text": "因為從這個"
+    },
+    {
+      "start": 1209.18,
+      "end": 1211.42,
+      "raw_text": "因為NAND其實國內也可以做",
+      "corrected_text": "因為NAND其實國內也可以做"
+    },
+    {
+      "start": 1212.38,
+      "end": 1215.14,
+      "raw_text": "如果後面NAND國內的產能爆發之後",
+      "corrected_text": "如果後面NAND國內的產能爆發之後"
+    },
+    {
+      "start": 1215.14,
+      "end": 1219.02,
+      "raw_text": "其實散迪相關的這個其實會受衝擊的",
+      "corrected_text": "其實散迪相關的這個其實會受衝擊的"
+    },
+    {
+      "start": 1219.94,
+      "end": 1223.94,
+      "raw_text": "所以其實從這個產能的一個角度來講",
+      "corrected_text": "所以其實從這個產能的一個角度來講"
+    },
+    {
+      "start": 1224.46,
+      "end": 1226.02,
+      "raw_text": "美光其實是比較好的",
+      "corrected_text": "美光其實是比較好的"
+    },
+    {
+      "start": 1226.02,
+      "end": 1227.94,
+      "raw_text": "如果你單純說個股相關的",
+      "corrected_text": "如果你單純說個股相關的"
+    },
+    {
+      "start": 1228.3,
+      "end": 1229.98,
+      "raw_text": "就美股的個股相關的話",
+      "corrected_text": "就美股的個股相關的話"
+    },
+    {
+      "start": 1230.22,
+      "end": 1230.94,
+      "raw_text": "就是美光",
+      "corrected_text": "就是美光"
+    },
+    {
+      "start": 1232.18,
+      "end": 1233.9,
+      "raw_text": "你說ETF的話就是D-RUN",
+      "corrected_text": "你說ETF的話就是D-RUN"
+    },
+    {
+      "start": 1234.54,
+      "end": 1235.7,
+      "raw_text": "因為它就是一籃子",
+      "corrected_text": "因為它就是一籃子"
+    },
+    {
+      "start": 1236.18,
+      "end": 1237.1,
+      "raw_text": "都一網打盡",
+      "corrected_text": "都一網打盡"
+    },
+    {
+      "start": 1238.3,
+      "end": 1239.62,
+      "raw_text": "對就這兩個",
+      "corrected_text": "對就這兩個"
+    },
+    {
+      "start": 1240.82,
+      "end": 1242.54,
+      "raw_text": "但你說什麼位置加",
+      "corrected_text": "但你說什麼位置加"
+    },
+    {
+      "start": 1243.74,
+      "end": 1245.74,
+      "raw_text": "說實話你",
+      "corrected_text": "說實話你"
+    },
+    {
+      "start": 1248.37,
+      "end": 1250.57,
+      "raw_text": "嗯主要是它沒有回調",
+      "corrected_text": "嗯主要是它沒有回調"
+    },
+    {
+      "start": 1250.89,
+      "end": 1253.77,
+      "raw_text": "基本沒給你回調的一個空間給到你",
+      "corrected_text": "基本沒給你回調的一個空間給到你"
+    },
+    {
+      "start": 1254.29,
+      "end": 1255.73,
+      "raw_text": "也沒怎麼調說實話",
+      "corrected_text": "也沒怎麼調說實話"
+    },
+    {
+      "start": 1256.45,
+      "end": 1257.89,
+      "raw_text": "那這一輪也沒怎麼調",
+      "corrected_text": "那這一輪也沒怎麼調"
+    },
+    {
+      "start": 1260.7,
+      "end": 1262.14,
+      "raw_text": "所以呃",
+      "corrected_text": "所以呃"
+    },
+    {
+      "start": 1264.29,
+      "end": 1267.13,
+      "raw_text": "我覺得你如果手上完全沒有倉位的話",
+      "corrected_text": "我覺得你如果手上完全沒有倉位的話"
+    },
+    {
+      "start": 1267.57,
+      "end": 1269.41,
+      "raw_text": "先這樣搞一點先這樣搞一點",
+      "corrected_text": "先這樣搞一點先這樣搞一點"
+    },
+    {
+      "start": 1270.13,
+      "end": 1271.53,
+      "raw_text": "就趁著這一波",
+      "corrected_text": "就趁著這一波"
+    },
+    {
+      "start": 1271.85,
+      "end": 1272.61,
+      "raw_text": "博通吧",
+      "corrected_text": "博通吧"
+    },
+    {
+      "start": 1272.61,
+      "end": 1275.61,
+      "raw_text": "趁著這一波博通其實是把整個硬件端的",
+      "corrected_text": "趁著這一波博通其實是把整個硬件端的"
+    },
+    {
+      "start": 1275.81,
+      "end": 1277.57,
+      "raw_text": "情緒打了一打了一波",
+      "corrected_text": "情緒打了一打了一波"
+    },
+    {
+      "start": 1278.25,
+      "end": 1280.21,
+      "raw_text": "我覺得可以趁著這一波",
+      "corrected_text": "我覺得可以趁著這一波"
+    },
+    {
+      "start": 1280.21,
+      "end": 1281.81,
+      "raw_text": "博通的回調可以搞一點",
+      "corrected_text": "博通的回調可以搞一點"
+    },
+    {
+      "start": 1282.29,
+      "end": 1282.61,
+      "raw_text": "對",
+      "corrected_text": "對"
+    },
+    {
+      "start": 1283.61,
+      "end": 1285.93,
+      "raw_text": "呃然後分批加吧分批加吧",
+      "corrected_text": "呃然後分批加吧分批加吧"
+    },
+    {
+      "start": 1288.11,
+      "end": 1288.43,
+      "raw_text": "對",
+      "corrected_text": "對"
+    },
+    {
+      "start": 1291.27,
+      "end": 1294.19,
+      "raw_text": "對然後最弱的還是MHGS相關的",
+      "corrected_text": "對然後最弱的還是MHGS相關的"
+    },
+    {
+      "start": 1295.71,
+      "end": 1299.71,
+      "raw_text": "然後其實微軟最近走的看一下",
+      "corrected_text": "然後其實微軟最近走的看一下"
+    },
+    {
+      "start": 1304.1,
+      "end": 1305.62,
+      "raw_text": "微軟最近走的也不行",
+      "corrected_text": "微軟最近走的也不行"
+    },
+    {
+      "start": 1306.38,
+      "end": 1310.14,
+      "raw_text": "現在有那個英偉達去跟他一起去推這個PC的",
+      "corrected_text": "現在有那個英偉達去跟他一起去推這個PC的"
+    },
+    {
+      "start": 1310.34,
+      "end": 1311.54,
+      "raw_text": "但還是走得很差",
+      "corrected_text": "但還是走得很差"
+    },
+    {
+      "start": 1311.78,
+      "end": 1312.66,
+      "raw_text": "還是走得很差",
+      "corrected_text": "還是走得很差"
+    },
+    {
+      "start": 1312.9,
+      "end": 1314.74,
+      "raw_text": "然後甲骨人走的還好一點",
+      "corrected_text": "然後甲骨人走的還好一點"
+    },
+    {
+      "start": 1321.3,
+      "end": 1322.46,
+      "raw_text": "甲骨人走還行",
+      "corrected_text": "甲骨人走還行"
+    },
+    {
+      "start": 1325.91,
+      "end": 1327.35,
+      "raw_text": "大家看這個",
+      "corrected_text": "大家看這個"
+    },
+    {
+      "start": 1327.95,
+      "end": 1330.75,
+      "raw_text": "你看底部起來也是66.8%",
+      "corrected_text": "你看底部起來也是66.8%"
+    },
+    {
+      "start": 1330.95,
+      "end": 1332.79,
+      "raw_text": "其實主要是跟著IGB在走",
+      "corrected_text": "其實主要是跟著IGB在走"
+    },
+    {
+      "start": 1333.19,
+      "end": 1334.27,
+      "raw_text": "跟著IGB在走",
+      "corrected_text": "跟著IGB在走"
+    },
+    {
+      "start": 1340.18,
+      "end": 1341.86,
+      "raw_text": "所以甲骨人這個位置",
+      "corrected_text": "所以甲骨人這個位置"
+    },
+    {
+      "start": 1341.86,
+      "end": 1344.78,
+      "raw_text": "我覺得他其實也就回到了",
+      "corrected_text": "我覺得他其實也就回到了"
+    },
+    {
+      "start": 1345.1,
+      "end": 1346.78,
+      "raw_text": "呃日坑年線以上",
+      "corrected_text": "呃日坑年線以上"
+    },
+    {
+      "start": 1347.02,
+      "end": 1349.74,
+      "raw_text": "所以我覺得大家如果想加甲骨人的話",
+      "corrected_text": "所以我覺得大家如果想加甲骨人的話"
+    },
+    {
+      "start": 1349.74,
+      "end": 1350.86,
+      "raw_text": "在年線附近",
+      "corrected_text": "在年線附近"
+    },
+    {
+      "start": 1351.3,
+      "end": 1352.94,
+      "raw_text": "年線現在是210附近",
+      "corrected_text": "年線現在是210附近"
+    },
+    {
+      "start": 1353.14,
+      "end": 1354.9,
+      "raw_text": "所以就年線附近你可以加",
+      "corrected_text": "所以就年線附近你可以加"
+    },
+    {
+      "start": 1355.62,
+      "end": 1356.42,
+      "raw_text": "就甲骨人",
+      "corrected_text": "就甲骨人"
+    },
+    {
+      "start": 1359.98,
+      "end": 1362.62,
+      "raw_text": "但甲骨人肯定不是彈性的首選",
+      "corrected_text": "但甲骨人肯定不是彈性的首選"
+    },
+    {
+      "start": 1362.86,
+      "end": 1364.18,
+      "raw_text": "肯定不是彈性的首選",
+      "corrected_text": "肯定不是彈性的首選"
+    },
+    {
+      "start": 1368.63,
+      "end": 1370.35,
+      "raw_text": "對然後",
+      "corrected_text": "對然後"
+    },
+    {
+      "start": 1377.28,
+      "end": 1379.96,
+      "raw_text": "對然後你看其實這裡剛剛其實我們講過了",
+      "corrected_text": "對然後你看其實這裡剛剛其實我們講過了"
+    },
+    {
+      "start": 1379.96,
+      "end": 1381.88,
+      "raw_text": "其實本質上PC行業就是說",
+      "corrected_text": "其實本質上PC行業就是說"
+    },
+    {
+      "start": 1382.12,
+      "end": 1385.36,
+      "raw_text": "英偉達ARM加微軟去對抗英特爾跟AMD",
+      "corrected_text": "英偉達ARM加微軟去對抗英特爾跟AMD"
+    },
+    {
+      "start": 1385.64,
+      "end": 1388.24,
+      "raw_text": "然後這兩個是其實會被被衰弱",
+      "corrected_text": "然後這兩個是其實會被被衰弱"
+    },
+    {
+      "start": 1388.68,
+      "end": 1392.2,
+      "raw_text": "我們看一下這兩家巨頭未來三年內可能會被",
+      "corrected_text": "我們看一下這兩家巨頭未來三年內可能會被"
+    },
+    {
+      "start": 1392.56,
+      "end": 1395.64,
+      "raw_text": "侵蝕15%到25%的一個市場份額",
+      "corrected_text": "侵蝕15%到25%的一個市場份額"
+    },
+    {
+      "start": 1396.04,
+      "end": 1398.88,
+      "raw_text": "在這個高端和高碼率的一個市場裡面",
+      "corrected_text": "在這個高端和高碼率的一個市場裡面"
+    },
+    {
+      "start": 1400.94,
+      "end": 1403.62,
+      "raw_text": "然後唯一受益的就是存儲跟ARM",
+      "corrected_text": "然後唯一受益的就是存儲跟ARM"
+    },
+    {
+      "start": 1404.22,
+      "end": 1404.86,
+      "raw_text": "存儲跟ARM",
+      "corrected_text": "存儲跟ARM"
+    },
+    {
+      "start": 1405.42,
+      "end": 1406.9,
+      "raw_text": "因為APC這一塊",
+      "corrected_text": "因為APC這一塊"
+    },
+    {
+      "start": 1407.82,
+      "end": 1409.9,
+      "raw_text": "其實存儲的一個增量就在這裡",
+      "corrected_text": "其實存儲的一個增量就在這裡"
+    },
+    {
+      "start": 1410.22,
+      "end": 1412.3,
+      "raw_text": "就PC AIPC相關的",
+      "corrected_text": "就PC AIPC相關的"
+    },
+    {
+      "start": 1412.62,
+      "end": 1415.82,
+      "raw_text": "然後ARM不用說就是因為英偉達用的是ARM架構",
+      "corrected_text": "然後ARM不用說就是因為英偉達用的是ARM架構"
+    },
+    {
+      "start": 1417.02,
+      "end": 1420.74,
+      "raw_text": "然後老黃這個台北的一個2026的GTC演講",
+      "corrected_text": "然後老黃這個台北的一個2026的GTC演講"
+    },
+    {
+      "start": 1421.06,
+      "end": 1424.74,
+      "raw_text": "其實講的還是還是五層五層蛋糕理論",
+      "corrected_text": "其實講的還是還是五層五層蛋糕理論"
+    },
+    {
+      "start": 1425.46,
+      "end": 1428.7,
+      "raw_text": "然後還是代工然後GPU HBM4",
+      "corrected_text": "然後還是代工然後GPU HBM4"
+    },
+    {
+      "start": 1429.02,
+      "end": 1430.7,
+      "raw_text": "就是還是散碟跟鎂光",
+      "corrected_text": "就是還是散碟跟鎂光"
+    },
+    {
+      "start": 1430.9,
+      "end": 1432.7,
+      "raw_text": "然後剛剛說的就是",
+      "corrected_text": "然後剛剛說的就是"
+    },
+    {
+      "start": 1433.06,
+      "end": 1436.3,
+      "raw_text": "主要如果要選一個的話就是鎂光還有DRAM",
+      "corrected_text": "主要如果要選一個的話就是鎂光還有DRAM"
+    },
+    {
+      "start": 1437.26,
+      "end": 1439.02,
+      "raw_text": "就個股相關的話就是鎂光和DRAM",
+      "corrected_text": "就個股相關的話就是鎂光和DRAM"
+    },
+    {
+      "start": 1439.5,
+      "end": 1441.9,
+      "raw_text": "鎂股這裡就是鎂光和DRAM",
+      "corrected_text": "鎂股這裡就是鎂光和DRAM"
+    },
+    {
+      "start": 1442.5,
+      "end": 1443.22,
+      "raw_text": "以及葉藍",
+      "corrected_text": "以及葉藍"
+    },
+    {
+      "start": 1446.14,
+      "end": 1447.9,
+      "raw_text": "然後這裡是一些邏輯的分析",
+      "corrected_text": "然後這裡是一些邏輯的分析"
+    },
+    {
+      "start": 1447.9,
+      "end": 1451.5,
+      "raw_text": "為什麼說還是存儲在一個新的增量在裡面",
+      "corrected_text": "為什麼說還是存儲在一個新的增量在裡面"
+    },
+    {
+      "start": 1453.1,
+      "end": 1455.74,
+      "raw_text": "然後台積電不管怎麼變",
+      "corrected_text": "然後台積電不管怎麼變"
+    },
+    {
+      "start": 1456.14,
+      "end": 1458.42,
+      "raw_text": "這些都是板定台積電3nm",
+      "corrected_text": "這些都是板定台積電3nm"
+    },
+    {
+      "start": 1459.34,
+      "end": 1461.02,
+      "raw_text": "然後先進封裝這一塊",
+      "corrected_text": "然後先進封裝這一塊"
+    },
+    {
+      "start": 1461.34,
+      "end": 1464.74,
+      "raw_text": "英偉達那個台積電也是先進封裝",
+      "corrected_text": "英偉達那個台積電也是先進封裝"
+    },
+    {
+      "start": 1464.74,
+      "end": 1466.14,
+      "raw_text": "CoreOS先進封裝",
+      "corrected_text": "CoreOS先進封裝"
+    },
+    {
+      "start": 1466.66,
+      "end": 1469.42,
+      "raw_text": "所以就是不管它的架構怎麼變",
+      "corrected_text": "所以就是不管它的架構怎麼變"
+    },
+    {
+      "start": 1469.78,
+      "end": 1472.46,
+      "raw_text": "先進製程包括先進封裝這一塊",
+      "corrected_text": "先進製程包括先進封裝這一塊"
+    },
+    {
+      "start": 1473.06,
+      "end": 1474.46,
+      "raw_text": "台積電永遠是受益的",
+      "corrected_text": "台積電永遠是受益的"
+    },
+    {
+      "start": 1476.48,
+      "end": 1478.24,
+      "raw_text": "然後這個還是說存儲的",
+      "corrected_text": "然後這個還是說存儲的"
+    },
+    {
+      "start": 1479.24,
+      "end": 1480.08,
+      "raw_text": "還是說存儲",
+      "corrected_text": "還是說存儲"
+    },
+    {
+      "start": 1480.6,
+      "end": 1483.68,
+      "raw_text": "所以台積電還是三星鎂光",
+      "corrected_text": "所以台積電還是三星鎂光"
+    },
+    {
+      "start": 1485.0,
+      "end": 1485.8,
+      "raw_text": "還是受益",
+      "corrected_text": "還是受益"
+    },
+    {
+      "start": 1486.68,
+      "end": 1489.16,
+      "raw_text": "然後沉壓者是高通AMD跟英特爾",
+      "corrected_text": "然後沉壓者是高通AMD跟英特爾"
+    },
+    {
+      "start": 1490.12,
+      "end": 1494.32,
+      "raw_text": "因為老黃直接推的這個是Vero",
+      "corrected_text": "因為老黃直接推的這個是Vero"
+    },
+    {
+      "start": 1494.72,
+      "end": 1496.24,
+      "raw_text": "就是AMD的一個PC芯片",
+      "corrected_text": "就是AMD的一個PC芯片"
+    },
+    {
+      "start": 1496.8,
+      "end": 1501.32,
+      "raw_text": "它其實是能夠去直接對這種X86的巨頭",
+      "corrected_text": "它其實是能夠去直接對這種X86的巨頭"
+    },
+    {
+      "start": 1501.88,
+      "end": 1503.24,
+      "raw_text": "去形成一個衝擊的",
+      "corrected_text": "去形成一個衝擊的"
+    },
+    {
+      "start": 1503.72,
+      "end": 1507.2,
+      "raw_text": "以及說高通其實在PC領域也有一定的一個",
+      "corrected_text": "以及說高通其實在PC領域也有一定的一個"
+    },
+    {
+      "start": 1507.68,
+      "end": 1509.24,
+      "raw_text": "一定的一個產品在裡面",
+      "corrected_text": "一定的一個產品在裡面"
+    },
+    {
+      "start": 1509.96,
+      "end": 1512.96,
+      "raw_text": "所以其實老黃這個產品一推出來",
+      "corrected_text": "所以其實老黃這個產品一推出來"
+    },
+    {
+      "start": 1512.96,
+      "end": 1515.64,
+      "raw_text": "其實是直接對這三家進行一個衝擊的",
+      "corrected_text": "其實是直接對這三家進行一個衝擊的"
+    },
+    {
+      "start": 1516.6,
+      "end": 1522.76,
+      "raw_text": "但AMD和英特爾至少這兩家在這個領域",
+      "corrected_text": "但AMD和英特爾至少這兩家在這個領域"
+    },
+    {
+      "start": 1522.96,
+      "end": 1524.4,
+      "raw_text": "已經升更了幾十年了",
+      "corrected_text": "已經升更了幾十年了"
+    },
+    {
+      "start": 1524.92,
+      "end": 1528.64,
+      "raw_text": "所以要想把它完全打垮的話",
+      "corrected_text": "所以要想把它完全打垮的話"
+    },
+    {
+      "start": 1528.64,
+      "end": 1529.72,
+      "raw_text": "沒有那麼容易",
+      "corrected_text": "沒有那麼容易"
+    },
+    {
+      "start": 1530.44,
+      "end": 1532.52,
+      "raw_text": "但肯定會搶一些份額在裡面",
+      "corrected_text": "但肯定會搶一些份額在裡面"
+    },
+    {
+      "start": 1535.35,
+      "end": 1536.87,
+      "raw_text": "所以這是這一塊",
+      "corrected_text": "所以這是這一塊"
+    },
+    {
+      "start": 1537.71,
+      "end": 1540.71,
+      "raw_text": "所以高通AMD跟英特爾最近走得比較差",
+      "corrected_text": "所以高通AMD跟英特爾最近走得比較差"
+    },
+    {
+      "start": 1540.71,
+      "end": 1543.35,
+      "raw_text": "就是因為老黃出手了",
+      "corrected_text": "就是因為老黃出手了"
+    },
+    {
+      "start": 1546.18,
+      "end": 1551.46,
+      "raw_text": "然後CRD2其實也是光裡面的一個票",
+      "corrected_text": "然後CRD2其實也是光裡面的一個票"
+    },
+    {
+      "start": 1551.78,
+      "end": 1555.18,
+      "raw_text": "但它最近也是盤後第二百分之十二",
+      "corrected_text": "但它最近也是盤後第二百分之十二"
+    },
+    {
+      "start": 1555.66,
+      "end": 1556.26,
+      "raw_text": "我們看一下",
+      "corrected_text": "我們看一下"
+    },
+    {
+      "start": 1557.7,
+      "end": 1558.1,
+      "raw_text": "Credo",
+      "corrected_text": "Credo"
+    },
+    {
+      "start": 1572.26,
+      "end": 1574.34,
+      "raw_text": "它其實是6月2號出的",
+      "corrected_text": "它其實是6月2號出的"
+    },
+    {
+      "start": 1575.86,
+      "end": 1576.78,
+      "raw_text": "我看一下是不是",
+      "corrected_text": "我看一下是不是"
+    },
+    {
+      "start": 1577.34,
+      "end": 1578.14,
+      "raw_text": "對6月2號",
+      "corrected_text": "對6月2號"
+    },
+    {
+      "start": 1578.14,
+      "end": 1578.74,
+      "raw_text": "對是的",
+      "corrected_text": "對是的"
+    },
+    {
+      "start": 1579.34,
+      "end": 1580.66,
+      "raw_text": "6月1號盤後出的",
+      "corrected_text": "6月1號盤後出的"
+    },
+    {
+      "start": 1583.97,
+      "end": 1587.93,
+      "raw_text": "想想6月2這一天其實走得很差",
+      "corrected_text": "想想6月2這一天其實走得很差"
+    },
+    {
+      "start": 1588.21,
+      "end": 1590.21,
+      "raw_text": "但後面反修復了一些",
+      "corrected_text": "但後面反修復了一些"
+    },
+    {
+      "start": 1590.21,
+      "end": 1594.61,
+      "raw_text": "是因為當時剛好也是趕上那個老黃講",
+      "corrected_text": "是因為當時剛好也是趕上那個老黃講"
+    },
+    {
+      "start": 1594.85,
+      "end": 1595.69,
+      "raw_text": "老黃點金",
+      "corrected_text": "老黃點金"
+    },
+    {
+      "start": 1595.69,
+      "end": 1599.97,
+      "raw_text": "這個麥威爾可以是萬一失職的一個公司",
+      "corrected_text": "這個麥威爾可以是萬一失職的一個公司"
+    },
+    {
+      "start": 1601.13,
+      "end": 1603.65,
+      "raw_text": "所以把這個情緒給修復了一下",
+      "corrected_text": "所以把這個情緒給修復了一下"
+    },
+    {
+      "start": 1606.44,
+      "end": 1607.84,
+      "raw_text": "但它從基本面來講",
+      "corrected_text": "但它從基本面來講"
+    },
+    {
+      "start": 1607.84,
+      "end": 1613.12,
+      "raw_text": "我覺得就是因為它這個200G這一塊的進度不及預期",
+      "corrected_text": "我覺得就是因為它這個200G這一塊的進度不及預期"
+    },
+    {
+      "start": 1613.36,
+      "end": 1617.56,
+      "raw_text": "所以導致說雖然說被那個麥威爾稍微救了一下",
+      "corrected_text": "所以導致說雖然說被那個麥威爾稍微救了一下"
+    },
+    {
+      "start": 1617.88,
+      "end": 1620.04,
+      "raw_text": "但是昨晚還是要跌",
+      "corrected_text": "但是昨晚還是要跌"
+    },
+    {
+      "start": 1620.32,
+      "end": 1620.92,
+      "raw_text": "還是要跌",
+      "corrected_text": "還是要跌"
+    },
+    {
+      "start": 1621.16,
+      "end": 1623.28,
+      "raw_text": "包括這麼高的一個股價",
+      "corrected_text": "包括這麼高的一個股價"
+    },
+    {
+      "start": 1623.28,
+      "end": 1625.68,
+      "raw_text": "我覺得也是需要做一步回調",
+      "corrected_text": "我覺得也是需要做一步回調"
+    },
+    {
+      "start": 1625.96,
+      "end": 1630.96,
+      "raw_text": "然後也趁著普通這一塊整體做一個回調",
+      "corrected_text": "然後也趁著普通這一塊整體做一個回調"
+    },
+    {
+      "start": 1630.96,
+      "end": 1631.92,
+      "raw_text": "我覺得挺好的",
+      "corrected_text": "我覺得挺好的"
+    },
+    {
+      "start": 1640.2,
+      "end": 1642.56,
+      "raw_text": "對所以這是這個光相關的",
+      "corrected_text": "對所以這是這個光相關的"
+    },
+    {
+      "start": 1645.06,
+      "end": 1646.94,
+      "raw_text": "然後麥威爾這個剛剛也講過了",
+      "corrected_text": "然後麥威爾這個剛剛也講過了"
+    },
+    {
+      "start": 1647.78,
+      "end": 1650.38,
+      "raw_text": "其實麥威爾在那個3月31號",
+      "corrected_text": "其實麥威爾在那個3月31號"
+    },
+    {
+      "start": 1650.78,
+      "end": 1653.54,
+      "raw_text": "老黃已經投了21美金在裡面",
+      "corrected_text": "老黃已經投了21美金在裡面"
+    },
+    {
+      "start": 1653.62,
+      "end": 1654.26,
+      "raw_text": "我們看一下",
+      "corrected_text": "我們看一下"
+    },
+    {
+      "start": 1654.42,
+      "end": 1655.3,
+      "raw_text": "21美金",
+      "corrected_text": "21美金"
+    },
+    {
+      "start": 1655.78,
+      "end": 1658.02,
+      "raw_text": "他其實是直接買的是麥威爾的股票",
+      "corrected_text": "他其實是直接買的是麥威爾的股票"
+    },
+    {
+      "start": 1658.42,
+      "end": 1660.42,
+      "raw_text": "然後當時的股價是99",
+      "corrected_text": "然後當時的股價是99"
+    },
+    {
+      "start": 1661.06,
+      "end": 1662.1,
+      "raw_text": "但是股價99",
+      "corrected_text": "但是股價99"
+    },
+    {
+      "start": 1662.38,
+      "end": 1663.74,
+      "raw_text": "大家看一下現在是多少",
+      "corrected_text": "大家看一下現在是多少"
+    },
+    {
+      "start": 1667.98,
+      "end": 1668.46,
+      "raw_text": "300",
+      "corrected_text": "300"
+    },
+    {
+      "start": 1669.94,
+      "end": 1673.26,
+      "raw_text": "所以你看短短兩個月時間",
+      "corrected_text": "所以你看短短兩個月時間"
+    },
+    {
+      "start": 1674.02,
+      "end": 1675.9,
+      "raw_text": "短短兩個月時間兩倍",
+      "corrected_text": "短短兩個月時間兩倍"
+    },
+    {
+      "start": 1678.64,
+      "end": 1682.16,
+      "raw_text": "所以你看老黃其實有點川普的思路",
+      "corrected_text": "所以你看老黃其實有點川普的思路"
+    },
+    {
+      "start": 1682.28,
+      "end": 1683.76,
+      "raw_text": "因為你看川普點了",
+      "corrected_text": "因為你看川普點了"
+    },
+    {
+      "start": 1684.04,
+      "end": 1687.2,
+      "raw_text": "點了那個英特爾點了美光點了戴爾馬",
+      "corrected_text": "點了那個英特爾點了美光點了戴爾馬"
+    },
+    {
+      "start": 1687.64,
+      "end": 1690.76,
+      "raw_text": "因為他們都有他就是川普都有他們的一個時差",
+      "corrected_text": "因為他們都有他就是川普都有他們的一個時差"
+    },
+    {
+      "start": 1691.08,
+      "end": 1693.24,
+      "raw_text": "所以你看英偉達也是類似的思路",
+      "corrected_text": "所以你看英偉達也是類似的思路"
+    },
+    {
+      "start": 1693.4,
+      "end": 1694.68,
+      "raw_text": "先注資",
+      "corrected_text": "先注資"
+    },
+    {
+      "start": 1695.04,
+      "end": 1697.2,
+      "raw_text": "注完資之後然後開始吹他",
+      "corrected_text": "注完資之後然後開始吹他"
+    },
+    {
+      "start": 1698.32,
+      "end": 1700.48,
+      "raw_text": "自己就是自己站台吹票",
+      "corrected_text": "自己就是自己站台吹票"
+    },
+    {
+      "start": 1701.16,
+      "end": 1702.64,
+      "raw_text": "就很有意思就是",
+      "corrected_text": "就很有意思就是"
+    },
+    {
+      "start": 1703.12,
+      "end": 1703.64,
+      "raw_text": "嗯",
+      "corrected_text": "嗯"
+    },
+    {
+      "start": 1704.08,
+      "end": 1708.0,
+      "raw_text": "所以我覺得現在這個市場其實有一定的泡沫在裡面了",
+      "corrected_text": "所以我覺得現在這個市場其實有一定的泡沫在裡面了"
+    },
+    {
+      "start": 1708.0,
+      "end": 1712.24,
+      "raw_text": "就是連老黃川普自己出來高調站台去吹票",
+      "corrected_text": "就是連老黃川普自己出來高調站台去吹票"
+    },
+    {
+      "start": 1712.88,
+      "end": 1715.28,
+      "raw_text": "就我覺得肯定是有泡沫在裡面的",
+      "corrected_text": "就我覺得肯定是有泡沫在裡面的"
+    },
+    {
+      "start": 1715.68,
+      "end": 1719.16,
+      "raw_text": "那我覺得邏輯是可以支撐嗯",
+      "corrected_text": "那我覺得邏輯是可以支撐嗯"
+    },
+    {
+      "start": 1719.56,
+      "end": 1723.0,
+      "raw_text": "就是從他的一個基本面的邏輯我覺得是可以撐一撐的",
+      "corrected_text": "就是從他的一個基本面的邏輯我覺得是可以撐一撐的"
+    },
+    {
+      "start": 1723.28,
+      "end": 1724.28,
+      "raw_text": "是可以撐一撐的",
+      "corrected_text": "是可以撐一撐的"
+    },
+    {
+      "start": 1724.32,
+      "end": 1729.84,
+      "raw_text": "但博通這一波帶著回調我覺得能讓這個狀態更健康",
+      "corrected_text": "但博通這一波帶著回調我覺得能讓這個狀態更健康"
+    },
+    {
+      "start": 1730.36,
+      "end": 1732.04,
+      "raw_text": "能讓這個狀態更健康一些",
+      "corrected_text": "能讓這個狀態更健康一些"
+    },
+    {
+      "start": 1732.96,
+      "end": 1736.97,
+      "raw_text": "所以他其實是歸光子技術這一塊",
+      "corrected_text": "所以他其實是歸光子技術這一塊"
+    },
+    {
+      "start": 1737.97,
+      "end": 1741.01,
+      "raw_text": "包括去對抗Esic這一塊的一個威脅",
+      "corrected_text": "包括去對抗Esic這一塊的一個威脅"
+    },
+    {
+      "start": 1741.49,
+      "end": 1746.98,
+      "raw_text": "就是呃既然說巨頭他一定要有自然的一個路線",
+      "corrected_text": "就是呃既然說巨頭他一定要有自然的一個路線"
+    },
+    {
+      "start": 1747.18,
+      "end": 1751.74,
+      "raw_text": "那因為大家就要確保說呃",
+      "corrected_text": "那因為大家就要確保說呃"
+    },
+    {
+      "start": 1752.14,
+      "end": 1755.1,
+      "raw_text": "他不管客戶換什麼樣的一個芯片",
+      "corrected_text": "他不管客戶換什麼樣的一個芯片"
+    },
+    {
+      "start": 1755.62,
+      "end": 1758.82,
+      "raw_text": "他整個數據供信的一個股價包括網絡生態",
+      "corrected_text": "他整個數據供信的一個股價包括網絡生態"
+    },
+    {
+      "start": 1759.26,
+      "end": 1761.18,
+      "raw_text": "都還是有應為的去做定義的",
+      "corrected_text": "都還是有應為的去做定義的"
+    },
+    {
+      "start": 1762.3,
+      "end": 1765.94,
+      "raw_text": "所以這是為什麼因為大家想要去投各種各樣的一個小公司",
+      "corrected_text": "所以這是為什麼因為大家想要去投各種各樣的一個小公司"
+    },
+    {
+      "start": 1766.5,
+      "end": 1770.9,
+      "raw_text": "就是為了第一個是拿那個他們那個產能的一個定價權",
+      "corrected_text": "就是為了第一個是拿那個他們那個產能的一個定價權"
+    },
+    {
+      "start": 1771.3,
+      "end": 1774.34,
+      "raw_text": "就供應鏈這塊去確保供應鏈沒什麼問題",
+      "corrected_text": "就供應鏈這塊去確保供應鏈沒什麼問題"
+    },
+    {
+      "start": 1774.74,
+      "end": 1776.5,
+      "raw_text": "第二個就是去培育說",
+      "corrected_text": "第二個就是去培育說"
+    },
+    {
+      "start": 1776.98,
+      "end": 1781.22,
+      "raw_text": "呃這個生態還是由英文拿去主導去定義",
+      "corrected_text": "呃這個生態還是由英文拿去主導去定義"
+    },
+    {
+      "start": 1782.58,
+      "end": 1794.3,
+      "raw_text": "嗯所以這是這個嗯然後這個講過",
+      "corrected_text": "嗯所以這是這個嗯然後這個講過"
+    },
+    {
+      "start": 1795.98,
+      "end": 1802.02,
+      "raw_text": "麥威爾這個其他其實他會呃他在那個老黃點金之後的",
+      "corrected_text": "麥威爾這個其他其實他會呃他在那個老黃點金之後的"
+    },
+    {
+      "start": 1802.02,
+      "end": 1805.02,
+      "raw_text": "那天晚上之後他其實有開了一個小會",
+      "corrected_text": "那天晚上之後他其實有開了一個小會"
+    },
+    {
+      "start": 1805.5,
+      "end": 1807.98,
+      "raw_text": "但是有個小會裡面其實嗯",
+      "corrected_text": "但是有個小會裡面其實嗯"
+    },
+    {
+      "start": 1809.18,
+      "end": 1812.98,
+      "raw_text": "呃大部分是維持了這個電腦會的一個預期在裡面",
+      "corrected_text": "呃大部分是維持了這個電腦會的一個預期在裡面"
+    },
+    {
+      "start": 1813.54,
+      "end": 1818.35,
+      "raw_text": "嗯有一個點就是他的一個光學",
+      "corrected_text": "嗯有一個點就是他的一個光學"
+    },
+    {
+      "start": 1819.31,
+      "end": 1821.79,
+      "raw_text": "這一塊我記得他在那個電話會裡面沒有提到",
+      "corrected_text": "這一塊我記得他在那個電話會裡面沒有提到"
+    },
+    {
+      "start": 1822.31,
+      "end": 1825.39,
+      "raw_text": "但這一塊他的一個增速很快增速很快",
+      "corrected_text": "但這一塊他的一個增速很快增速很快"
+    },
+    {
+      "start": 1827.94,
+      "end": 1831.98,
+      "raw_text": "所以整體包括你看他說的這個數據中心這一塊",
+      "corrected_text": "所以整體包括你看他說的這個數據中心這一塊"
+    },
+    {
+      "start": 1835.1,
+      "end": 1838.74,
+      "raw_text": "未來會擴張5到10倍就5年時間擴張5到10倍",
+      "corrected_text": "未來會擴張5到10倍就5年時間擴張5到10倍"
+    },
+    {
+      "start": 1839.34,
+      "end": 1840.22,
+      "raw_text": "所以很誇張",
+      "corrected_text": "所以很誇張"
+    },
+    {
+      "start": 1841.62,
+      "end": 1843.78,
+      "raw_text": "所以光的一個邏輯是還在的",
+      "corrected_text": "所以光的一個邏輯是還在的"
+    },
+    {
+      "start": 1844.14,
+      "end": 1847.38,
+      "raw_text": "但只是說短期可能會要收到這個麥威爾",
+      "corrected_text": "但只是說短期可能會要收到這個麥威爾"
+    },
+    {
+      "start": 1847.98,
+      "end": 1849.38,
+      "raw_text": "麥威爾其實是老大來著",
+      "corrected_text": "麥威爾其實是老大來著"
+    },
+    {
+      "start": 1850.78,
+      "end": 1855.78,
+      "raw_text": "只是呃不對那個博通其實是老大來著老大他的一個",
+      "corrected_text": "只是呃不對那個博通其實是老大來著老大他的一個"
+    },
+    {
+      "start": 1856.86,
+      "end": 1861.98,
+      "raw_text": "但他的光在那個博通裡面的一個佔比不是很大",
+      "corrected_text": "但他的光在那個博通裡面的一個佔比不是很大"
+    },
+    {
+      "start": 1862.18,
+      "end": 1865.58,
+      "raw_text": "就是博通的業務比較雜他不是純光",
+      "corrected_text": "就是博通的業務比較雜他不是純光"
+    },
+    {
+      "start": 1866.42,
+      "end": 1869.98,
+      "raw_text": "他不是純光麥威爾會純一些麥威爾會純一些",
+      "corrected_text": "他不是純光麥威爾會純一些麥威爾會純一些"
+    },
+    {
+      "start": 1874.78,
+      "end": 1876.74,
+      "raw_text": "所以這是這一塊麥威爾",
+      "corrected_text": "所以這是這一塊麥威爾"
+    },
+    {
+      "start": 1877.7,
+      "end": 1879.06,
+      "raw_text": "就是他的邏輯還是順的",
+      "corrected_text": "就是他的邏輯還是順的"
+    },
+    {
+      "start": 1879.46,
+      "end": 1881.3,
+      "raw_text": "我覺得到5000億沒什麼問題",
+      "corrected_text": "我覺得到5000億沒什麼問題"
+    },
+    {
+      "start": 1883.46,
+      "end": 1885.9,
+      "raw_text": "就在現在的基礎上應該是翻倍",
+      "corrected_text": "就在現在的基礎上應該是翻倍"
+    },
+    {
+      "start": 1887.3,
+      "end": 1887.82,
+      "raw_text": "看一下",
+      "corrected_text": "看一下"
+    },
+    {
+      "start": 1890.03,
+      "end": 1893.07,
+      "raw_text": "對現在2600嘛2600如果加上盤後",
+      "corrected_text": "對現在2600嘛2600如果加上盤後"
+    },
+    {
+      "start": 1893.43,
+      "end": 1894.91,
+      "raw_text": "跌的話大概2500左右",
+      "corrected_text": "跌的話大概2500左右"
+    },
+    {
+      "start": 1895.35,
+      "end": 1896.11,
+      "raw_text": "2500左右",
+      "corrected_text": "2500左右"
+    },
+    {
+      "start": 1897.23,
+      "end": 1897.75,
+      "raw_text": "差不多",
+      "corrected_text": "差不多"
+    },
+    {
+      "start": 1901.03,
+      "end": 1903.03,
+      "raw_text": "但短期太快了短期長得太快",
+      "corrected_text": "但短期太快了短期長得太快"
+    },
+    {
+      "start": 1903.03,
+      "end": 1905.83,
+      "raw_text": "我覺得是呃回調一下更健康",
+      "corrected_text": "我覺得是呃回調一下更健康"
+    },
+    {
+      "start": 1906.51,
+      "end": 1907.55,
+      "raw_text": "回調一下更健康",
+      "corrected_text": "回調一下更健康"
+    },
+    {
+      "start": 1912.17,
+      "end": 1915.37,
+      "raw_text": "會議剛剛其實講過了他的利潤率很低",
+      "corrected_text": "會議剛剛其實講過了他的利潤率很低"
+    },
+    {
+      "start": 1915.65,
+      "end": 1917.69,
+      "raw_text": "跟戴爾一樣都是組裝廠吧",
+      "corrected_text": "跟戴爾一樣都是組裝廠吧"
+    },
+    {
+      "start": 1917.69,
+      "end": 1920.05,
+      "raw_text": "組裝廠都是血汗血汗工廠",
+      "corrected_text": "組裝廠都是血汗血汗工廠"
+    },
+    {
+      "start": 1920.53,
+      "end": 1924.61,
+      "raw_text": "就是血汗就是這些錢都是辛苦錢賺辛苦費",
+      "corrected_text": "就是血汗就是這些錢都是辛苦錢賺辛苦費"
+    },
+    {
+      "start": 1925.85,
+      "end": 1929.13,
+      "raw_text": "所以我覺得他是撐不了這麼大的一個市值的提升的",
+      "corrected_text": "所以我覺得他是撐不了這麼大的一個市值的提升的"
+    },
+    {
+      "start": 1931.37,
+      "end": 1932.33,
+      "raw_text": "所以是這個",
+      "corrected_text": "所以是這個"
+    },
+    {
+      "start": 1932.81,
+      "end": 1934.13,
+      "raw_text": "然後博通這個",
+      "corrected_text": "然後博通這個"
+    },
+    {
+      "start": 1934.61,
+      "end": 1937.77,
+      "raw_text": "呃第一個他是那一個miss了",
+      "corrected_text": "呃第一個他是那一個miss了"
+    },
+    {
+      "start": 1938.97,
+      "end": 1942.77,
+      "raw_text": "因為他ai這一塊的一個半導體指引其實不急於買翻譯器的",
+      "corrected_text": "因為他ai這一塊的一個半導體指引其實不急於買翻譯器的"
+    },
+    {
+      "start": 1943.05,
+      "end": 1946.21,
+      "raw_text": "你要買翻給到300億他才給294",
+      "corrected_text": "你要買翻給到300億他才給294"
+    },
+    {
+      "start": 1946.53,
+      "end": 1947.33,
+      "raw_text": "所以差了6億",
+      "corrected_text": "所以差了6億"
+    },
+    {
+      "start": 1947.69,
+      "end": 1948.69,
+      "raw_text": "其實就是miss了",
+      "corrected_text": "其實就是miss了"
+    },
+    {
+      "start": 1949.61,
+      "end": 1950.77,
+      "raw_text": "所以整體是miss了",
+      "corrected_text": "所以整體是miss了"
+    },
+    {
+      "start": 1951.13,
+      "end": 1952.85,
+      "raw_text": "第一個miss之後",
+      "corrected_text": "第一個miss之後"
+    },
+    {
+      "start": 1953.17,
+      "end": 1957.45,
+      "raw_text": "呃疊加說前幾天就是麥威爾跟那個因為大家強前聯合",
+      "corrected_text": "呃疊加說前幾天就是麥威爾跟那個因為大家強前聯合"
+    },
+    {
+      "start": 1957.81,
+      "end": 1958.89,
+      "raw_text": "深度戰略聯盟",
+      "corrected_text": "深度戰略聯盟"
+    },
+    {
+      "start": 1959.13,
+      "end": 1961.01,
+      "raw_text": "所以其實一定程度上也是",
+      "corrected_text": "所以其實一定程度上也是"
+    },
+    {
+      "start": 1961.37,
+      "end": 1964.41,
+      "raw_text": "衝擊了這個博通的一個市場地位的",
+      "corrected_text": "衝擊了這個博通的一個市場地位的"
+    },
+    {
+      "start": 1965.93,
+      "end": 1967.17,
+      "raw_text": "所以這兩者疊加",
+      "corrected_text": "所以這兩者疊加"
+    },
+    {
+      "start": 1967.37,
+      "end": 1969.21,
+      "raw_text": "然後導致說博通盤後負10",
+      "corrected_text": "然後導致說博通盤後負10"
+    },
+    {
+      "start": 1972.17,
+      "end": 1974.05,
+      "raw_text": "然後其他的沒什麼大的問題",
+      "corrected_text": "然後其他的沒什麼大的問題"
+    },
+    {
+      "start": 1975.29,
+      "end": 1978.41,
+      "raw_text": "就你看他這裡其實也是買翻譯器其實比較高",
+      "corrected_text": "就你看他這裡其實也是買翻譯器其實比較高"
+    },
+    {
+      "start": 1978.73,
+      "end": 1981.73,
+      "raw_text": "然後Q2也是這個ai半導體業務也是miss了",
+      "corrected_text": "然後Q2也是這個ai半導體業務也是miss了"
+    },
+    {
+      "start": 1982.57,
+      "end": 1984.49,
+      "raw_text": "但他拿了不少訂單在裡面",
+      "corrected_text": "但他拿了不少訂單在裡面"
+    },
+    {
+      "start": 1987.62,
+      "end": 1989.82,
+      "raw_text": "對其他的就還好",
+      "corrected_text": "對其他的就還好"
+    },
+    {
+      "start": 1990.26,
+      "end": 1990.62,
+      "raw_text": "對",
+      "corrected_text": "對"
+    },
+    {
+      "start": 1991.26,
+      "end": 1995.26,
+      "raw_text": "然後CWD盤後負10是ok的",
+      "corrected_text": "然後CWD盤後負10是ok的"
+    },
+    {
+      "start": 1995.42,
+      "end": 1998.74,
+      "raw_text": "因為市值死傷到6月3漲了97%",
+      "corrected_text": "因為市值死傷到6月3漲了97%"
+    },
+    {
+      "start": 1999.26,
+      "end": 2001.42,
+      "raw_text": "就是之前是那個高盛",
+      "corrected_text": "就是之前是那個高盛"
+    },
+    {
+      "start": 2001.74,
+      "end": 2005.02,
+      "raw_text": "他說有有兩類公司就sas有兩類公司",
+      "corrected_text": "他說有有兩類公司就sas有兩類公司"
+    },
+    {
+      "start": 2005.02,
+      "end": 2005.98,
+      "raw_text": "一類是被綽查的",
+      "corrected_text": "一類是被綽查的"
+    },
+    {
+      "start": 2006.1,
+      "end": 2007.34,
+      "raw_text": "一類是沒有被綽查的",
+      "corrected_text": "一類是沒有被綽查的"
+    },
+    {
+      "start": 2007.82,
+      "end": 2009.86,
+      "raw_text": "所以網絡安全當時",
+      "corrected_text": "所以網絡安全當時"
+    },
+    {
+      "start": 2010.26,
+      "end": 2013.14,
+      "raw_text": "就是被錯殺的被定義為被錯殺的公司",
+      "corrected_text": "就是被錯殺的被定義為被錯殺的公司"
+    },
+    {
+      "start": 2013.74,
+      "end": 2016.22,
+      "raw_text": "所以你看CWD包括像FTNT",
+      "corrected_text": "所以你看CWD包括像FTNT"
+    },
+    {
+      "start": 2016.54,
+      "end": 2019.26,
+      "raw_text": "FTNT就飛塔信息包括像那個",
+      "corrected_text": "FTNT就飛塔信息包括像那個"
+    },
+    {
+      "start": 2019.54,
+      "end": 2021.66,
+      "raw_text": "就三家那個網絡安全公司",
+      "corrected_text": "就三家那個網絡安全公司"
+    },
+    {
+      "start": 2021.9,
+      "end": 2022.58,
+      "raw_text": "都是",
+      "corrected_text": "都是"
+    },
+    {
+      "start": 2023.42,
+      "end": 2024.58,
+      "raw_text": "就重新定價",
+      "corrected_text": "就重新定價"
+    },
+    {
+      "start": 2024.9,
+      "end": 2026.78,
+      "raw_text": "重新定價他定價的非常快",
+      "corrected_text": "重新定價他定價的非常快"
+    },
+    {
+      "start": 2027.7,
+      "end": 2028.5,
+      "raw_text": "直接",
+      "corrected_text": "直接"
+    },
+    {
+      "start": 2028.9,
+      "end": 2031.5,
+      "raw_text": "兩個月不到百分之百的一個",
+      "corrected_text": "兩個月不到百分之百的一個"
+    },
+    {
+      "start": 2031.82,
+      "end": 2033.38,
+      "raw_text": "呃的一個重新定價",
+      "corrected_text": "呃的一個重新定價"
+    },
+    {
+      "start": 2034.66,
+      "end": 2037.42,
+      "raw_text": "所以都需要財報去做一步回調",
+      "corrected_text": "所以都需要財報去做一步回調"
+    },
+    {
+      "start": 2038.3,
+      "end": 2039.7,
+      "raw_text": "都需要財報做一步回調",
+      "corrected_text": "都需要財報做一步回調"
+    },
+    {
+      "start": 2044.11,
+      "end": 2046.39,
+      "raw_text": "所以我覺得藉著這步回調可以去加一些",
+      "corrected_text": "所以我覺得藉著這步回調可以去加一些"
+    },
+    {
+      "start": 2046.39,
+      "end": 2048.27,
+      "raw_text": "如果大家手上呃",
+      "corrected_text": "如果大家手上呃"
+    },
+    {
+      "start": 2048.43,
+      "end": 2050.15,
+      "raw_text": "優先期很高的",
+      "corrected_text": "優先期很高的"
+    },
+    {
+      "start": 2050.59,
+      "end": 2051.87,
+      "raw_text": "這個板塊",
+      "corrected_text": "這個板塊"
+    },
+    {
+      "start": 2051.87,
+      "end": 2053.11,
+      "raw_text": "如果大家手上沒有的話",
+      "corrected_text": "如果大家手上沒有的話"
+    },
+    {
+      "start": 2053.11,
+      "end": 2054.67,
+      "raw_text": "可以藉著這步回調去加",
+      "corrected_text": "可以藉著這步回調去加"
+    },
+    {
+      "start": 2057.66,
+      "end": 2058.66,
+      "raw_text": "然後大概是這樣",
+      "corrected_text": "然後大概是這樣"
+    },
+    {
+      "start": 2058.66,
+      "end": 2060.3,
+      "raw_text": "然後就看下周的",
+      "corrected_text": "然後就看下周的"
+    },
+    {
+      "start": 2060.58,
+      "end": 2061.02,
+      "raw_text": "呃",
+      "corrected_text": "呃"
+    },
+    {
+      "start": 2061.02,
+      "end": 2063.38,
+      "raw_text": "SpaceX的一個上市包括像",
+      "corrected_text": "SpaceX的一個上市包括像"
+    },
+    {
+      "start": 2063.74,
+      "end": 2064.9,
+      "raw_text": "看一下下周還有誰",
+      "corrected_text": "看一下下周還有誰"
+    },
+    {
+      "start": 2064.9,
+      "end": 2066.98,
+      "raw_text": "下周還有蘋果的那個大會",
+      "corrected_text": "下周還有蘋果的那個大會"
+    },
+    {
+      "start": 2067.62,
+      "end": 2068.78,
+      "raw_text": "以及說",
+      "corrected_text": "以及說"
+    },
+    {
+      "start": 2069.1,
+      "end": 2069.42,
+      "raw_text": "呃",
+      "corrected_text": "呃"
+    },
+    {
+      "start": 2069.42,
+      "end": 2069.9,
+      "raw_text": "Adobe",
+      "corrected_text": "Adobe"
+    },
+    {
+      "start": 2069.9,
+      "end": 2071.5,
+      "raw_text": "啊對Adobe沒什麼意思",
+      "corrected_text": "啊對Adobe沒什麼意思"
+    },
+    {
+      "start": 2071.98,
+      "end": 2073.7,
+      "raw_text": "對其他的就還好",
+      "corrected_text": "對其他的就還好"
+    },
+    {
+      "start": 2074.66,
+      "end": 2075.02,
+      "raw_text": "對",
+      "corrected_text": "對"
+    },
+    {
+      "start": 2076.46,
+      "end": 2078.3,
+      "raw_text": "OK我看一下大家有什麼問題",
+      "corrected_text": "OK我看一下大家有什麼問題"
+    },
+    {
+      "start": 2080.85,
+      "end": 2082.57,
+      "raw_text": "呃對首選美光是的",
+      "corrected_text": "呃對首選美光是的"
+    },
+    {
+      "start": 2083.53,
+      "end": 2084.97,
+      "raw_text": "就還是回到我們這張圖",
+      "corrected_text": "就還是回到我們這張圖"
+    },
+    {
+      "start": 2085.97,
+      "end": 2087.53,
+      "raw_text": "我們剛才說優先級是這樣",
+      "corrected_text": "我們剛才說優先級是這樣"
+    },
+    {
+      "start": 2087.53,
+      "end": 2089.29,
+      "raw_text": "優先級第一的肯定是存儲",
+      "corrected_text": "優先級第一的肯定是存儲"
+    },
+    {
+      "start": 2089.45,
+      "end": 2092.21,
+      "raw_text": "因為他不管是增量需求啊還是他的",
+      "corrected_text": "因為他不管是增量需求啊還是他的"
+    },
+    {
+      "start": 2092.37,
+      "end": 2093.33,
+      "raw_text": "貝爾的邏輯",
+      "corrected_text": "貝爾的邏輯"
+    },
+    {
+      "start": 2093.61,
+      "end": 2094.53,
+      "raw_text": "都是最硬的",
+      "corrected_text": "都是最硬的"
+    },
+    {
+      "start": 2094.89,
+      "end": 2096.33,
+      "raw_text": "包括呃",
+      "corrected_text": "包括呃"
+    },
+    {
+      "start": 2096.49,
+      "end": 2099.17,
+      "raw_text": "從他的一個需求包括供給",
+      "corrected_text": "從他的一個需求包括供給"
+    },
+    {
+      "start": 2099.53,
+      "end": 2100.93,
+      "raw_text": "因為他的需求非常旺盛",
+      "corrected_text": "因為他的需求非常旺盛"
+    },
+    {
+      "start": 2100.93,
+      "end": 2103.17,
+      "raw_text": "還有增量增量需求不斷的進來",
+      "corrected_text": "還有增量增量需求不斷的進來"
+    },
+    {
+      "start": 2103.41,
+      "end": 2104.49,
+      "raw_text": "因為特里的需求嘛",
+      "corrected_text": "因為特里的需求嘛"
+    },
+    {
+      "start": 2104.69,
+      "end": 2107.13,
+      "raw_text": "然後另外是供給這塊嚴重不足",
+      "corrected_text": "然後另外是供給這塊嚴重不足"
+    },
+    {
+      "start": 2107.45,
+      "end": 2108.85,
+      "raw_text": "要到27年2月份",
+      "corrected_text": "要到27年2月份"
+    },
+    {
+      "start": 2109.21,
+      "end": 2112.01,
+      "raw_text": "才有新增的這種有意義的產能出來",
+      "corrected_text": "才有新增的這種有意義的產能出來"
+    },
+    {
+      "start": 2112.37,
+      "end": 2113.25,
+      "raw_text": "27年2月份",
+      "corrected_text": "27年2月份"
+    },
+    {
+      "start": 2114.21,
+      "end": 2116.49,
+      "raw_text": "以及到27年中旬的呃",
+      "corrected_text": "以及到27年中旬的呃"
+    },
+    {
+      "start": 2117.13,
+      "end": 2118.13,
+      "raw_text": "年中的時候",
+      "corrected_text": "年中的時候"
+    },
+    {
+      "start": 2119.17,
+      "end": 2120.53,
+      "raw_text": "就27年年中的時候",
+      "corrected_text": "就27年年中的時候"
+    },
+    {
+      "start": 2121.01,
+      "end": 2122.85,
+      "raw_text": "才有可能有這個產能釋放出來",
+      "corrected_text": "才有可能有這個產能釋放出來"
+    },
+    {
+      "start": 2122.85,
+      "end": 2124.73,
+      "raw_text": "所以存儲的邏輯還是第一的",
+      "corrected_text": "所以存儲的邏輯還是第一的"
+    },
+    {
+      "start": 2125.21,
+      "end": 2127.25,
+      "raw_text": "然後第二個就是我們剛剛講的賣威爾",
+      "corrected_text": "然後第二個就是我們剛剛講的賣威爾"
+    },
+    {
+      "start": 2127.53,
+      "end": 2129.37,
+      "raw_text": "這個網絡互聯相關的",
+      "corrected_text": "這個網絡互聯相關的"
+    },
+    {
+      "start": 2129.85,
+      "end": 2131.97,
+      "raw_text": "然後博通其實是受損的",
+      "corrected_text": "然後博通其實是受損的"
+    },
+    {
+      "start": 2132.45,
+      "end": 2134.01,
+      "raw_text": "然後賣威爾是受益的",
+      "corrected_text": "然後賣威爾是受益的"
+    },
+    {
+      "start": 2134.61,
+      "end": 2136.85,
+      "raw_text": "然後賣威爾跟我們剛剛講過他就是",
+      "corrected_text": "然後賣威爾跟我們剛剛講過他就是"
+    },
+    {
+      "start": 2137.25,
+      "end": 2140.21,
+      "raw_text": "呃先看到5000億先看到5000億",
+      "corrected_text": "呃先看到5000億先看到5000億"
+    },
+    {
+      "start": 2140.85,
+      "end": 2143.09,
+      "raw_text": "老黃講1萬億有點太快了",
+      "corrected_text": "老黃講1萬億有點太快了"
+    },
+    {
+      "start": 2143.61,
+      "end": 2145.93,
+      "raw_text": "我個人會覺得他的目前的狀態",
+      "corrected_text": "我個人會覺得他的目前的狀態"
+    },
+    {
+      "start": 2145.93,
+      "end": 2148.93,
+      "raw_text": "還不足以去支撐萬一美金市值的一個體量",
+      "corrected_text": "還不足以去支撐萬一美金市值的一個體量"
+    },
+    {
+      "start": 2149.49,
+      "end": 2152.33,
+      "raw_text": "所以先到5000也我覺得還還行",
+      "corrected_text": "所以先到5000也我覺得還還行"
+    },
+    {
+      "start": 2152.65,
+      "end": 2153.77,
+      "raw_text": "對先到5000還行",
+      "corrected_text": "對先到5000還行"
+    },
+    {
+      "start": 2155.73,
+      "end": 2156.33,
+      "raw_text": "然後",
+      "corrected_text": "然後"
+    },
+    {
+      "start": 2156.85,
+      "end": 2159.61,
+      "raw_text": "第三個還是說是光通信相關的",
+      "corrected_text": "第三個還是說是光通信相關的"
+    },
+    {
+      "start": 2159.93,
+      "end": 2162.05,
+      "raw_text": "光通信其實還是優先選那",
+      "corrected_text": "光通信其實還是優先選那"
+    },
+    {
+      "start": 2162.37,
+      "end": 2164.17,
+      "raw_text": "呃老黃投的幾家嘛",
+      "corrected_text": "呃老黃投的幾家嘛"
+    },
+    {
+      "start": 2164.61,
+      "end": 2166.61,
+      "raw_text": "就老黃投的Light Coherent",
+      "corrected_text": "就老黃投的Light Coherent"
+    },
+    {
+      "start": 2167.33,
+      "end": 2169.05,
+      "raw_text": "然後再是康寧",
+      "corrected_text": "然後再是康寧"
+    },
+    {
+      "start": 2170.25,
+      "end": 2173.69,
+      "raw_text": "主要還是這兩家威先Light Coherent",
+      "corrected_text": "主要還是這兩家威先Light Coherent"
+    },
+    {
+      "start": 2175.45,
+      "end": 2177.93,
+      "raw_text": "所以這是前三的一個順序",
+      "corrected_text": "所以這是前三的一個順序"
+    },
+    {
+      "start": 2178.29,
+      "end": 2179.37,
+      "raw_text": "前三的一個順序",
+      "corrected_text": "前三的一個順序"
+    },
+    {
+      "start": 2180.57,
+      "end": 2184.01,
+      "raw_text": "嗯賣威爾目前可買點分批吧分批吧",
+      "corrected_text": "嗯賣威爾目前可買點分批吧分批吧"
+    },
+    {
+      "start": 2184.37,
+      "end": 2188.09,
+      "raw_text": "因為其實博通其實也把整個",
+      "corrected_text": "因為其實博通其實也把整個"
+    },
+    {
+      "start": 2188.57,
+      "end": 2190.93,
+      "raw_text": "呃你看賣威爾其實也是跌的",
+      "corrected_text": "呃你看賣威爾其實也是跌的"
+    },
+    {
+      "start": 2198.79,
+      "end": 2199.75,
+      "raw_text": "你看賣威爾",
+      "corrected_text": "你看賣威爾"
+    },
+    {
+      "start": 2199.75,
+      "end": 2203.59,
+      "raw_text": "主要是博通受影博通的一個影響",
+      "corrected_text": "主要是博通受影博通的一個影響"
+    },
+    {
+      "start": 2203.59,
+      "end": 2206.79,
+      "raw_text": "博通才呃博通盤後才爆跌了10%吧",
+      "corrected_text": "博通才呃博通盤後才爆跌了10%吧"
+    },
+    {
+      "start": 2207.51,
+      "end": 2209.03,
+      "raw_text": "看一下現在夜盤是多少",
+      "corrected_text": "看一下現在夜盤是多少"
+    },
+    {
+      "start": 2209.71,
+      "end": 2210.67,
+      "raw_text": "夜盤14了",
+      "corrected_text": "夜盤14了"
+    },
+    {
+      "start": 2213.26,
+      "end": 2214.54,
+      "raw_text": "對你看夜盤14了",
+      "corrected_text": "對你看夜盤14了"
+    },
+    {
+      "start": 2216.66,
+      "end": 2218.66,
+      "raw_text": "所以我覺得就是大家可以趁著這波",
+      "corrected_text": "所以我覺得就是大家可以趁著這波"
+    },
+    {
+      "start": 2218.66,
+      "end": 2220.26,
+      "raw_text": "博通的一個回調",
+      "corrected_text": "博通的一個回調"
+    },
+    {
+      "start": 2220.62,
+      "end": 2223.86,
+      "raw_text": "然後看一下有沒有機會去撿這一些",
+      "corrected_text": "然後看一下有沒有機會去撿這一些"
+    },
+    {
+      "start": 2223.86,
+      "end": 2225.78,
+      "raw_text": "剛剛說的那三大優先級",
+      "corrected_text": "剛剛說的那三大優先級"
+    },
+    {
+      "start": 2226.26,
+      "end": 2229.26,
+      "raw_text": "存儲然後是賣威爾以及說光",
+      "corrected_text": "存儲然後是賣威爾以及說光"
+    },
+    {
+      "start": 2230.38,
+      "end": 2234.95,
+      "raw_text": "嗯微軟要撿看一下",
+      "corrected_text": "嗯微軟要撿看一下"
+    },
+    {
+      "start": 2236.03,
+      "end": 2238.79,
+      "raw_text": "嗯微軟主要是他",
+      "corrected_text": "嗯微軟主要是他"
+    },
+    {
+      "start": 2239.19,
+      "end": 2240.95,
+      "raw_text": "就我們之前其實有講過說",
+      "corrected_text": "就我們之前其實有講過說"
+    },
+    {
+      "start": 2241.19,
+      "end": 2243.19,
+      "raw_text": "巨頭現在主要看的是模型能力",
+      "corrected_text": "巨頭現在主要看的是模型能力"
+    },
+    {
+      "start": 2243.63,
+      "end": 2246.91,
+      "raw_text": "那模型能力現在最強的是還是谷歌",
+      "corrected_text": "那模型能力現在最強的是還是谷歌"
+    },
+    {
+      "start": 2247.63,
+      "end": 2249.19,
+      "raw_text": "呃應該說是Anthropic",
+      "corrected_text": "呃應該說是Anthropic"
+    },
+    {
+      "start": 2249.71,
+      "end": 2251.23,
+      "raw_text": "就Anthropic還沒上市嘛",
+      "corrected_text": "就Anthropic還沒上市嘛"
+    },
+    {
+      "start": 2251.95,
+      "end": 2254.71,
+      "raw_text": "那上市公司裡面可能就是谷歌了",
+      "corrected_text": "那上市公司裡面可能就是谷歌了"
+    },
+    {
+      "start": 2255.55,
+      "end": 2256.71,
+      "raw_text": "然後meta是最差的",
+      "corrected_text": "然後meta是最差的"
+    },
+    {
+      "start": 2257.55,
+      "end": 2258.47,
+      "raw_text": "meta是最差的",
+      "corrected_text": "meta是最差的"
+    },
+    {
+      "start": 2258.67,
+      "end": 2260.87,
+      "raw_text": "然後亞馬遜應該排第三",
+      "corrected_text": "然後亞馬遜應該排第三"
+    },
+    {
+      "start": 2261.27,
+      "end": 2262.67,
+      "raw_text": "呃排第二吧",
+      "corrected_text": "呃排第二吧"
+    },
+    {
+      "start": 2263.35,
+      "end": 2266.03,
+      "raw_text": "因為賣亞馬遜有投了那個Anthropic",
+      "corrected_text": "因為賣亞馬遜有投了那個Anthropic"
+    },
+    {
+      "start": 2266.31,
+      "end": 2267.35,
+      "raw_text": "這家公司",
+      "corrected_text": "這家公司"
+    },
+    {
+      "start": 2267.87,
+      "end": 2271.71,
+      "raw_text": "所以綜合來講就是谷歌是上市公司裡面第一",
+      "corrected_text": "所以綜合來講就是谷歌是上市公司裡面第一"
+    },
+    {
+      "start": 2271.71,
+      "end": 2274.59,
+      "raw_text": "然後亞馬遜是第二從模型能力來講",
+      "corrected_text": "然後亞馬遜是第二從模型能力來講"
+    },
+    {
+      "start": 2274.87,
+      "end": 2277.11,
+      "raw_text": "然後第三是微軟第四是meta",
+      "corrected_text": "然後第三是微軟第四是meta"
+    },
+    {
+      "start": 2278.11,
+      "end": 2282.07,
+      "raw_text": "所以我覺得如果按照模型能力講還是谷歌",
+      "corrected_text": "所以我覺得如果按照模型能力講還是谷歌"
+    },
+    {
+      "start": 2282.63,
+      "end": 2283.47,
+      "raw_text": "谷歌為先",
+      "corrected_text": "谷歌為先"
+    },
+    {
+      "start": 2285.97,
+      "end": 2292.27,
+      "raw_text": "對中線能賣什麼",
+      "corrected_text": "對中線能賣什麼"
+    },
+    {
+      "start": 2292.47,
+      "end": 2295.11,
+      "raw_text": "還是我們剛剛講的那三個優先級順序吧",
+      "corrected_text": "還是我們剛剛講的那三個優先級順序吧"
+    },
+    {
+      "start": 2296.11,
+      "end": 2297.47,
+      "raw_text": "就趁著這波回調唄",
+      "corrected_text": "就趁著這波回調唄"
+    },
+    {
+      "start": 2298.87,
+      "end": 2301.99,
+      "raw_text": "但這波回調我也不確定能回調到什麼程度",
+      "corrected_text": "但這波回調我也不確定能回調到什麼程度"
+    },
+    {
+      "start": 2302.51,
+      "end": 2304.19,
+      "raw_text": "就是我總感覺",
+      "corrected_text": "就是我總感覺"
+    },
+    {
+      "start": 2304.79,
+      "end": 2306.11,
+      "raw_text": "可能回調不是很深",
+      "corrected_text": "可能回調不是很深"
+    },
+    {
+      "start": 2307.35,
+      "end": 2308.23,
+      "raw_text": "所以大家可以",
+      "corrected_text": "所以大家可以"
+    },
+    {
+      "start": 2308.67,
+      "end": 2309.23,
+      "raw_text": "嗯",
+      "corrected_text": "嗯"
+    },
+    {
+      "start": 2309.75,
+      "end": 2311.91,
+      "raw_text": "可以看一下今晚有沒有機會先去",
+      "corrected_text": "可以看一下今晚有沒有機會先去"
+    },
+    {
+      "start": 2312.23,
+      "end": 2313.15,
+      "raw_text": "呃建一筆",
+      "corrected_text": "呃建一筆"
+    },
+    {
+      "start": 2313.39,
+      "end": 2314.99,
+      "raw_text": "如果大家手上沒有這個",
+      "corrected_text": "如果大家手上沒有這個"
+    },
+    {
+      "start": 2315.27,
+      "end": 2317.39,
+      "raw_text": "嗯存儲包括那個",
+      "corrected_text": "嗯存儲包括那個"
+    },
+    {
+      "start": 2317.59,
+      "end": 2321.55,
+      "raw_text": "mywell包括光的一個票的一個倉位的話",
+      "corrected_text": "mywell包括光的一個票的一個倉位的話"
+    },
+    {
+      "start": 2321.95,
+      "end": 2323.43,
+      "raw_text": "還是手上要有倉位",
+      "corrected_text": "還是手上要有倉位"
+    },
+    {
+      "start": 2324.43,
+      "end": 2325.79,
+      "raw_text": "就先建第一筆倉",
+      "corrected_text": "就先建第一筆倉"
+    },
+    {
+      "start": 2328.55,
+      "end": 2330.39,
+      "raw_text": "存儲首選是美光",
+      "corrected_text": "存儲首選是美光"
+    },
+    {
+      "start": 2330.39,
+      "end": 2331.35,
+      "raw_text": "首選是美光",
+      "corrected_text": "首選是美光"
+    },
+    {
+      "start": 2332.35,
+      "end": 2334.59,
+      "raw_text": "或者是那個de-run這個etf",
+      "corrected_text": "或者是那個de-run這個etf"
+    },
+    {
+      "start": 2336.9,
+      "end": 2337.98,
+      "raw_text": "就這裡有寫嗎",
+      "corrected_text": "就這裡有寫嗎"
+    },
+    {
+      "start": 2338.14,
+      "end": 2339.94,
+      "raw_text": "de-run這個etf或者是美光",
+      "corrected_text": "de-run這個etf或者是美光"
+    },
+    {
+      "start": 2346.78,
+      "end": 2350.34,
+      "raw_text": "所以微軟我覺得他的優先級肯定不在",
+      "corrected_text": "所以微軟我覺得他的優先級肯定不在"
+    },
+    {
+      "start": 2351.14,
+      "end": 2352.38,
+      "raw_text": "不在很高的優先級",
+      "corrected_text": "不在很高的優先級"
+    },
+    {
+      "start": 2352.38,
+      "end": 2353.42,
+      "raw_text": "他至少是",
+      "corrected_text": "他至少是"
+    },
+    {
+      "start": 2354.22,
+      "end": 2355.5,
+      "raw_text": "比較靠後的優先級",
+      "corrected_text": "比較靠後的優先級"
+    },
+    {
+      "start": 2355.74,
+      "end": 2358.74,
+      "raw_text": "如果單從從那個模型能力來講的話",
+      "corrected_text": "如果單從從那個模型能力來講的話"
+    },
+    {
+      "start": 2358.94,
+      "end": 2361.14,
+      "raw_text": "微軟肯定不是高優先級在裡面",
+      "corrected_text": "微軟肯定不是高優先級在裡面"
+    },
+    {
+      "start": 2364.42,
+      "end": 2365.86,
+      "raw_text": "谷歌現在能加嗎",
+      "corrected_text": "谷歌現在能加嗎"
+    },
+    {
+      "start": 2365.86,
+      "end": 2366.86,
+      "raw_text": "稍等我看一下啊",
+      "corrected_text": "稍等我看一下啊"
+    },
+    {
+      "start": 2378.66,
+      "end": 2381.38,
+      "raw_text": "我如果從那個技術面角度講",
+      "corrected_text": "我如果從那個技術面角度講"
+    },
+    {
+      "start": 2381.38,
+      "end": 2382.82,
+      "raw_text": "其實我還沒看到說",
+      "corrected_text": "其實我還沒看到說"
+    },
+    {
+      "start": 2383.1,
+      "end": 2386.02,
+      "raw_text": "他的一個可能指標給我提示說可以加",
+      "corrected_text": "他的一個可能指標給我提示說可以加"
+    },
+    {
+      "start": 2386.5,
+      "end": 2387.98,
+      "raw_text": "但如果單從存",
+      "corrected_text": "但如果單從存"
+    },
+    {
+      "start": 2388.34,
+      "end": 2390.02,
+      "raw_text": "呃目前狀態講我覺得可以",
+      "corrected_text": "呃目前狀態講我覺得可以"
+    },
+    {
+      "start": 2390.42,
+      "end": 2391.54,
+      "raw_text": "開始加第一筆了",
+      "corrected_text": "開始加第一筆了"
+    },
+    {
+      "start": 2391.74,
+      "end": 2393.5,
+      "raw_text": "如果你說要加谷歌的話",
+      "corrected_text": "如果你說要加谷歌的話"
+    },
+    {
+      "start": 2393.66,
+      "end": 2395.26,
+      "raw_text": "我覺得是可以考慮加第一筆",
+      "corrected_text": "我覺得是可以考慮加第一筆"
+    },
+    {
+      "start": 2396.46,
+      "end": 2398.7,
+      "raw_text": "因為我不確定說後面他會不會再",
+      "corrected_text": "因為我不確定說後面他會不會再"
+    },
+    {
+      "start": 2399.1,
+      "end": 2400.78,
+      "raw_text": "受到情緒影響再跌一波",
+      "corrected_text": "受到情緒影響再跌一波"
+    },
+    {
+      "start": 2401.3,
+      "end": 2403.34,
+      "raw_text": "所以我覺得是可以考慮先加第一筆",
+      "corrected_text": "所以我覺得是可以考慮先加第一筆"
+    },
+    {
+      "start": 2403.34,
+      "end": 2404.34,
+      "raw_text": "一定要分批加",
+      "corrected_text": "一定要分批加"
+    },
+    {
+      "start": 2404.82,
+      "end": 2405.74,
+      "raw_text": "一定要分批加",
+      "corrected_text": "一定要分批加"
+    },
+    {
+      "start": 2408.55,
+      "end": 2411.95,
+      "raw_text": "就是基本靠近了黃金618這個分位線",
+      "corrected_text": "就是基本靠近了黃金618這個分位線"
+    },
+    {
+      "start": 2412.31,
+      "end": 2413.99,
+      "raw_text": "我覺得基本差不多",
+      "corrected_text": "我覺得基本差不多"
+    },
+    {
+      "start": 2414.31,
+      "end": 2416.15,
+      "raw_text": "黃金分位線附近可以加一點",
+      "corrected_text": "黃金分位線附近可以加一點"
+    },
+    {
+      "start": 2416.71,
+      "end": 2418.15,
+      "raw_text": "比如說350左右",
+      "corrected_text": "比如說350左右"
+    },
+    {
+      "start": 2419.11,
+      "end": 2421.63,
+      "raw_text": "然後下一個可能是330左右",
+      "corrected_text": "然後下一個可能是330左右"
+    },
+    {
+      "start": 2422.23,
+      "end": 2424.47,
+      "raw_text": "就是大概是這麼去加分批去加",
+      "corrected_text": "就是大概是這麼去加分批去加"
+    },
+    {
+      "start": 2424.95,
+      "end": 2425.67,
+      "raw_text": "就是谷歌",
+      "corrected_text": "就是谷歌"
+    },
+    {
+      "start": 2426.27,
+      "end": 2427.83,
+      "raw_text": "三個順序及標的",
+      "corrected_text": "三個順序及標的"
+    },
+    {
+      "start": 2427.99,
+      "end": 2428.87,
+      "raw_text": "三個順序",
+      "corrected_text": "三個順序"
+    },
+    {
+      "start": 2429.11,
+      "end": 2430.55,
+      "raw_text": "第一優先級是存儲",
+      "corrected_text": "第一優先級是存儲"
+    },
+    {
+      "start": 2430.71,
+      "end": 2432.19,
+      "raw_text": "存儲首選美光",
+      "corrected_text": "存儲首選美光"
+    },
+    {
+      "start": 2432.35,
+      "end": 2435.55,
+      "raw_text": "或者各或者票或者那個ETF的話就點run",
+      "corrected_text": "或者各或者票或者那個ETF的話就點run"
+    },
+    {
+      "start": 2435.99,
+      "end": 2437.19,
+      "raw_text": "第二個就是Mavir",
+      "corrected_text": "第二個就是Mavir"
+    },
+    {
+      "start": 2437.19,
+      "end": 2438.43,
+      "raw_text": "就是互聯相關的",
+      "corrected_text": "就是互聯相關的"
+    },
+    {
+      "start": 2438.43,
+      "end": 2440.15,
+      "raw_text": "包括SA相關的Mavir",
+      "corrected_text": "包括SA相關的Mavir"
+    },
+    {
+      "start": 2440.47,
+      "end": 2443.55,
+      "raw_text": "第三個就是光裡面的Light Coherent",
+      "corrected_text": "第三個就是光裡面的Light Coherent"
+    },
+    {
+      "start": 2444.47,
+      "end": 2445.99,
+      "raw_text": "對Light Coherent",
+      "corrected_text": "對Light Coherent"
+    },
+    {
+      "start": 2446.31,
+      "end": 2448.31,
+      "raw_text": "因為其實也是還是圍繞",
+      "corrected_text": "因為其實也是還是圍繞"
+    },
+    {
+      "start": 2448.43,
+      "end": 2450.43,
+      "raw_text": "老黃的一個投資邏輯去講",
+      "corrected_text": "老黃的一個投資邏輯去講"
+    },
+    {
+      "start": 2450.91,
+      "end": 2454.19,
+      "raw_text": "因為Light Coherent有21美金的一個投資",
+      "corrected_text": "因為Light Coherent有21美金的一個投資"
+    },
+    {
+      "start": 2454.19,
+      "end": 2455.55,
+      "raw_text": "老黃有投資在裡面",
+      "corrected_text": "老黃有投資在裡面"
+    },
+    {
+      "start": 2457.19,
+      "end": 2457.99,
+      "raw_text": "所以是這個",
+      "corrected_text": "所以是這個"
+    },
+    {
+      "start": 2463.3,
+      "end": 2464.98,
+      "raw_text": "OK 大家還有什麼其他問題嗎",
+      "corrected_text": "OK 大家還有什麼其他問題嗎"
+    },
+    {
+      "start": 2484.08,
+      "end": 2486.4,
+      "raw_text": "然後CPU裡面要看",
+      "corrected_text": "然後CPU裡面要看"
+    },
+    {
+      "start": 2486.76,
+      "end": 2488.32,
+      "raw_text": "其他兩個不太能看",
+      "corrected_text": "其他兩個不太能看"
+    },
+    {
+      "start": 2488.92,
+      "end": 2489.48,
+      "raw_text": "就看",
+      "corrected_text": "就看"
+    },
+    {
+      "start": 2504.37,
+      "end": 2505.85,
+      "raw_text": "IU是走壞了嗎",
+      "corrected_text": "IU是走壞了嗎"
+    },
+    {
+      "start": 2505.85,
+      "end": 2507.49,
+      "raw_text": "黃金",
+      "corrected_text": "黃金"
+    },
+    {
+      "start": 2508.61,
+      "end": 2509.61,
+      "raw_text": "黃金好久沒看了",
+      "corrected_text": "黃金好久沒看了"
+    },
+    {
+      "start": 2510.49,
+      "end": 2513.53,
+      "raw_text": "主要是大家要知道說最近的資金都在懟AI",
+      "corrected_text": "主要是大家要知道說最近的資金都在懟AI"
+    },
+    {
+      "start": 2514.13,
+      "end": 2517.69,
+      "raw_text": "就黃金這塊你可以問一下Frank或者問一下陳老師",
+      "corrected_text": "就黃金這塊你可以問一下Frank或者問一下陳老師"
+    },
+    {
+      "start": 2518.25,
+      "end": 2519.69,
+      "raw_text": "黃金不太看",
+      "corrected_text": "黃金不太看"
+    },
+    {
+      "start": 2522.29,
+      "end": 2523.29,
+      "raw_text": "閃迪",
+      "corrected_text": "閃迪"
+    },
+    {
+      "start": 2524.45,
+      "end": 2525.41,
+      "raw_text": "閃迪也可以",
+      "corrected_text": "閃迪也可以"
+    },
+    {
+      "start": 2525.41,
+      "end": 2528.69,
+      "raw_text": "只是說你如果說從未來的一個",
+      "corrected_text": "只是說你如果說從未來的一個"
+    },
+    {
+      "start": 2529.85,
+      "end": 2531.37,
+      "raw_text": "產能角度來講",
+      "corrected_text": "產能角度來講"
+    },
+    {
+      "start": 2531.37,
+      "end": 2534.25,
+      "raw_text": "閃迪是比較容易被滿足的",
+      "corrected_text": "閃迪是比較容易被滿足的"
+    },
+    {
+      "start": 2534.65,
+      "end": 2537.53,
+      "raw_text": "就是NAND這一塊的產能",
+      "corrected_text": "就是NAND這一塊的產能"
+    },
+    {
+      "start": 2537.69,
+      "end": 2538.89,
+      "raw_text": "因為國內也可以做",
+      "corrected_text": "因為國內也可以做"
+    },
+    {
+      "start": 2540.09,
+      "end": 2542.73,
+      "raw_text": "所以如果未來說國內的產能釋放出來",
+      "corrected_text": "所以如果未來說國內的產能釋放出來"
+    },
+    {
+      "start": 2542.89,
+      "end": 2544.93,
+      "raw_text": "閃能是首當其衝被衝擊的",
+      "corrected_text": "閃能是首當其衝被衝擊的"
+    },
+    {
+      "start": 2551.26,
+      "end": 2553.94,
+      "raw_text": "或者我覺得還是先不要碰",
+      "corrected_text": "或者我覺得還是先不要碰"
+    },
+    {
+      "start": 2554.3,
+      "end": 2554.94,
+      "raw_text": "先不要碰",
+      "corrected_text": "先不要碰"
+    },
+    {
+      "start": 2554.94,
+      "end": 2557.78,
+      "raw_text": "因為幣圈的資金其實也在往外流",
+      "corrected_text": "因為幣圈的資金其實也在往外流"
+    },
+    {
+      "start": 2558.22,
+      "end": 2559.74,
+      "raw_text": "也在往AI方向去走",
+      "corrected_text": "也在往AI方向去走"
+    },
+    {
+      "start": 2560.18,
+      "end": 2561.22,
+      "raw_text": "所以我覺得",
+      "corrected_text": "所以我覺得"
+    },
+    {
+      "start": 2562.58,
+      "end": 2564.54,
+      "raw_text": "還是剛剛說的優先級",
+      "corrected_text": "還是剛剛說的優先級"
+    },
+    {
+      "start": 2565.18,
+      "end": 2567.02,
+      "raw_text": "就貨的目前還不是優先級",
+      "corrected_text": "就貨的目前還不是優先級"
+    },
+    {
+      "start": 2584.14,
+      "end": 2584.9,
+      "raw_text": "OK",
+      "corrected_text": "OK"
+    },
+    {
+      "start": 2587.79,
+      "end": 2588.95,
+      "raw_text": "光的首選",
+      "corrected_text": "光的首選"
+    },
+    {
+      "start": 2589.71,
+      "end": 2592.11,
+      "raw_text": "光的首選其實是Mywell",
+      "corrected_text": "光的首選其實是Mywell"
+    },
+    {
+      "start": 2595.66,
+      "end": 2596.58,
+      "raw_text": "因為歸光子",
+      "corrected_text": "因為歸光子"
+    },
+    {
+      "start": 2596.58,
+      "end": 2599.1,
+      "raw_text": "歸光子是Mywell這一塊",
+      "corrected_text": "歸光子是Mywell這一塊"
+    },
+    {
+      "start": 2599.1,
+      "end": 2601.26,
+      "raw_text": "包括它有老黃的背書",
+      "corrected_text": "包括它有老黃的背書"
+    },
+    {
+      "start": 2607.76,
+      "end": 2611.24,
+      "raw_text": "因為其實你可以看到說Light Coherent包括Mywell",
+      "corrected_text": "因為其實你可以看到說Light Coherent包括Mywell"
+    },
+    {
+      "start": 2611.48,
+      "end": 2613.24,
+      "raw_text": "老黃都是投的21美金",
+      "corrected_text": "老黃都是投的21美金"
+    },
+    {
+      "start": 2613.76,
+      "end": 2616.96,
+      "raw_text": "但是為什麼老黃專點Mywell說是萬一明金失職呢",
+      "corrected_text": "但是為什麼老黃專點Mywell說是萬一明金失職呢"
+    },
+    {
+      "start": 2617.32,
+      "end": 2618.2,
+      "raw_text": "是有道理的",
+      "corrected_text": "是有道理的"
+    },
+    {
+      "start": 2632.12,
+      "end": 2632.6,
+      "raw_text": "OK",
+      "corrected_text": "OK"
+    },
+    {
+      "start": 2634.73,
+      "end": 2637.69,
+      "raw_text": "如果大家還有任何其他個股相關的問題的話",
+      "corrected_text": "如果大家還有任何其他個股相關的問題的話"
+    },
+    {
+      "start": 2637.69,
+      "end": 2639.21,
+      "raw_text": "就可以私信一個小助理",
+      "corrected_text": "就可以私信一個小助理"
+    },
+    {
+      "start": 2639.21,
+      "end": 2640.69,
+      "raw_text": "然後我們到時候幫你回答",
+      "corrected_text": "然後我們到時候幫你回答"
+    },
+    {
+      "start": 2640.93,
+      "end": 2641.29,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 2641.29,
+      "end": 2642.61,
+      "raw_text": "那今天要不就先到這",
+      "corrected_text": "那今天要不就先到這"
+    }
+  ]
+}

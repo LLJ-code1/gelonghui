@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "processed_date": "2026-06-01",
+    "video_key": "未来怎么看美股周观点",
+    "local_video": "data/video_files/2026-06-01/未来怎么看美股周观点.mp4",
+    "status": "visual_reviewed_partial"
+  },
+  "candidates": [
+    {
+      "id": "vr-001",
+      "time_range": "00:02:50-00:23:20",
+      "reason": "讲者持续引用屏幕上的组合表，包含仓位、标的、现价、目标价和下跌位。",
+      "fields_to_check": ["组合名称", "核心资产80%", "AI硬件仓位", "多元化行业", "资源民族主义", "标的代码", "仓位比例"]
+    },
+    {
+      "id": "vr-002",
+      "time_range": "00:24:40-00:32:50",
+      "reason": "讲者讨论华为相关图片，ASR将关键词识别成套定率/掏定率/韬定律，需要画面确认。",
+      "fields_to_check": ["图片标题", "产业链环节", "受益方向", "讲者对全球半导体冲击判断"]
+    },
+    {
+      "id": "vr-003",
+      "time_range": "00:29:50-00:32:20",
+      "reason": "Q&A中对Google、SpaceX IPO、DRAM/SOX和英伟达走势的判断涉及关键价位和风险提示。",
+      "fields_to_check": ["Google加仓区间", "SpaceX IPO抽血", "DRAM/SOX加仓上限", "英伟达走势"]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "processed_date": "2026-06-04",
+    "video_key": "美股周观点_5",
+    "status": "visual_reviewed",
+    "frames_dir": "data/video_frames/2026-06-04/美股周观点_5/",
+    "contact_sheet": "data/video_frames/2026-06-04/美股周观点_5/contact_sheet.jpg",
+    "method": "manual frame review from ffmpeg screenshots",
+    "note": "本轮未使用 Fanbook/夸克；关键图表均来自本地视频抽帧。"
+  },
+  "results": [
+    {
+      "candidate_id": "vr-001",
+      "status": "confirmed",
+      "time": "00:01:47",
+      "result": "画面标题为黄仁勋“五层蛋糕”理论，美股AI全产业链核心资产全景图。可确认层级包括能源、芯片、基础设施、模型、应用，出现URA/URNM/CCJ、SOXX/SMH、TSM/GPU(NVDA)/存储(SNDK/MU/DRAM)、光通信/互联/液冷/ASIC、GOOG/AMZN/MSFT/META等标的。"
+    },
+    {
+      "candidate_id": "vr-002",
+      "status": "confirmed",
+      "time": "00:03:00",
+      "result": "画面显示英伟达投资组合持仓和英伟达投资版图一览，含Intel、CoreWeave、Synopsys、Coherent、Nokia、NVIDIA相关AI投资等，支持讲者“老黄投资版图”主线。"
+    },
+    {
+      "candidate_id": "vr-003",
+      "status": "confirmed",
+      "time": "00:07:20",
+      "result": "画面标题为VR200机架BOM全景拆解与Agentic AI时代CPU价值重估，右侧表格显示GB300与VR200的BOM对比，Memory行被标红，支持存储增量最大的判断。"
+    },
+    {
+      "candidate_id": "vr-004",
+      "status": "confirmed",
+      "time": "00:10:35",
+      "result": "画面为热点追踪，列出SOXX/SMH、存储、碳化硅、CPU、设备等，红字重点提到三星P4、海力士M15X、美光A3等新增产能信息。"
+    },
+    {
+      "candidate_id": "vr-005",
+      "status": "confirmed",
+      "time": "00:13:08",
+      "result": "画面标题为PC行业核心博弈：新铁三角 vs 旧日霸主，红字指出英伟达+Arm+微软对英特尔+AMD形成冲击，确认AI PC新旧三角框架。"
+    },
+    {
+      "candidate_id": "vr-006",
+      "status": "confirmed",
+      "time": "00:18:43",
+      "result": "画面为CRWD走势图，走势陡峭上行，支持讲者关于CRWD短期涨幅过快、财报后回调合理的判断。"
+    },
+    {
+      "candidate_id": "vr-007",
+      "status": "confirmed",
+      "time": "00:23:05",
+      "result": "画面仍为PC行业核心博弈页，确认讲者关于高端PC市场份额侵蚀的讨论仍在同一张框架页上。"
+    },
+    {
+      "candidate_id": "vr-008",
+      "status": "confirmed",
+      "time": "00:26:45",
+      "result": "画面为CRDO股票走势，配合转写可确认讲者在讨论Credo财报后走势和200G进度不及预期。"
+    },
+    {
+      "candidate_id": "vr-009",
+      "status": "confirmed",
+      "time": "00:27:35",
+      "result": "画面标题为英伟达与Marvell深度绑定的技术野心与生态防御，红字列出英伟达投资Marvell、Computex 2026黄仁勋公开称Marvell等时间线，确认Marvell主线。"
+    },
+    {
+      "candidate_id": "vr-010",
+      "status": "confirmed",
+      "time": "00:32:18",
+      "result": "画面标题为博通AVGO FY26Q2财报，显示盘后下跌约10%，并列出AI半导体收入指引不及预期等条目，确认Broadcom财报压制硬件情绪。"
+    },
+    {
+      "candidate_id": "vr-011",
+      "status": "confirmed",
+      "time": "00:34:47",
+      "result": "画面回到五层蛋糕理论页，支持讲者在Q&A中按存储、Marvell/互联、光通信重申优先级。"
+    }
+  ]
+}

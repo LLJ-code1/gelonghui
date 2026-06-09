@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "processed_date": "2026-06-01",
+    "video_recorded_date_from_audio": "2026-05-25",
+    "source": "Quark existing file",
+    "video_title": "未来怎么看美股周观点.mp4",
+    "video_key": "未来怎么看美股周观点",
+    "local_video": "data/video_files/2026-06-01/未来怎么看美股周观点.mp4",
+    "cloud_folder": "全部文件/格隆汇/26.5.26",
+    "cloud_file_size": "170.9MB",
+    "duration": "00:35:57",
+    "transcript_corrected": "data/video_transcripts/2026-06-01/未来怎么看美股周观点__full__medium__corrected.txt",
+    "segments_json": "data/video_transcripts/2026-06-01/未来怎么看美股周观点__full__medium__segments.json",
+    "segment_count": 941,
+    "status": "visual_reviewed_partial",
+    "note": "本轮未访问Fanbook，按用户指定的夸克已有美股视频单独整理。观点均为讲者观点整理，不作投资建议。"
+  },
+  "topline": {
+    "one_line": "英伟达财报落地后，美股科技单边上涨阶段基本结束，未来一个半月更可能进入高位宽幅震荡；组合仍以AI硬件为核心，但新增软件高低切、数据中心能源、资源民族主义等分散配置。",
+    "portfolio_bias": "核心资产80%，其中AI硬件相关约60%以上；多元化行业10%；资源民族主义10%。仓位上强调逐步加、等回调，不在高位猛追。",
+    "key_risk": "讲者反复提示半导体和AI硬件交易拥挤，英伟达财报后资金分歧上升，SpaceX等巨型IPO可能抽血，后续高位震荡概率提升。"
+  },
+  "opinions": [
+    {
+      "id": "us-video-20260601-001",
+      "time_range": "00:02:32-00:06:08",
+      "topic": "英伟达财报后：从单边行情转向高位震荡",
+      "stance": "短线谨慎，中线仍围绕AI主线",
+      "compressed_view": "3月地缘冲突下跌、4月至5月中下旬强势反弹后，市场进入高位震荡概率上升。AI半导体硬件热度和拥挤度很高，英伟达财报落地后短期资金出现分歧，后续会有多次回调上车机会。",
+      "details": "讲者认为，上周五美股半导体和当天A股半导体的加速上涨都显示资金高度集中在AI领域，市场宽度并不高。龙头公司如果一天内大幅上涨甚至涨停，反而说明交易拥挤。英伟达财报是重要时间点，财报落地后英伟达本身逐日调整，意味着后续单边上涨概率降低，高位标的可能被兑现。",
+      "assets_or_names": ["英伟达", "AI硬件", "半导体"],
+      "action_implication_from_speaker": "前期仓位不足不用追高，未来一个半月的宽幅震荡会给多次上车机会。",
+      "confidence": "high",
+      "visual_candidate_ids": ["vr-001"]
+    },
+    {
+      "id": "us-video-20260601-002",
+      "time_range": "00:06:13-00:10:13",
+      "topic": "组合框架：核心资产80%，AI硬件仍占大头",
+      "stance": "AI硬件为主，部分高位品种等回调",
+      "compressed_view": "核心资产占80%，若剔除特斯拉、Meta和网络安全，AI硬件相关仓位仍有60%以上。表格显示核心包括TSM、GOOG、NVDA、TSLA、META、MU/SNDK、NBIS/CRWV、INTC/AMD/ARM、COHR/GLW/LITE、MRVL/ALAB/CRDO、CRWD/PANW/FTNT等。",
+      "details": "画面复核确认，表格标题为格隆汇美股周期策略组合。核心科技资产中，TSM、GOOG、NVDA、MU/SNDK均为10%仓位；TSLA、META、光通信/光缆、互联、网络安全为5%；NBIS/CRWV和INTC/AMD/ARM为7.5%。讲者强调，有些涨得高的可以缓慢加或等较大回调再加，已有核心仓位不必过度动。",
+      "assets_or_names": ["TSM", "GOOG", "NVDA", "TSLA", "META", "MU", "SNDK", "NBIS", "CRWV", "INTC", "AMD", "ARM", "COHR", "GLW", "LITE", "MRVL", "ALAB", "CRDO", "CRWD", "PANW", "FTNT"],
+      "action_implication_from_speaker": "AI硬件核心仓位继续拿；高位半导体不要一次性加重仓。",
+      "confidence": "high",
+      "visual_candidate_ids": ["vr-001"]
+    },
+    {
+      "id": "us-video-20260601-003",
+      "time_range": "00:07:11-00:10:13",
+      "topic": "特斯拉：按Physical AI重新定价",
+      "stance": "继续持有，可配置约5%",
+      "compressed_view": "讲者把特斯拉放在Physical AI框架下，认为人形机器人、自动驾驶和SpaceX联动仍有催化。表格给TSLA 5%仓位，现价区间约420附近，上涨目标500，下行位370。",
+      "details": "讲者引用黄仁勋对Physical AI的表述，认为AI从生成式AI走向三维物理世界时，特斯拉和SpaceX是重要载体。音频称SpaceX在6月12日左右有上市催化，可能支持特斯拉估值。讲者先看特斯拉到500附近，并提到2036年长期看3万到4万亿美元市值，但该长期目标需要更久兑现。",
+      "assets_or_names": ["TSLA", "特斯拉", "SpaceX", "Physical AI", "自动驾驶", "人形机器人"],
+      "action_implication_from_speaker": "420附近可买约5%仓位，短线目标先看500附近。",
+      "confidence": "high",
+      "visual_candidate_ids": ["vr-001"]
+    },
+    {
+      "id": "us-video-20260601-004",
+      "time_range": "00:08:34-00:13:43",
+      "topic": "软件高低切：网络安全优先，其他SaaS做短线空头回补",
+      "stance": "网络安全最优，低位软件只适合短线交易",
+      "compressed_view": "Meta和奈飞二选一，讲者更优先Meta；软件相对硬件出现极端低估后有空头回补机会。CRWD/PANW/FTNT是网络安全优先组合，其中CRWD因AI进展快、能与AI共存，作为软件切换第一优先级。SAP、NOW、SNOW、MDB、IBM、CRM等只适合短线博弈。",
+      "details": "讲者认为软件不能一刀切地被AI颠覆，要区分被AI杀死、与AI共存、借AI重生。网络安全目前更偏能与AI共存，CRWD长期享受高估值溢价，表格给CRWD/PANW/FTNT 5%仓位。IGV可作为省心ETF；IBM叠加AI应用和量子计算，相对低位可关注，但软件反弹到合理水平后仍可能再分化。",
+      "assets_or_names": ["META", "NFLX", "IGV", "CRWD", "PANW", "FTNT", "SAP", "NOW", "SNOW", "MDB", "IBM", "CRM"],
+      "action_implication_from_speaker": "网络安全比一般SaaS更适合纳入组合；低位SaaS只做短线回补，不宜当长期主线。",
+      "confidence": "high",
+      "visual_candidate_ids": ["vr-001"]
+    },
+    {
+      "id": "us-video-20260601-005",
+      "time_range": "00:13:50-00:15:58",
+      "topic": "数据中心能源：GEV/BE二选一，CAT继续中期持有",
+      "stance": "能源约束是AI数据中心扩张的重要分支",
+      "compressed_view": "GEV做燃气轮机、BE做燃料电池，二者都受益于数据中心用电需求；GEV是主流高效方案，BE走小众分布式场景。CAT则同时受益资源民族主义和AI相关内燃机需求，继续作为中期持有标的。",
+      "details": "画面复核表格显示多元化行业10%，GEV/BE和CAT各5%。讲者以甲骨文部分数据中心改用BE燃料电池为例说明，燃料电池适合小型、场地或政策受限的数据中心，而燃气轮机仍是更主流、更易上产能的方案。讲者把GEV类比英伟达，BE类比Google TPU：前者占主流份额，后者切出独特小赛道。",
+      "assets_or_names": ["GEV", "BE", "CAT", "甲骨文", "数据中心电力", "燃气轮机", "燃料电池"],
+      "action_implication_from_speaker": "GEV/BE可二选一，CAT继续中期持有。",
+      "confidence": "high",
+      "visual_candidate_ids": ["vr-001"]
+    },
+    {
+      "id": "us-video-20260601-006",
+      "time_range": "00:16:01-00:19:47",
+      "topic": "资源民族主义：黄金长期拿，铀矿/铜矿/白银更有弹性",
+      "stance": "资源作为组合分散，优先弹性资源",
+      "compressed_view": "黄金不再重点放入组合，不是看空，而是长期定投持有即可。讲者认为今年黄金仍可能到5500-5600，距当下约20%空间；但组合里更强调铀矿和铜矿各5%，如果想要更高弹性可用白银。",
+      "details": "画面复核表格显示资源民族主义10%，URA/URNM/CCJ为铀矿ETF或全球最大铀矿公司，COPX/FCX/SCCO为铜矿ETF或铜矿公司。讲者称黄金适合作为长期持有，不适合做短中线交易；铀矿有中长期涨价逻辑，铜矿也有涨价逻辑。白银现价约78美元，讲者认为今年到90多甚至100概率较大，弹性强于黄金。",
+      "assets_or_names": ["黄金", "白银", "URA", "URNM", "CCJ", "COPX", "FCX", "SCCO"],
+      "action_implication_from_speaker": "黄金长期拿；组合弹性优先铀矿、铜矿，想更刺激可换白银。",
+      "confidence": "high",
+      "visual_candidate_ids": ["vr-001"]
+    },
+    {
+      "id": "us-video-20260601-007",
+      "time_range": "00:17:55-00:20:40",
+      "topic": "备注方向：碳化硅、英伟达产业链、国产算力、稀土",
+      "stance": "作为主线外的弹性跟踪",
+      "compressed_view": "碳化硅和功率半导体景气复苏，WOLF、德州仪器、意法半导体、英飞凌可跟踪；APH、VRT、AOI等可视为两倍或三倍做多英伟达；AVGO、ASML有中长期配置价值；国产算力线和稀土继续看好。",
+      "details": "讲者表示，由于上方硬件仓位已经很多，碳化硅不作为强推，但它也是数据中心电力解决方案的一部分。APH做铜缆、VRT做液冷、AOI做光通信，弹性比表格里的光通信组合更大。甲骨文虽然有右侧信号，但体量和财务压力使其相对滞后；BABA、金山云、世纪互联等国产算力线需参考港股团队节奏。稀土方面，因美日加澳韩加速构建稀土产业链，NP继续看好。",
+      "assets_or_names": ["WOLF", "TXN", "STMicro", "Infineon", "APH", "VRT", "AOI", "AVGO", "ASML", "ORCL", "BABA", "金山云", "世纪互联", "NP"],
+      "action_implication_from_speaker": "这些更偏弹性和补充方向，优先级低于核心AI硬件仓位。",
+      "confidence": "medium",
+      "visual_candidate_ids": ["vr-001"]
+    },
+    {
+      "id": "us-video-20260601-008",
+      "time_range": "00:21:53-00:24:24",
+      "topic": "Q&A：美光、闪迪、SOX、DRAM、微软和比特币",
+      "stance": "半导体可持有但不宜高位重仓加，微软可继续拿",
+      "compressed_view": "美光、闪迪行业景气没结束，但图形有双头风险，当前位置重仓买性价比不高，最多5%-10%。SOX、DRAM同理：有就继续拿，新增仓位不宜激进。比特币受富途事件对加密相关资产冲击影响，建议再等等；微软作为软件里攻守兼备标的，可以继续持有。",
+      "details": "讲者提到特朗普周末给美光带货，但在当前位置追美光和闪迪容易被宽幅震荡套住。SOX和DRAM虽然除英伟达外叙事较强，但英伟达偏弱，半导体指数可能短期冲顶。微软如果想做超跌软件且不知道选什么，是攻守兼备选择。",
+      "assets_or_names": ["MU", "SNDK", "SOX", "DRAM", "BTC", "MSFT", "NVDA"],
+      "action_implication_from_speaker": "已有半导体仓位继续拿；新增最多5%-10%，不猛加；微软可持有，比特币先等。",
+      "confidence": "high",
+      "visual_candidate_ids": []
+    },
+    {
+      "id": "us-video-20260601-009",
+      "time_range": "00:24:29-00:29:09",
+      "topic": "华为“锟定律”：对全球半导体冲击有限，对A股偏情绪催化",
+      "stance": "不把它视为全球半导体利空",
+      "compressed_view": "讲者认为华为“锟定律”是先进制程受限后的系统级优化路径，是不得已而为之；对美日韩欧台半导体设备、材料、芯片、制程等实质冲击很小。对A股国产半导体是情绪利好，但不是今天才开始的新逻辑。",
+      "details": "画面复核显示图片标题为“华为‘锟定律’，谁最受益？”，副标题为“锟定律产业链全景——从沙子到芯片到互联”。讲者强调，如果有充足先进制程，企业不会优先采用这种替代方案；华为从贸易战后一直在做系统级优化，今天更多是宣告或里程碑，不是新增产业需求的起点。相较之下，长存长鑫扩产、上市、融资对产业链需求更实在。",
+      "assets_or_names": ["华为", "锟定律", "国产半导体", "长存", "长鑫", "美日韩欧台半导体"],
+      "action_implication_from_speaker": "A股可沿产业链炒情绪和受益公司，但不应因此抛售全球半导体龙头。",
+      "confidence": "high",
+      "visual_candidate_ids": ["vr-002"]
+    },
+    {
+      "id": "us-video-20260601-010",
+      "time_range": "00:29:11-00:32:24",
+      "topic": "Google、Meta和IPO抽血：高位震荡信号增强",
+      "stance": "核心继续拿，但新增等回调",
+      "compressed_view": "Google作为AI第一梯队、芯片和云加速标的，坚定持有；但当前位置加仓性价比不高，可能在380-400附近震荡，等回到360左右更好。Meta类似2024年底的Google，还没到爆发点。SpaceX等巨型IPO可能抽血，是科技股震荡风险的重要信号。",
+      "details": "讲者认为Google在AI第一梯队、芯片、应用和Google Cloud加速方面都不错，但从5月初财报超预期后市场热情发酵充分，短期不急加。Meta的AI追赶还需要几个季度。讲者提醒6月和下半年中美巨型IPO较多，巨头上市往往对科技板块抽血，因此不要被每日大涨迷惑。",
+      "assets_or_names": ["GOOG", "Google Cloud", "META", "SpaceX", "NVDA", "SOX"],
+      "action_implication_from_speaker": "Google、Meta这类核心继续拿；新增仓位等回调，警惕IPO抽血和英伟达走弱。",
+      "confidence": "high",
+      "visual_candidate_ids": ["vr-001"]
+    },
+    {
+      "id": "us-video-20260601-011",
+      "time_range": "00:33:40-00:35:17",
+      "topic": "富途事件：恒科和中概股可能短期承压",
+      "stance": "提示资金面压力，操作问港股团队",
+      "compressed_view": "讲者粗算富途、老虎、长桥等券商客户持有中概股和恒科相关资产体量约1200亿美元，若发生恐慌卖出，按日成交额估算需要约6个交易日消化，恒科和中概互联可能承压5%-10%。",
+      "details": "讲者强调这是最悲观情形，现实中有两年处理期，不一定集中卖出，但几千亿人民币存量抛压仍可能让恒生科技和中概互联指数承压一段时间。具体操作建议咨询港股团队或大帅。",
+      "assets_or_names": ["富途", "老虎", "长桥", "恒生科技", "中概股", "中概互联"],
+      "action_implication_from_speaker": "中概/恒科短线留意资金面卖压，暂不由美股周观点直接给操作结论。",
+      "confidence": "medium",
+      "visual_candidate_ids": []
+    }
+  ],
+  "asr_review_terms": [
+    {"asr_text": "耐飞", "normalized": "奈飞", "note": "语境为Netflix。"},
+    {"asr_text": "右旷/右框/右", "normalized": "铀矿/铀", "note": "表格画面确认为URA/URNM/CCJ铀矿相关。"},
+    {"asr_text": "卡德比勒", "normalized": "卡特彼勒", "note": "语境为CAT。"},
+    {"asr_text": "甲骨纹", "normalized": "甲骨文", "note": "语境为Oracle数据中心。"},
+    {"asr_text": "新机件", "normalized": "新基建", "note": "语境为AI新基建。"},
+    {"asr_text": "NBA-IS", "normalized": "NBIS", "note": "表格画面显示NBIS/CRWV。"},
+    {"asr_text": "CRW-V/CoreWave", "normalized": "CRWV/CoreWeave", "note": "表格画面显示CRWV。"},
+    {"asr_text": "套定率/掏定率/韬定律", "normalized": "锟定律", "note": "画面标题显示华为“锟定律”。"},
+    {"asr_text": "芭芭", "normalized": "阿里巴巴/BABA", "note": "语境为国产算力线。"}
+  ]
+}

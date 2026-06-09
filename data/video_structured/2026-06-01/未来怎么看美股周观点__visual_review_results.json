@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "processed_date": "2026-06-01",
+    "video_key": "未来怎么看美股周观点",
+    "frame_dir": "data/video_frames/2026-06-01/未来怎么看美股周观点",
+    "contact_sheet": "data/video_frames/2026-06-01/未来怎么看美股周观点/contact_sheet.jpg",
+    "status": "visual_reviewed_partial",
+    "review_method": "人工查看关键帧；未运行OCR。"
+  },
+  "results": [
+    {
+      "candidate_id": "vr-001",
+      "status": "confirmed",
+      "frames": [
+        "vr_000250.jpg",
+        "vr_000620.jpg",
+        "vr_001020.jpg",
+        "vr_001350.jpg",
+        "vr_001610.jpg",
+        "vr_001830.jpg",
+        "vr_002200.jpg",
+        "vr_002320.jpg"
+      ],
+      "finding": "画面确认表格为格隆汇美股周期策略组合。核心科技资产80%，多元化行业10%，资源民族主义10%。核心资产含TSM、GOOG、NVDA、TSLA、META、MU/SNDK、NBIS/CRWV、INTC/AMD/ARM、COHR/GLW/LITE、MRVL/ALAB/CRDO、CRWD/PANW/FTNT；多元化含GEV/BE、CAT；资源含URA/URNM/CCJ和COPX/FCX/SCCO。",
+      "notes": "表格中TSLA为5%仓位、420附近、目标500、下跌位370；CRWD/PANW/FTNT为网络安全5%；GEV/BE和CAT各5%。"
+    },
+    {
+      "candidate_id": "vr-002",
+      "status": "confirmed",
+      "frames": [
+        "vr_002450.jpg",
+        "vr_002450_title_crop.jpg",
+        "vr_002912.jpg",
+        "vr_003240.jpg"
+      ],
+      "finding": "画面标题确认是“华为‘锟定律’，谁最受益？”，副标题为“锟定律产业链全景——从沙子到芯片到互联”。画面列出设计工具、芯片制造、设备支撑、封装测试、互联通信等环节。",
+      "notes": "音频判断为：该路线是先进制程受限后的系统级优化，对全球半导体实质冲击有限，对A股国产半导体偏情绪催化。"
+    },
+    {
+      "candidate_id": "vr-003",
+      "status": "partial",
+      "frames": [
+        "vr_002912.jpg",
+        "vr_003240.jpg"
+      ],
+      "finding": "后段画面仍主要停留在华为“锟定律”图片，Google、SpaceX IPO、DRAM/SOX、富途事件等Q&A细节主要依赖音频。",
+      "notes": "整理稿中相关数字和判断均标注为讲者音频观点。"
+    }
+  ]
+}

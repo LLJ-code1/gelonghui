@@ -1,0 +1,388 @@
+{
+  "metadata": {
+    "video_path": "data/video_files/2026-05-24/程恒祥，大帅(5)(1).mp4",
+    "date": "2026-05-24",
+    "name": "程恒祥_大帅_5",
+    "title": "程恒祥，大帅(5)",
+    "outer_author": "流浪地球",
+    "model": "medium",
+    "language": "zh",
+    "duration_limit_seconds": 180.0,
+    "corrections_file": "data/video_terms_corrections.json",
+    "generated_at": "2026-05-25T10:05:54+08:00",
+    "whisper_info": {
+      "language": "zh",
+      "language_probability": 1,
+      "duration": 179.903
+    },
+    "segment_count": 61
+  },
+  "segments": [
+    {
+      "start": 32.3,
+      "end": 35.58,
+      "raw_text": "好那我们正式开始今天的一个周末的内容",
+      "corrected_text": "好那我们正式开始今天的一个周末的内容"
+    },
+    {
+      "start": 35.58,
+      "end": 36.98,
+      "raw_text": "能听到的帮我们扣个1啊",
+      "corrected_text": "能听到的帮我们扣个1啊"
+    },
+    {
+      "start": 38.34,
+      "end": 39.7,
+      "raw_text": "能听到的帮我们扣个1啊",
+      "corrected_text": "能听到的帮我们扣个1啊"
+    },
+    {
+      "start": 39.7,
+      "end": 41.3,
+      "raw_text": "测一下网络跟设备",
+      "corrected_text": "测一下网络跟设备"
+    },
+    {
+      "start": 43.7,
+      "end": 45.06,
+      "raw_text": "能听到的帮我们扣个1",
+      "corrected_text": "能听到的帮我们扣个1"
+    },
+    {
+      "start": 50.18,
+      "end": 51.46,
+      "raw_text": "测一下网络跟设备啊",
+      "corrected_text": "测一下网络跟设备啊"
+    },
+    {
+      "start": 51.46,
+      "end": 53.78,
+      "raw_text": "没问题我们就正常正式开始",
+      "corrected_text": "没问题我们就正常正式开始"
+    },
+    {
+      "start": 53.78,
+      "end": 55.3,
+      "raw_text": "今天的一个周末的内容啊",
+      "corrected_text": "今天的一个周末的内容啊"
+    },
+    {
+      "start": 56.1,
+      "end": 58.02,
+      "raw_text": "本周末的话",
+      "corrected_text": "本周末的话"
+    },
+    {
+      "start": 58.46,
+      "end": 62.7,
+      "raw_text": "一些宏观层面政策层面的信息还是比较多啊",
+      "corrected_text": "一些宏观层面政策层面的信息还是比较多啊"
+    },
+    {
+      "start": 62.7,
+      "end": 65.46,
+      "raw_text": "但是对于A股来讲更多的是利好啊",
+      "corrected_text": "但是对于A股来讲更多的是利好啊"
+    },
+    {
+      "start": 65.98,
+      "end": 68.1,
+      "raw_text": "可能对于港美有一些利空",
+      "corrected_text": "可能对于港美有一些利空"
+    },
+    {
+      "start": 68.1,
+      "end": 72.14,
+      "raw_text": "但基本上对于A股还是相对来讲是利好的",
+      "corrected_text": "但基本上对于A股还是相对来讲是利好的"
+    },
+    {
+      "start": 72.78,
+      "end": 75.7,
+      "raw_text": "好吧好我们正式开始今天的一个复盘内容",
+      "corrected_text": "好吧好我们正式开始今天的一个复盘内容"
+    },
+    {
+      "start": 75.7,
+      "end": 78.74,
+      "raw_text": "我们今天的主题叫做和平曙光出现啊",
+      "corrected_text": "我们今天的主题叫做和平曙光出现啊"
+    },
+    {
+      "start": 79.22,
+      "end": 83.34,
+      "raw_text": "我相信有很多朋友们想来问我们关于老虎复徒",
+      "corrected_text": "我相信有很多朋友们想来问我们关于老虎富途"
+    },
+    {
+      "start": 83.74,
+      "end": 86.14,
+      "raw_text": "然后这些被陷",
+      "corrected_text": "然后这些被陷"
+    },
+    {
+      "start": 86.5,
+      "end": 88.66,
+      "raw_text": "尤其是政经会吧",
+      "corrected_text": "尤其是证监会吧"
+    },
+    {
+      "start": 88.66,
+      "end": 90.54,
+      "raw_text": "政经会在周五那一天",
+      "corrected_text": "证监会在周五那一天"
+    },
+    {
+      "start": 90.94,
+      "end": 93.14,
+      "raw_text": "然后突然发了一个公告",
+      "corrected_text": "然后突然发了一个公告"
+    },
+    {
+      "start": 93.62,
+      "end": 95.82,
+      "raw_text": "然后对老虎复徒啊等等啊",
+      "corrected_text": "然后对老虎富途啊等等啊"
+    },
+    {
+      "start": 95.82,
+      "end": 99.78,
+      "raw_text": "这类的一些外资券商做了一个处罚啊",
+      "corrected_text": "这类的一些外资券商做了一个处罚啊"
+    },
+    {
+      "start": 99.78,
+      "end": 101.5,
+      "raw_text": "有朋友想听点评的",
+      "corrected_text": "有朋友想听点评的"
+    },
+    {
+      "start": 101.5,
+      "end": 104.18,
+      "raw_text": "可以听我们后面演技员给大家做一个",
+      "corrected_text": "可以听我们后面研究员给大家做一个"
+    },
+    {
+      "start": 104.94,
+      "end": 105.54,
+      "raw_text": "分析啊",
+      "corrected_text": "分析啊"
+    },
+    {
+      "start": 105.98,
+      "end": 107.9,
+      "raw_text": "因为这个对于A股是利好的",
+      "corrected_text": "因为这个对于A股是利好的"
+    },
+    {
+      "start": 107.9,
+      "end": 109.62,
+      "raw_text": "对A股没有太多的利空啊",
+      "corrected_text": "对A股没有太多的利空啊"
+    },
+    {
+      "start": 110.38,
+      "end": 111.82,
+      "raw_text": "就是不让炒美股",
+      "corrected_text": "就是不让炒美股"
+    },
+    {
+      "start": 111.82,
+      "end": 112.86,
+      "raw_text": "不让你资金外流",
+      "corrected_text": "不让你资金外流"
+    },
+    {
+      "start": 112.86,
+      "end": 114.7,
+      "raw_text": "这对A股完全都是利好的",
+      "corrected_text": "这对A股完全都是利好的"
+    },
+    {
+      "start": 114.7,
+      "end": 115.62,
+      "raw_text": "对A股没影响",
+      "corrected_text": "对A股没影响"
+    },
+    {
+      "start": 115.62,
+      "end": 118.62,
+      "raw_text": "所以我这里不续聊这个什么复徒",
+      "corrected_text": "所以我这里不续聊这个什么富途"
+    },
+    {
+      "start": 118.98,
+      "end": 122.7,
+      "raw_text": "你要问关于复徒关于老虎",
+      "corrected_text": "你要问关于富途关于老虎"
+    },
+    {
+      "start": 122.9,
+      "end": 126.18,
+      "raw_text": "这些被政经会处罚",
+      "corrected_text": "这些被证监会处罚"
+    },
+    {
+      "start": 126.42,
+      "end": 128.06,
+      "raw_text": "以及它的一个相关的影响",
+      "corrected_text": "以及它的一个相关的影响"
+    },
+    {
+      "start": 128.06,
+      "end": 130.18,
+      "raw_text": "我们后面的演技员会给大家做个解答",
+      "corrected_text": "我们后面的研究员会给大家做个解答"
+    },
+    {
+      "start": 130.18,
+      "end": 131.78,
+      "raw_text": "我先跟大家做个定调",
+      "corrected_text": "我先跟大家做个定调"
+    },
+    {
+      "start": 131.78,
+      "end": 133.7,
+      "raw_text": "因为这个东西对于A股是利好的",
+      "corrected_text": "因为这个东西对于A股是利好的"
+    },
+    {
+      "start": 133.7,
+      "end": 134.86,
+      "raw_text": "不要你资金外流",
+      "corrected_text": "不要你资金外流"
+    },
+    {
+      "start": 134.86,
+      "end": 136.66,
+      "raw_text": "不要你在外面去炒美股",
+      "corrected_text": "不要你在外面去炒美股"
+    },
+    {
+      "start": 136.94,
+      "end": 140.02,
+      "raw_text": "核心的一点是想把资金留在国内啊",
+      "corrected_text": "核心的一点是想把资金留在国内啊"
+    },
+    {
+      "start": 140.02,
+      "end": 140.78,
+      "raw_text": "留在国内",
+      "corrected_text": "留在国内"
+    },
+    {
+      "start": 140.78,
+      "end": 142.02,
+      "raw_text": "所以对于这一块来讲",
+      "corrected_text": "所以对于这一块来讲"
+    },
+    {
+      "start": 142.02,
+      "end": 143.5,
+      "raw_text": "我说了后面的演技员会讲",
+      "corrected_text": "我说了后面的研究员会讲"
+    },
+    {
+      "start": 143.5,
+      "end": 144.74,
+      "raw_text": "所以我们今天这个主题",
+      "corrected_text": "所以我们今天这个主题"
+    },
+    {
+      "start": 144.74,
+      "end": 147.86,
+      "raw_text": "A股这一边不聚焦对于复徒这一些",
+      "corrected_text": "A股这一边不聚焦对于富途这一些"
+    },
+    {
+      "start": 147.9,
+      "end": 149.38,
+      "raw_text": "对于老虎这一些",
+      "corrected_text": "对于老虎这一些"
+    },
+    {
+      "start": 149.62,
+      "end": 152.06,
+      "raw_text": "被政经会处罚的这个事件的一个解读啊",
+      "corrected_text": "被证监会处罚的这个事件的一个解读啊"
+    },
+    {
+      "start": 152.06,
+      "end": 154.14,
+      "raw_text": "我们核心的A股这一边就",
+      "corrected_text": "我们核心的A股这一边就"
+    },
+    {
+      "start": 154.62,
+      "end": 156.94,
+      "raw_text": "目前A股的一个节奏来聊",
+      "corrected_text": "目前A股的一个节奏来聊"
+    },
+    {
+      "start": 157.58,
+      "end": 160.5,
+      "raw_text": "A股今天的主题叫做和平曙光的一个出现",
+      "corrected_text": "A股今天的主题叫做和平曙光的一个出现"
+    },
+    {
+      "start": 160.74,
+      "end": 162.06,
+      "raw_text": "因为在本周末",
+      "corrected_text": "因为在本周末"
+    },
+    {
+      "start": 162.14,
+      "end": 162.98,
+      "raw_text": "我说了本周末",
+      "corrected_text": "我说了本周末"
+    },
+    {
+      "start": 162.98,
+      "end": 165.26,
+      "raw_text": "其实宏观上面主要就是两个事件",
+      "corrected_text": "其实宏观上面主要就是两个事件"
+    },
+    {
+      "start": 165.78,
+      "end": 168.5,
+      "raw_text": "一个是特朗普跟伊朗达成了一个协议",
+      "corrected_text": "一个是特朗普跟伊朗达成了一个协议"
+    },
+    {
+      "start": 168.7,
+      "end": 170.02,
+      "raw_text": "是特朗普自己说的",
+      "corrected_text": "是特朗普自己说的"
+    },
+    {
+      "start": 170.02,
+      "end": 172.22,
+      "raw_text": "他跟伊朗之间达成了一个关于",
+      "corrected_text": "他跟伊朗之间达成了一个关于"
+    },
+    {
+      "start": 172.22,
+      "end": 174.98,
+      "raw_text": "停火的一个初步的协议的协议稿",
+      "corrected_text": "停火的一个初步的协议的协议稿"
+    },
+    {
+      "start": 175.18,
+      "end": 177.38,
+      "raw_text": "其实在你看通篇里面",
+      "corrected_text": "其实在你看通篇里面"
+    },
+    {
+      "start": 177.42,
+      "end": 178.82,
+      "raw_text": "关于美伊协议里面",
+      "corrected_text": "关于美伊协议里面"
+    },
+    {
+      "start": 178.82,
+      "end": 179.9,
+      "raw_text": "它最核心的",
+      "corrected_text": "它最核心的"
+    }
+  ]
+}

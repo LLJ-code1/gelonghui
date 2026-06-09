@@ -23,5 +23,51 @@
     "modified_at": "2026-05-24 17:34"
   },
   "target_folder": "全部文件/格隆汇/26.5.24",
-  "status": "saved_to_target"
+  "status": "saved_to_target",
+  "last_scoped_content_run": {
+    "run_at": "2026-05-28T21:30:00+08:00",
+    "scope": "user_requested_recent_two_days_only",
+    "dates_checked": [
+      "2026-05-27",
+      "2026-05-28"
+    ],
+    "checkpoint_advanced": false,
+    "reason_not_advanced": "本轮只按用户要求保存2026-05-27分享并下载/整理程恒祥，大帅(6)，未完整处理2026-05-25和2026-05-26，不把常规视频断点推进到2026-05-27。",
+    "saved_share": {
+      "message_date": "2026-05-27",
+      "message_time": "18:04",
+      "outer_author": "流浪地球",
+      "title": "杨航(11) 等2项",
+      "quark_url": "https://pan.quark.cn/s/9613d3615179",
+      "target_folder": "全部文件/格隆汇/26.5.27",
+      "status": "saved_to_target"
+    },
+    "processed_video": {
+      "file_name": "程恒祥，大帅(6).mp4",
+      "local_file": "data/video_files/2026-05-27/程恒祥，大帅(6)(1).mp4",
+      "video_key": "程恒祥_大帅_6",
+      "status": "visual_reviewed_partial"
+    },
+    "saved_only_files": [
+      {
+        "file_name": "杨航(11).mp4",
+        "status": "saved_to_target"
+      }
+    ]
+  },
+  "last_manual_quark_run": {
+    "run_at": "2026-06-01T21:30:00+08:00",
+    "scope": "user_uploaded_us_stock_video_in_quark",
+    "fanbook_accessed": false,
+    "checkpoint_advanced": false,
+    "reason_not_advanced": "本轮按用户指定处理夸克网盘已有文件，未访问Fanbook #视频，未从顶部扫描新增消息。",
+    "processed_video": {
+      "cloud_folder": "全部文件/格隆汇/26.5.26",
+      "cloud_file_name": "未来怎么看美股周观点.mp4",
+      "cloud_file_size": "170.9MB",
+      "local_file": "data/video_files/2026-06-01/未来怎么看美股周观点.mp4",
+      "video_key": "未来怎么看美股周观点",
+      "status": "visual_reviewed_partial"
+    }
+  }
 }
