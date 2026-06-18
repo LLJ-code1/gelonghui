@@ -1,0 +1,5668 @@
+{
+  "metadata": {
+    "video_path": "data/video_files/2026-06-01/未来怎么看美股周观点.mp4",
+    "date": "2026-06-01",
+    "name": "未来怎么看美股周观点",
+    "title": "未来怎么看美股周观点.mp4",
+    "outer_author": "Quark manual",
+    "model": "medium",
+    "language": "zh",
+    "duration_limit_seconds": null,
+    "corrections_file": "data/video_terms_corrections.json",
+    "generated_at": "2026-06-01T21:31:41+08:00",
+    "whisper_info": {
+      "language": "zh",
+      "language_probability": 1,
+      "duration": 2157.2034375
+    },
+    "segment_count": 941
+  },
+  "segments": [
+    {
+      "start": 5.33,
+      "end": 25.62,
+      "raw_text": "我这一直显示加载中啊",
+      "corrected_text": "我这一直显示加载中啊"
+    },
+    {
+      "start": 32.78,
+      "end": 34.06,
+      "raw_text": "是公司的网络有问题吗",
+      "corrected_text": "是公司的网络有问题吗"
+    },
+    {
+      "start": 45.21,
+      "end": 47.09,
+      "raw_text": "Hello hello 有声音吗",
+      "corrected_text": "Hello hello 有声音吗"
+    },
+    {
+      "start": 53.03,
+      "end": 53.63,
+      "raw_text": "OK是吧",
+      "corrected_text": "OK是吧"
+    },
+    {
+      "start": 117.5,
+      "end": 117.94,
+      "raw_text": "喂",
+      "corrected_text": "喂"
+    },
+    {
+      "start": 125.66,
+      "end": 127.26,
+      "raw_text": "大家下午好 能听到声音吗",
+      "corrected_text": "大家下午好 能听到声音吗"
+    },
+    {
+      "start": 127.26,
+      "end": 128.46,
+      "raw_text": "能看到屏幕吗",
+      "corrected_text": "能看到屏幕吗"
+    },
+    {
+      "start": 148.64,
+      "end": 149.0,
+      "raw_text": "好",
+      "corrected_text": "好"
+    },
+    {
+      "start": 149.2,
+      "end": 151.0,
+      "raw_text": "那我们就开始了",
+      "corrected_text": "那我们就开始了"
+    },
+    {
+      "start": 152.8,
+      "end": 155.6,
+      "raw_text": "今天是2026年5月25日",
+      "corrected_text": "今天是2026年5月25日"
+    },
+    {
+      "start": 156.72,
+      "end": 158.04,
+      "raw_text": "我们一直说",
+      "corrected_text": "我们一直说"
+    },
+    {
+      "start": 158.96,
+      "end": 161.72,
+      "raw_text": "英伟达财报是一个重大的时间节点",
+      "corrected_text": "英伟达财报是一个重大的时间节点"
+    },
+    {
+      "start": 162.2,
+      "end": 165.36,
+      "raw_text": "那么从上周四这个节点结束之后",
+      "corrected_text": "那么从上周四这个节点结束之后"
+    },
+    {
+      "start": 165.4,
+      "end": 166.08,
+      "raw_text": "我们就",
+      "corrected_text": "我们就"
+    },
+    {
+      "start": 166.68,
+      "end": 168.6,
+      "raw_text": "需要给大家去更新一版",
+      "corrected_text": "需要给大家去更新一版"
+    },
+    {
+      "start": 168.6,
+      "end": 169.6,
+      "raw_text": "我们认为",
+      "corrected_text": "我们认为"
+    },
+    {
+      "start": 170.12,
+      "end": 171.6,
+      "raw_text": "在5月下旬",
+      "corrected_text": "在5月下旬"
+    },
+    {
+      "start": 171.6,
+      "end": 173.84,
+      "raw_text": "包括6月份可以去运行的方案",
+      "corrected_text": "包括6月份可以去运行的方案"
+    },
+    {
+      "start": 174.56,
+      "end": 175.4,
+      "raw_text": "这一版方案",
+      "corrected_text": "这一版方案"
+    },
+    {
+      "start": 175.6,
+      "end": 178.12,
+      "raw_text": "小助理应该已经发给大家了",
+      "corrected_text": "小助理应该已经发给大家了"
+    },
+    {
+      "start": 178.12,
+      "end": 180.84,
+      "raw_text": "但是可能没有做过系统性的讲解",
+      "corrected_text": "但是可能没有做过系统性的讲解"
+    },
+    {
+      "start": 181.12,
+      "end": 182.48,
+      "raw_text": "有些朋友可能还有问题",
+      "corrected_text": "有些朋友可能还有问题"
+    },
+    {
+      "start": 182.68,
+      "end": 184.44,
+      "raw_text": "那么今天我们就来集中去",
+      "corrected_text": "那么今天我们就来集中去"
+    },
+    {
+      "start": 184.44,
+      "end": 186.24,
+      "raw_text": "讲解一下这版方案",
+      "corrected_text": "讲解一下这版方案"
+    },
+    {
+      "start": 186.64,
+      "end": 187.32,
+      "raw_text": "大家",
+      "corrected_text": "大家"
+    },
+    {
+      "start": 187.84,
+      "end": 189.88,
+      "raw_text": "在看的过程中有什么问题",
+      "corrected_text": "在看的过程中有什么问题"
+    },
+    {
+      "start": 189.88,
+      "end": 191.32,
+      "raw_text": "可以随时提问",
+      "corrected_text": "可以随时提问"
+    },
+    {
+      "start": 191.32,
+      "end": 192.96,
+      "raw_text": "我们来做解答好吧",
+      "corrected_text": "我们来做解答好吧"
+    },
+    {
+      "start": 193.96,
+      "end": 196.04,
+      "raw_text": "那我们的核心思想是",
+      "corrected_text": "那我们的核心思想是"
+    },
+    {
+      "start": 196.04,
+      "end": 198.28,
+      "raw_text": "在经历了3月份",
+      "corrected_text": "在经历了3月份"
+    },
+    {
+      "start": 198.28,
+      "end": 199.92,
+      "raw_text": "3月份",
+      "corrected_text": "3月份"
+    },
+    {
+      "start": 199.92,
+      "end": 201.68,
+      "raw_text": "整个地缘冲突",
+      "corrected_text": "整个地缘冲突"
+    },
+    {
+      "start": 201.68,
+      "end": 202.76,
+      "raw_text": "市场",
+      "corrected_text": "市场"
+    },
+    {
+      "start": 202.76,
+      "end": 203.6,
+      "raw_text": "大跌",
+      "corrected_text": "大跌"
+    },
+    {
+      "start": 203.6,
+      "end": 205.28,
+      "raw_text": "与4月份以来",
+      "corrected_text": "与4月份以来"
+    },
+    {
+      "start": 205.28,
+      "end": 206.76,
+      "raw_text": "4月份到5月",
+      "corrected_text": "4月份到5月"
+    },
+    {
+      "start": 206.76,
+      "end": 207.84,
+      "raw_text": "中下旬",
+      "corrected_text": "中下旬"
+    },
+    {
+      "start": 207.84,
+      "end": 209.44,
+      "raw_text": "一个半月时间",
+      "corrected_text": "一个半月时间"
+    },
+    {
+      "start": 209.72,
+      "end": 211.24,
+      "raw_text": "强势反弹之后",
+      "corrected_text": "强势反弹之后"
+    },
+    {
+      "start": 211.24,
+      "end": 213.36,
+      "raw_text": "那么对于后面的市场怎么看",
+      "corrected_text": "那么对于后面的市场怎么看"
+    },
+    {
+      "start": 213.64,
+      "end": 214.6,
+      "raw_text": "我们认为",
+      "corrected_text": "我们认为"
+    },
+    {
+      "start": 214.6,
+      "end": 216.76,
+      "raw_text": "后续市场整体上",
+      "corrected_text": "后续市场整体上"
+    },
+    {
+      "start": 216.76,
+      "end": 219.12,
+      "raw_text": "步入高位震荡的概率",
+      "corrected_text": "步入高位震荡的概率"
+    },
+    {
+      "start": 219.12,
+      "end": 220.76,
+      "raw_text": "是在迅速上升的",
+      "corrected_text": "是在迅速上升的"
+    },
+    {
+      "start": 221.04,
+      "end": 222.68,
+      "raw_text": "那么结构分化",
+      "corrected_text": "那么结构分化"
+    },
+    {
+      "start": 223.64,
+      "end": 225.52,
+      "raw_text": "的趋势会越来越明显",
+      "corrected_text": "的趋势会越来越明显"
+    },
+    {
+      "start": 225.92,
+      "end": 227.52,
+      "raw_text": "不像在过去",
+      "corrected_text": "不像在过去"
+    },
+    {
+      "start": 227.8,
+      "end": 229.36,
+      "raw_text": "这几十个交易日",
+      "corrected_text": "这几十个交易日"
+    },
+    {
+      "start": 229.52,
+      "end": 230.6,
+      "raw_text": "日之中",
+      "corrected_text": "日之中"
+    },
+    {
+      "start": 230.6,
+      "end": 232.68,
+      "raw_text": "那么明显的单边行情",
+      "corrected_text": "那么明显的单边行情"
+    },
+    {
+      "start": 233.56,
+      "end": 235.48,
+      "raw_text": "单边行情的主要阶段",
+      "corrected_text": "单边行情的主要阶段"
+    },
+    {
+      "start": 235.48,
+      "end": 236.88,
+      "raw_text": "应该说基本结束了",
+      "corrected_text": "应该说基本结束了"
+    },
+    {
+      "start": 237.12,
+      "end": 239.8,
+      "raw_text": "其实无论是上周五美股的",
+      "corrected_text": "其实无论是上周五美股的"
+    },
+    {
+      "start": 239.8,
+      "end": 241.76,
+      "raw_text": "半导体的一些加速",
+      "corrected_text": "半导体的一些加速"
+    },
+    {
+      "start": 241.76,
+      "end": 245.04,
+      "raw_text": "包括了今天A股的一些半导体加速",
+      "corrected_text": "包括了今天A股的一些半导体加速"
+    },
+    {
+      "start": 245.24,
+      "end": 247.2,
+      "raw_text": "虽然是有很多边际变化",
+      "corrected_text": "虽然是有很多边际变化"
+    },
+    {
+      "start": 247.2,
+      "end": 248.88,
+      "raw_text": "利好消息刺激的",
+      "corrected_text": "利好消息刺激的"
+    },
+    {
+      "start": 248.88,
+      "end": 250.88,
+      "raw_text": "但是很明显可以看到",
+      "corrected_text": "但是很明显可以看到"
+    },
+    {
+      "start": 250.88,
+      "end": 253.08,
+      "raw_text": "现在市场宽度并不高",
+      "corrected_text": "现在市场宽度并不高"
+    },
+    {
+      "start": 253.08,
+      "end": 254.72,
+      "raw_text": "资金都在集中",
+      "corrected_text": "资金都在集中"
+    },
+    {
+      "start": 254.72,
+      "end": 255.84,
+      "raw_text": "基本上",
+      "corrected_text": "基本上"
+    },
+    {
+      "start": 255.84,
+      "end": 258.96,
+      "raw_text": "只在AI一个领域去集中抱团",
+      "corrected_text": "只在AI一个领域去集中抱团"
+    },
+    {
+      "start": 258.96,
+      "end": 260.44,
+      "raw_text": "其他领域其实是",
+      "corrected_text": "其他领域其实是"
+    },
+    {
+      "start": 260.44,
+      "end": 263.68,
+      "raw_text": "获得不到什么资金和关注的",
+      "corrected_text": "获得不到什么资金和关注的"
+    },
+    {
+      "start": 263.68,
+      "end": 265.96,
+      "raw_text": "而且在龙头公司会出现",
+      "corrected_text": "而且在龙头公司会出现"
+    },
+    {
+      "start": 265.96,
+      "end": 268.68,
+      "raw_text": "非常大幅度高成交量的",
+      "corrected_text": "非常大幅度高成交量的"
+    },
+    {
+      "start": 268.68,
+      "end": 269.8,
+      "raw_text": "这种上升",
+      "corrected_text": "这种上升"
+    },
+    {
+      "start": 270.0,
+      "end": 271.16,
+      "raw_text": "在这种情况下",
+      "corrected_text": "在这种情况下"
+    },
+    {
+      "start": 271.6,
+      "end": 273.88,
+      "raw_text": "虽然大家觉得很乐观",
+      "corrected_text": "虽然大家觉得很乐观"
+    },
+    {
+      "start": 273.88,
+      "end": 275.32,
+      "raw_text": "行情看起来很不错",
+      "corrected_text": "行情看起来很不错"
+    },
+    {
+      "start": 275.32,
+      "end": 277.0,
+      "raw_text": "天天都是五个点",
+      "corrected_text": "天天都是五个点"
+    },
+    {
+      "start": 277.0,
+      "end": 278.56,
+      "raw_text": "十个点甚至20厘米的涨",
+      "corrected_text": "十个点甚至20厘米的涨"
+    },
+    {
+      "start": 278.56,
+      "end": 279.4,
+      "raw_text": "但是",
+      "corrected_text": "但是"
+    },
+    {
+      "start": 279.44,
+      "end": 281.08,
+      "raw_text": "但是我们会发现",
+      "corrected_text": "但是我们会发现"
+    },
+    {
+      "start": 281.08,
+      "end": 282.76,
+      "raw_text": "其实如果说这些龙头公司",
+      "corrected_text": "其实如果说这些龙头公司"
+    },
+    {
+      "start": 282.76,
+      "end": 284.64,
+      "raw_text": "都一天内涨停的话",
+      "corrected_text": "都一天内涨停的话"
+    },
+    {
+      "start": 284.64,
+      "end": 285.72,
+      "raw_text": "那么实际上",
+      "corrected_text": "那么实际上"
+    },
+    {
+      "start": 285.72,
+      "end": 287.52,
+      "raw_text": "你可以判断市场的交易",
+      "corrected_text": "你可以判断市场的交易"
+    },
+    {
+      "start": 287.52,
+      "end": 288.68,
+      "raw_text": "拥挤程度非常高",
+      "corrected_text": "拥挤程度非常高"
+    },
+    {
+      "start": 288.68,
+      "end": 290.48,
+      "raw_text": "你不禁要问一句话",
+      "corrected_text": "你不禁要问一句话"
+    },
+    {
+      "start": 290.64,
+      "end": 292.04,
+      "raw_text": "那么就算你都涨停了",
+      "corrected_text": "那么就算你都涨停了"
+    },
+    {
+      "start": 292.04,
+      "end": 293.04,
+      "raw_text": "然后怎么办",
+      "corrected_text": "然后怎么办"
+    },
+    {
+      "start": 293.36,
+      "end": 294.72,
+      "raw_text": "所以在这种情况下",
+      "corrected_text": "所以在这种情况下"
+    },
+    {
+      "start": 294.76,
+      "end": 297.4,
+      "raw_text": "我们还是认为当下市场的",
+      "corrected_text": "我们还是认为当下市场的"
+    },
+    {
+      "start": 297.4,
+      "end": 301.0,
+      "raw_text": "半导体AI硬件的热度非常高",
+      "corrected_text": "半导体AI硬件的热度非常高"
+    },
+    {
+      "start": 301.08,
+      "end": 304.2,
+      "raw_text": "叠加英伟达财报落地之后",
+      "corrected_text": "叠加英伟达财报落地之后"
+    },
+    {
+      "start": 304.2,
+      "end": 306.56,
+      "raw_text": "英伟达本身其实是出现",
+      "corrected_text": "英伟达本身其实是出现"
+    },
+    {
+      "start": 307.48,
+      "end": 309.28,
+      "raw_text": "几个交易日逐日调整的",
+      "corrected_text": "几个交易日逐日调整的"
+    },
+    {
+      "start": 309.28,
+      "end": 310.84,
+      "raw_text": "虽然幅度并不高",
+      "corrected_text": "虽然幅度并不高"
+    },
+    {
+      "start": 310.88,
+      "end": 312.24,
+      "raw_text": "但是也可以看到",
+      "corrected_text": "但是也可以看到"
+    },
+    {
+      "start": 312.28,
+      "end": 315.56,
+      "raw_text": "当像它其实是短期资金",
+      "corrected_text": "当像它其实是短期资金"
+    },
+    {
+      "start": 316.08,
+      "end": 317.36,
+      "raw_text": "有分歧的情况下",
+      "corrected_text": "有分歧的情况下"
+    },
+    {
+      "start": 317.36,
+      "end": 319.4,
+      "raw_text": "我们认为后续单边行情的",
+      "corrected_text": "我们认为后续单边行情的"
+    },
+    {
+      "start": 319.4,
+      "end": 321.6,
+      "raw_text": "这种概率是比较低的",
+      "corrected_text": "这种概率是比较低的"
+    },
+    {
+      "start": 321.6,
+      "end": 322.76,
+      "raw_text": "比较低的",
+      "corrected_text": "比较低的"
+    },
+    {
+      "start": 323.44,
+      "end": 324.56,
+      "raw_text": "在这种情况下",
+      "corrected_text": "在这种情况下"
+    },
+    {
+      "start": 324.6,
+      "end": 326.04,
+      "raw_text": "我们依然判断",
+      "corrected_text": "我们依然判断"
+    },
+    {
+      "start": 326.08,
+      "end": 328.16,
+      "raw_text": "在英伟达财报落地之后",
+      "corrected_text": "在英伟达财报落地之后"
+    },
+    {
+      "start": 328.16,
+      "end": 330.44,
+      "raw_text": "未来一段时间很可能",
+      "corrected_text": "未来一段时间很可能"
+    },
+    {
+      "start": 330.76,
+      "end": 333.56,
+      "raw_text": "有些高位的标的要被兑现",
+      "corrected_text": "有些高位的标的要被兑现"
+    },
+    {
+      "start": 333.56,
+      "end": 337.08,
+      "raw_text": "震荡的格局会逐步体现出来",
+      "corrected_text": "震荡的格局会逐步体现出来"
+    },
+    {
+      "start": 337.08,
+      "end": 338.64,
+      "raw_text": "也因此我们认为",
+      "corrected_text": "也因此我们认为"
+    },
+    {
+      "start": 338.8,
+      "end": 340.32,
+      "raw_text": "就算有些标的",
+      "corrected_text": "就算有些标的"
+    },
+    {
+      "start": 340.36,
+      "end": 342.48,
+      "raw_text": "你在5月份拿的仓位不够多",
+      "corrected_text": "你在5月份拿的仓位不够多"
+    },
+    {
+      "start": 342.48,
+      "end": 343.48,
+      "raw_text": "也不要急",
+      "corrected_text": "也不要急"
+    },
+    {
+      "start": 343.48,
+      "end": 344.6,
+      "raw_text": "未来一个半月",
+      "corrected_text": "未来一个半月"
+    },
+    {
+      "start": 344.96,
+      "end": 347.36,
+      "raw_text": "在进行多次宽幅震荡的时候",
+      "corrected_text": "在进行多次宽幅震荡的时候"
+    },
+    {
+      "start": 347.36,
+      "end": 349.2,
+      "raw_text": "会给你很多的上车机会",
+      "corrected_text": "会给你很多的上车机会"
+    },
+    {
+      "start": 349.52,
+      "end": 351.2,
+      "raw_text": "这一点大家无需恐慌",
+      "corrected_text": "这一点大家无需恐慌"
+    },
+    {
+      "start": 351.24,
+      "end": 354.0,
+      "raw_text": "如果之前你带有些热门股票",
+      "corrected_text": "如果之前你带有些热门股票"
+    },
+    {
+      "start": 354.04,
+      "end": 355.0,
+      "raw_text": "减成了一部分",
+      "corrected_text": "减成了一部分"
+    },
+    {
+      "start": 355.0,
+      "end": 355.8,
+      "raw_text": "现在又涨起来了",
+      "corrected_text": "现在又涨起来了"
+    },
+    {
+      "start": 355.8,
+      "end": 356.68,
+      "raw_text": "不用担心",
+      "corrected_text": "不用担心"
+    },
+    {
+      "start": 356.72,
+      "end": 359.64,
+      "raw_text": "后续回桥中还有几次的上车机会",
+      "corrected_text": "后续回桥中还有几次的上车机会"
+    },
+    {
+      "start": 360.44,
+      "end": 363.12,
+      "raw_text": "所以我们的综合判断是认为",
+      "corrected_text": "所以我们的综合判断是认为"
+    },
+    {
+      "start": 363.16,
+      "end": 365.96,
+      "raw_text": "行情将以区间震荡",
+      "corrected_text": "行情将以区间震荡"
+    },
+    {
+      "start": 366.4,
+      "end": 368.4,
+      "raw_text": "各股分化为主",
+      "corrected_text": "各股分化为主"
+    },
+    {
+      "start": 368.76,
+      "end": 371.2,
+      "raw_text": "这是整个大家最关注最大的",
+      "corrected_text": "这是整个大家最关注最大的"
+    },
+    {
+      "start": 371.2,
+      "end": 372.8,
+      "raw_text": "AI软件半导体",
+      "corrected_text": "AI软件半导体"
+    },
+    {
+      "start": 373.6,
+      "end": 377.24,
+      "raw_text": "因此我们在核心资产这个领域",
+      "corrected_text": "因此我们在核心资产这个领域"
+    },
+    {
+      "start": 377.4,
+      "end": 379.84,
+      "raw_text": "核心资产领域放了80%的仓位",
+      "corrected_text": "核心资产领域放了80%的仓位"
+    },
+    {
+      "start": 380.0,
+      "end": 384.12,
+      "raw_text": "这里边如果我们把特斯拉和Meta",
+      "corrected_text": "这里边如果我们把特斯拉和Meta"
+    },
+    {
+      "start": 384.64,
+      "end": 387.52,
+      "raw_text": "以及网络安全这些删掉",
+      "corrected_text": "以及网络安全这些删掉"
+    },
+    {
+      "start": 387.56,
+      "end": 389.4,
+      "raw_text": "那么其实硬件端",
+      "corrected_text": "那么其实硬件端"
+    },
+    {
+      "start": 389.4,
+      "end": 390.68,
+      "raw_text": "包括了星际之城",
+      "corrected_text": "包括了星际之城"
+    },
+    {
+      "start": 391.0,
+      "end": 391.84,
+      "raw_text": "台积电",
+      "corrected_text": "台积电"
+    },
+    {
+      "start": 391.88,
+      "end": 394.08,
+      "raw_text": "包括了现在已经弯道超车",
+      "corrected_text": "包括了现在已经弯道超车"
+    },
+    {
+      "start": 394.08,
+      "end": 395.92,
+      "raw_text": "成为AIDT的谷歌",
+      "corrected_text": "成为AIDT的谷歌"
+    },
+    {
+      "start": 396.08,
+      "end": 397.44,
+      "raw_text": "再加上英伟达",
+      "corrected_text": "再加上英伟达"
+    },
+    {
+      "start": 397.6,
+      "end": 399.28,
+      "raw_text": "以及存储",
+      "corrected_text": "以及存储"
+    },
+    {
+      "start": 399.32,
+      "end": 400.32,
+      "raw_text": "光通信",
+      "corrected_text": "光通信"
+    },
+    {
+      "start": 400.32,
+      "end": 402.04,
+      "raw_text": "CPU AI新基建",
+      "corrected_text": "CPU AI新基建"
+    },
+    {
+      "start": 403.04,
+      "end": 404.32,
+      "raw_text": "光互联等等",
+      "corrected_text": "光互联等等"
+    },
+    {
+      "start": 404.48,
+      "end": 406.24,
+      "raw_text": "那么像这些的仓位",
+      "corrected_text": "那么像这些的仓位"
+    },
+    {
+      "start": 406.24,
+      "end": 409.08,
+      "raw_text": "其实已经放了大概有60个点以上了",
+      "corrected_text": "其实已经放了大概有60个点以上了"
+    },
+    {
+      "start": 409.44,
+      "end": 412.4,
+      "raw_text": "也就是说最核心的AI硬件环节",
+      "corrected_text": "也就是说最核心的AI硬件环节"
+    },
+    {
+      "start": 412.4,
+      "end": 414.68,
+      "raw_text": "放了60个点以上的足以",
+      "corrected_text": "放了60个点以上的足以"
+    },
+    {
+      "start": 414.72,
+      "end": 417.36,
+      "raw_text": "说明了对这个领域还是非常重视的",
+      "corrected_text": "说明了对这个领域还是非常重视的"
+    },
+    {
+      "start": 417.4,
+      "end": 419.76,
+      "raw_text": "只不过有些涨得比较高",
+      "corrected_text": "只不过有些涨得比较高"
+    },
+    {
+      "start": 420.04,
+      "end": 421.48,
+      "raw_text": "可以去缓慢加仓",
+      "corrected_text": "可以去缓慢加仓"
+    },
+    {
+      "start": 421.48,
+      "end": 425.04,
+      "raw_text": "或者等它出现比较大幅度回调的时候",
+      "corrected_text": "或者等它出现比较大幅度回调的时候"
+    },
+    {
+      "start": 425.04,
+      "end": 427.2,
+      "raw_text": "再去加重仓也可以",
+      "corrected_text": "再去加重仓也可以"
+    },
+    {
+      "start": 427.48,
+      "end": 428.8,
+      "raw_text": "有些核心仓位",
+      "corrected_text": "有些核心仓位"
+    },
+    {
+      "start": 428.84,
+      "end": 430.04,
+      "raw_text": "大家是一直拿着的",
+      "corrected_text": "大家是一直拿着的"
+    },
+    {
+      "start": 430.04,
+      "end": 431.32,
+      "raw_text": "这些就不用太动",
+      "corrected_text": "这些就不用太动"
+    },
+    {
+      "start": 431.6,
+      "end": 433.96,
+      "raw_text": "那么除了AI硬件之外",
+      "corrected_text": "那么除了AI硬件之外"
+    },
+    {
+      "start": 433.96,
+      "end": 435.88,
+      "raw_text": "那么这里边我们认为",
+      "corrected_text": "那么这里边我们认为"
+    },
+    {
+      "start": 436.48,
+      "end": 438.6,
+      "raw_text": "还可以继续看好的",
+      "corrected_text": "还可以继续看好的"
+    },
+    {
+      "start": 438.6,
+      "end": 440.04,
+      "raw_text": "包括了像特斯拉",
+      "corrected_text": "包括了像特斯拉"
+    },
+    {
+      "start": 440.08,
+      "end": 444.8,
+      "raw_text": "因为黄仁勋在最近的发言中也再次指出",
+      "corrected_text": "因为黄仁勋在最近的发言中也再次指出"
+    },
+    {
+      "start": 444.84,
+      "end": 449.96,
+      "raw_text": "当从生成式AI向下一个阶段",
+      "corrected_text": "当从生成式AI向下一个阶段"
+    },
+    {
+      "start": 450.04,
+      "end": 452.12,
+      "raw_text": "物理AI就是Physical AI",
+      "corrected_text": "物理AI就是Physical AI"
+    },
+    {
+      "start": 452.24,
+      "end": 454.08,
+      "raw_text": "开始演进的时候",
+      "corrected_text": "开始演进的时候"
+    },
+    {
+      "start": 454.2,
+      "end": 456.12,
+      "raw_text": "那么所谓物理AI",
+      "corrected_text": "那么所谓物理AI"
+    },
+    {
+      "start": 456.12,
+      "end": 459.64,
+      "raw_text": "就是脱离了虚拟空间的",
+      "corrected_text": "就是脱离了虚拟空间的"
+    },
+    {
+      "start": 459.68,
+      "end": 462.16,
+      "raw_text": "真正进入到我们说三维层面的",
+      "corrected_text": "真正进入到我们说三维层面的"
+    },
+    {
+      "start": 462.16,
+      "end": 463.92,
+      "raw_text": "包括了人性机器人",
+      "corrected_text": "包括了人性机器人"
+    },
+    {
+      "start": 464.32,
+      "end": 466.4,
+      "raw_text": "自动驾驶等等",
+      "corrected_text": "自动驾驶等等"
+    },
+    {
+      "start": 466.52,
+      "end": 469.88,
+      "raw_text": "这些载体来去成绩AI",
+      "corrected_text": "这些载体来去成绩AI"
+    },
+    {
+      "start": 469.92,
+      "end": 473.44,
+      "raw_text": "那么显然无论是特斯拉或者说SpaceX",
+      "corrected_text": "那么显然无论是特斯拉或者说SpaceX"
+    },
+    {
+      "start": 473.56,
+      "end": 477.48,
+      "raw_text": "都是非常好的这样一个物理AI的标的",
+      "corrected_text": "都是非常好的这样一个物理AI的标的"
+    },
+    {
+      "start": 477.88,
+      "end": 479.08,
+      "raw_text": "在这种情况下",
+      "corrected_text": "在这种情况下"
+    },
+    {
+      "start": 479.16,
+      "end": 482.32,
+      "raw_text": "其实不排除市场后续去定价",
+      "corrected_text": "其实不排除市场后续去定价"
+    },
+    {
+      "start": 482.52,
+      "end": 484.4,
+      "raw_text": "从这个角度去定价特斯拉",
+      "corrected_text": "从这个角度去定价特斯拉"
+    },
+    {
+      "start": 484.44,
+      "end": 490.64,
+      "raw_text": "不仅是靠特斯拉原有的这种认知体系",
+      "corrected_text": "不仅是靠特斯拉原有的这种认知体系"
+    },
+    {
+      "start": 490.68,
+      "end": 494.48,
+      "raw_text": "也靠黄仁勋把它认为作为AI的下个阶段",
+      "corrected_text": "也靠黄仁勋把它认为作为AI的下个阶段"
+    },
+    {
+      "start": 494.52,
+      "end": 497.0,
+      "raw_text": "所以特斯拉依然可以继续持有",
+      "corrected_text": "所以特斯拉依然可以继续持有"
+    },
+    {
+      "start": 497.28,
+      "end": 500.96,
+      "raw_text": "再结合6月12日左右",
+      "corrected_text": "再结合6月12日左右"
+    },
+    {
+      "start": 500.96,
+      "end": 502.92,
+      "raw_text": "SpaceX即将上市",
+      "corrected_text": "SpaceX即将上市"
+    },
+    {
+      "start": 503.08,
+      "end": 504.96,
+      "raw_text": "那么对特斯拉来说",
+      "corrected_text": "那么对特斯拉来说"
+    },
+    {
+      "start": 504.96,
+      "end": 507.16,
+      "raw_text": "它未来一段时间的催化剂是比较多的",
+      "corrected_text": "它未来一段时间的催化剂是比较多的"
+    },
+    {
+      "start": 507.32,
+      "end": 510.04,
+      "raw_text": "所以我们依然把它放在核心资产阵列",
+      "corrected_text": "所以我们依然把它放在核心资产阵列"
+    },
+    {
+      "start": 510.24,
+      "end": 511.72,
+      "raw_text": "大家可以持续去持有",
+      "corrected_text": "大家可以持续去持有"
+    },
+    {
+      "start": 512.52,
+      "end": 513.8,
+      "raw_text": "那么另外一个就是",
+      "corrected_text": "那么另外一个就是"
+    },
+    {
+      "start": 514.44,
+      "end": 518.28,
+      "raw_text": "继续放一个互联网的核心公司Meta",
+      "corrected_text": "继续放一个互联网的核心公司Meta"
+    },
+    {
+      "start": 518.28,
+      "end": 520.68,
+      "raw_text": "那么有的人说耐飞行不行",
+      "corrected_text": "那么有的人说耐飞行不行"
+    },
+    {
+      "start": 520.68,
+      "end": 521.52,
+      "raw_text": "耐飞也可以",
+      "corrected_text": "耐飞也可以"
+    },
+    {
+      "start": 521.52,
+      "end": 524.16,
+      "raw_text": "我们认为Meta和耐飞可以二选一即可",
+      "corrected_text": "我们认为Meta和耐飞可以二选一即可"
+    },
+    {
+      "start": 524.36,
+      "end": 527.0,
+      "raw_text": "没必要在当下时间点重复配置",
+      "corrected_text": "没必要在当下时间点重复配置"
+    },
+    {
+      "start": 527.16,
+      "end": 529.08,
+      "raw_text": "二选一即可好吧",
+      "corrected_text": "二选一即可好吧"
+    },
+    {
+      "start": 529.8,
+      "end": 531.0,
+      "raw_text": "可能有些朋友说",
+      "corrected_text": "可能有些朋友说"
+    },
+    {
+      "start": 531.04,
+      "end": 533.12,
+      "raw_text": "跟上一版相比怎么耐飞没有了",
+      "corrected_text": "跟上一版相比怎么耐飞没有了"
+    },
+    {
+      "start": 533.12,
+      "end": 534.2,
+      "raw_text": "因为我们上一版的时候",
+      "corrected_text": "因为我们上一版的时候"
+    },
+    {
+      "start": 534.2,
+      "end": 536.0,
+      "raw_text": "其实耐飞和Meta也是二选一的",
+      "corrected_text": "其实耐飞和Meta也是二选一的"
+    },
+    {
+      "start": 536.04,
+      "end": 538.2,
+      "raw_text": "那么现在的话大家依然可以二选一",
+      "corrected_text": "那么现在的话大家依然可以二选一"
+    },
+    {
+      "start": 538.24,
+      "end": 540.52,
+      "raw_text": "我们认为Meta是比较优先的",
+      "corrected_text": "我们认为Meta是比较优先的"
+    },
+    {
+      "start": 540.84,
+      "end": 542.72,
+      "raw_text": "特斯拉的目前的价格可不可以",
+      "corrected_text": "特斯拉的目前的价格可不可以"
+    },
+    {
+      "start": 542.72,
+      "end": 544.6,
+      "raw_text": "可以啊可以",
+      "corrected_text": "可以啊可以"
+    },
+    {
+      "start": 545.32,
+      "end": 545.8,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 545.96,
+      "end": 548.24,
+      "raw_text": "特斯拉我们依然是看到",
+      "corrected_text": "特斯拉我们依然是看到"
+    },
+    {
+      "start": 549.28,
+      "end": 552.28,
+      "raw_text": "先继续看到500500附近",
+      "corrected_text": "先继续看到500500附近"
+    },
+    {
+      "start": 552.88,
+      "end": 555.84,
+      "raw_text": "其实就算到了500",
+      "corrected_text": "其实就算到了500"
+    },
+    {
+      "start": 556.16,
+      "end": 558.64,
+      "raw_text": "就算到了500也就是一个",
+      "corrected_text": "就算到了500也就是一个"
+    },
+    {
+      "start": 558.8,
+      "end": 560.64,
+      "raw_text": "不到2万亿这样一个实质体量",
+      "corrected_text": "不到2万亿这样一个实质体量"
+    },
+    {
+      "start": 560.64,
+      "end": 563.48,
+      "raw_text": "我们还是看好到2036年3万到4万亿的",
+      "corrected_text": "我们还是看好到2036年3万到4万亿的"
+    },
+    {
+      "start": 563.48,
+      "end": 566.08,
+      "raw_text": "只不过这个可能需要更长时间去兑现",
+      "corrected_text": "只不过这个可能需要更长时间去兑现"
+    },
+    {
+      "start": 566.4,
+      "end": 568.48,
+      "raw_text": "现阶段我们先是先看到",
+      "corrected_text": "现阶段我们先是先看到"
+    },
+    {
+      "start": 568.88,
+      "end": 569.92,
+      "raw_text": "500左右",
+      "corrected_text": "500左右"
+    },
+    {
+      "start": 569.96,
+      "end": 572.48,
+      "raw_text": "500左右现当下是420多",
+      "corrected_text": "500左右现当下是420多"
+    },
+    {
+      "start": 572.52,
+      "end": 574.28,
+      "raw_text": "还是有20%左右空间的",
+      "corrected_text": "还是有20%左右空间的"
+    },
+    {
+      "start": 574.68,
+      "end": 579.0,
+      "raw_text": "这个是今年大概左右能够到达这样一个水平",
+      "corrected_text": "这个是今年大概左右能够到达这样一个水平"
+    },
+    {
+      "start": 579.16,
+      "end": 580.12,
+      "raw_text": "是可以继续的",
+      "corrected_text": "是可以继续的"
+    },
+    {
+      "start": 580.96,
+      "end": 581.36,
+      "raw_text": "好",
+      "corrected_text": "好"
+    },
+    {
+      "start": 581.56,
+      "end": 585.12,
+      "raw_text": "这是关于特斯拉作为物理AI",
+      "corrected_text": "这是关于特斯拉作为物理AI"
+    },
+    {
+      "start": 585.12,
+      "end": 586.96,
+      "raw_text": "以及Meta作为互联网广告",
+      "corrected_text": "以及Meta作为互联网广告"
+    },
+    {
+      "start": 587.36,
+      "end": 588.04,
+      "raw_text": "这方面",
+      "corrected_text": "这方面"
+    },
+    {
+      "start": 588.28,
+      "end": 590.8,
+      "raw_text": "还有一个领域是我们之前说的",
+      "corrected_text": "还有一个领域是我们之前说的"
+    },
+    {
+      "start": 590.88,
+      "end": 593.88,
+      "raw_text": "软硬件比值出现极端行情之后",
+      "corrected_text": "软硬件比值出现极端行情之后"
+    },
+    {
+      "start": 594.08,
+      "end": 594.96,
+      "raw_text": "出现极端行情之后",
+      "corrected_text": "出现极端行情之后"
+    },
+    {
+      "start": 594.96,
+      "end": 597.68,
+      "raw_text": "我们给大家做了一个可能会的软硬比",
+      "corrected_text": "我们给大家做了一个可能会的软硬比"
+    },
+    {
+      "start": 597.84,
+      "end": 600.84,
+      "raw_text": "我们认为现在可以去考虑一些高低切的",
+      "corrected_text": "我们认为现在可以去考虑一些高低切的"
+    },
+    {
+      "start": 601.28,
+      "end": 602.4,
+      "raw_text": "考虑一些高低切的",
+      "corrected_text": "考虑一些高低切的"
+    },
+    {
+      "start": 602.64,
+      "end": 604.08,
+      "raw_text": "特斯拉我们在组合中",
+      "corrected_text": "特斯拉我们在组合中"
+    },
+    {
+      "start": 604.8,
+      "end": 606.56,
+      "raw_text": "316这位朋友表格中我们写了",
+      "corrected_text": "316这位朋友表格中我们写了"
+    },
+    {
+      "start": 606.56,
+      "end": 608.68,
+      "raw_text": "特斯拉现在可以配置5%左右",
+      "corrected_text": "特斯拉现在可以配置5%左右"
+    },
+    {
+      "start": 609.08,
+      "end": 610.36,
+      "raw_text": "你可以在420",
+      "corrected_text": "你可以在420"
+    },
+    {
+      "start": 610.6,
+      "end": 613.0,
+      "raw_text": "现在其实也420左右这个区间去买",
+      "corrected_text": "现在其实也420左右这个区间去买"
+    },
+    {
+      "start": 613.16,
+      "end": 613.6,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 614.88,
+      "end": 616.36,
+      "raw_text": "软硬比我们认为",
+      "corrected_text": "软硬比我们认为"
+    },
+    {
+      "start": 616.64,
+      "end": 618.84,
+      "raw_text": "在上周左右的时候",
+      "corrected_text": "在上周左右的时候"
+    },
+    {
+      "start": 618.84,
+      "end": 621.56,
+      "raw_text": "一度冲到5.5是非常极限的位置",
+      "corrected_text": "一度冲到5.5是非常极限的位置"
+    },
+    {
+      "start": 621.8,
+      "end": 623.0,
+      "raw_text": "所以我们判断",
+      "corrected_text": "所以我们判断"
+    },
+    {
+      "start": 623.28,
+      "end": 625.68,
+      "raw_text": "软件会有一些空头回补去反弹",
+      "corrected_text": "软件会有一些空头回补去反弹"
+    },
+    {
+      "start": 625.68,
+      "end": 629.12,
+      "raw_text": "那么在最近几个交易日也确实有这种趋势",
+      "corrected_text": "那么在最近几个交易日也确实有这种趋势"
+    },
+    {
+      "start": 629.32,
+      "end": 630.36,
+      "raw_text": "那么这里边",
+      "corrected_text": "那么这里边"
+    },
+    {
+      "start": 630.76,
+      "end": 634.2,
+      "raw_text": "这里边按照去弱流强来说",
+      "corrected_text": "这里边按照去弱流强来说"
+    },
+    {
+      "start": 634.6,
+      "end": 638.2,
+      "raw_text": "要么你去买IGV这个ETF省心",
+      "corrected_text": "要么你去买IGV这个ETF省心"
+    },
+    {
+      "start": 638.2,
+      "end": 640.68,
+      "raw_text": "但是如果你选择相对具有Alpha的",
+      "corrected_text": "但是如果你选择相对具有Alpha的"
+    },
+    {
+      "start": 641.0,
+      "end": 644.48,
+      "raw_text": "现在来说软件中Alpha相对比较鲜明",
+      "corrected_text": "现在来说软件中Alpha相对比较鲜明"
+    },
+    {
+      "start": 644.48,
+      "end": 645.92,
+      "raw_text": "的是网络安全领域",
+      "corrected_text": "的是网络安全领域"
+    },
+    {
+      "start": 646.04,
+      "end": 647.24,
+      "raw_text": "像CRWD",
+      "corrected_text": "像CRWD"
+    },
+    {
+      "start": 647.64,
+      "end": 649.36,
+      "raw_text": "PANW FTNT",
+      "corrected_text": "PANW FTNT"
+    },
+    {
+      "start": 650.2,
+      "end": 653.72,
+      "raw_text": "其中CRWD作为网络安全领域AI进展",
+      "corrected_text": "其中CRWD作为网络安全领域AI进展"
+    },
+    {
+      "start": 653.72,
+      "end": 654.56,
+      "raw_text": "最快的",
+      "corrected_text": "最快的"
+    },
+    {
+      "start": 654.56,
+      "end": 657.64,
+      "raw_text": "长期以来享受了很高的估值一架",
+      "corrected_text": "长期以来享受了很高的估值一架"
+    },
+    {
+      "start": 657.8,
+      "end": 660.72,
+      "raw_text": "它一直以来都是除了Palantir之外",
+      "corrected_text": "它一直以来都是除了Palantir之外"
+    },
+    {
+      "start": 660.72,
+      "end": 662.92,
+      "raw_text": "基本上是软件公司估值体积最高的",
+      "corrected_text": "基本上是软件公司估值体积最高的"
+    },
+    {
+      "start": 662.92,
+      "end": 666.48,
+      "raw_text": "长期维持在50倍的前瞻PE",
+      "corrected_text": "长期维持在50倍的前瞻PE"
+    },
+    {
+      "start": 667.04,
+      "end": 669.56,
+      "raw_text": "因为它确实是AI对它来说",
+      "corrected_text": "因为它确实是AI对它来说"
+    },
+    {
+      "start": 669.56,
+      "end": 671.28,
+      "raw_text": "不仅没有冲击它的业务",
+      "corrected_text": "不仅没有冲击它的业务"
+    },
+    {
+      "start": 671.28,
+      "end": 673.92,
+      "raw_text": "反而它是AI中进展最快的",
+      "corrected_text": "反而它是AI中进展最快的"
+    },
+    {
+      "start": 674.24,
+      "end": 675.24,
+      "raw_text": "所以我们说了",
+      "corrected_text": "所以我们说了"
+    },
+    {
+      "start": 675.24,
+      "end": 676.44,
+      "raw_text": "到现在这个阶段",
+      "corrected_text": "到现在这个阶段"
+    },
+    {
+      "start": 676.44,
+      "end": 679.52,
+      "raw_text": "你看AI对软件冲击的时候就不能一刀切",
+      "corrected_text": "你看AI对软件冲击的时候就不能一刀切"
+    },
+    {
+      "start": 679.52,
+      "end": 681.28,
+      "raw_text": "不能认为AI颠覆一切",
+      "corrected_text": "不能认为AI颠覆一切"
+    },
+    {
+      "start": 681.28,
+      "end": 685.2,
+      "raw_text": "而是要去看哪些是被AI彻底杀死的",
+      "corrected_text": "而是要去看哪些是被AI彻底杀死的"
+    },
+    {
+      "start": 685.2,
+      "end": 687.48,
+      "raw_text": "哪些是可以跟AI共存的",
+      "corrected_text": "哪些是可以跟AI共存的"
+    },
+    {
+      "start": 687.52,
+      "end": 689.56,
+      "raw_text": "哪些是借助AI去重生的",
+      "corrected_text": "哪些是借助AI去重生的"
+    },
+    {
+      "start": 689.56,
+      "end": 691.32,
+      "raw_text": "那么现在我们认为CRWD",
+      "corrected_text": "那么现在我们认为CRWD"
+    },
+    {
+      "start": 691.32,
+      "end": 693.12,
+      "raw_text": "起码它是可以共存的",
+      "corrected_text": "起码它是可以共存的"
+    },
+    {
+      "start": 693.12,
+      "end": 695.68,
+      "raw_text": "那么至于将来能否借助AI去重生",
+      "corrected_text": "那么至于将来能否借助AI去重生"
+    },
+    {
+      "start": 695.68,
+      "end": 698.64,
+      "raw_text": "完全成为一个纯AI公司的网络安全",
+      "corrected_text": "完全成为一个纯AI公司的网络安全"
+    },
+    {
+      "start": 698.64,
+      "end": 701.52,
+      "raw_text": "这样的软件平台现在还不确定",
+      "corrected_text": "这样的软件平台现在还不确定"
+    },
+    {
+      "start": 701.64,
+      "end": 705.8,
+      "raw_text": "但起码它是可以继续去有强劲业绩",
+      "corrected_text": "但起码它是可以继续去有强劲业绩"
+    },
+    {
+      "start": 705.92,
+      "end": 707.44,
+      "raw_text": "享受高估值一架的",
+      "corrected_text": "享受高估值一架的"
+    },
+    {
+      "start": 707.56,
+      "end": 711.96,
+      "raw_text": "所以我们把它作为了整个软硬笔",
+      "corrected_text": "所以我们把它作为了整个软硬笔"
+    },
+    {
+      "start": 711.96,
+      "end": 714.52,
+      "raw_text": "整个切换的优先级第一位",
+      "corrected_text": "整个切换的优先级第一位"
+    },
+    {
+      "start": 714.96,
+      "end": 716.52,
+      "raw_text": "也给了五个点的仓位",
+      "corrected_text": "也给了五个点的仓位"
+    },
+    {
+      "start": 716.84,
+      "end": 718.36,
+      "raw_text": "当然有些朋友会说",
+      "corrected_text": "当然有些朋友会说"
+    },
+    {
+      "start": 718.36,
+      "end": 722.28,
+      "raw_text": "像CRWD或者PANW以及FTNT",
+      "corrected_text": "像CRWD或者PANW以及FTNT"
+    },
+    {
+      "start": 722.48,
+      "end": 724.2,
+      "raw_text": "短期反弹比较强势",
+      "corrected_text": "短期反弹比较强势"
+    },
+    {
+      "start": 724.2,
+      "end": 725.96,
+      "raw_text": "我恐高既然是高低些",
+      "corrected_text": "我恐高既然是高低些"
+    },
+    {
+      "start": 725.96,
+      "end": 727.84,
+      "raw_text": "我也不想买软件比较高位的",
+      "corrected_text": "我也不想买软件比较高位的"
+    },
+    {
+      "start": 727.84,
+      "end": 729.28,
+      "raw_text": "那能不能买其他的",
+      "corrected_text": "那能不能买其他的"
+    },
+    {
+      "start": 729.48,
+      "end": 731.8,
+      "raw_text": "我们在最下面的蓝色",
+      "corrected_text": "我们在最下面的蓝色"
+    },
+    {
+      "start": 731.96,
+      "end": 733.92,
+      "raw_text": "这个框中也写了一些备注",
+      "corrected_text": "这个框中也写了一些备注"
+    },
+    {
+      "start": 733.92,
+      "end": 734.92,
+      "raw_text": "大家可以看一下",
+      "corrected_text": "大家可以看一下"
+    },
+    {
+      "start": 735.04,
+      "end": 737.2,
+      "raw_text": "因为图片应该上周就发给大家了",
+      "corrected_text": "因为图片应该上周就发给大家了"
+    },
+    {
+      "start": 737.28,
+      "end": 738.32,
+      "raw_text": "我们也写了",
+      "corrected_text": "我们也写了"
+    },
+    {
+      "start": 738.92,
+      "end": 742.08,
+      "raw_text": "以IGV为代表的软件SaaS板块",
+      "corrected_text": "以IGV为代表的软件SaaS板块"
+    },
+    {
+      "start": 742.24,
+      "end": 744.2,
+      "raw_text": "有超跌反弹机会",
+      "corrected_text": "有超跌反弹机会"
+    },
+    {
+      "start": 744.36,
+      "end": 748.6,
+      "raw_text": "目前网络安全已经率先大幅反弹",
+      "corrected_text": "目前网络安全已经率先大幅反弹"
+    },
+    {
+      "start": 748.8,
+      "end": 751.48,
+      "raw_text": "其他标的例如像SAP",
+      "corrected_text": "其他标的例如像SAP"
+    },
+    {
+      "start": 751.8,
+      "end": 752.4,
+      "raw_text": "NOW",
+      "corrected_text": "NOW"
+    },
+    {
+      "start": 752.92,
+      "end": 753.68,
+      "raw_text": "SNOW",
+      "corrected_text": "SNOW"
+    },
+    {
+      "start": 754.0,
+      "end": 754.96,
+      "raw_text": "MDB",
+      "corrected_text": "MDB"
+    },
+    {
+      "start": 755.2,
+      "end": 756.16,
+      "raw_text": "IBM",
+      "corrected_text": "IBM"
+    },
+    {
+      "start": 756.4,
+      "end": 757.64,
+      "raw_text": "CRM等等",
+      "corrected_text": "CRM等等"
+    },
+    {
+      "start": 758.4,
+      "end": 760.0,
+      "raw_text": "也有启动的迹象",
+      "corrected_text": "也有启动的迹象"
+    },
+    {
+      "start": 760.0,
+      "end": 763.0,
+      "raw_text": "可以作为短线交易的标的",
+      "corrected_text": "可以作为短线交易的标的"
+    },
+    {
+      "start": 763.04,
+      "end": 764.72,
+      "raw_text": "去博弈空头回补",
+      "corrected_text": "去博弈空头回补"
+    },
+    {
+      "start": 765.36,
+      "end": 768.04,
+      "raw_text": "所以如果你不想抱团强势的",
+      "corrected_text": "所以如果你不想抱团强势的"
+    },
+    {
+      "start": 768.12,
+      "end": 769.64,
+      "raw_text": "想找低位刚启动的",
+      "corrected_text": "想找低位刚启动的"
+    },
+    {
+      "start": 769.64,
+      "end": 771.8,
+      "raw_text": "那么我们在附录中也写了这几个",
+      "corrected_text": "那么我们在附录中也写了这几个"
+    },
+    {
+      "start": 772.08,
+      "end": 774.6,
+      "raw_text": "都是可以作为你去博弈回补的",
+      "corrected_text": "都是可以作为你去博弈回补的"
+    },
+    {
+      "start": 774.64,
+      "end": 775.92,
+      "raw_text": "但是注意一下",
+      "corrected_text": "但是注意一下"
+    },
+    {
+      "start": 776.24,
+      "end": 777.72,
+      "raw_text": "即使他们能从这个位置",
+      "corrected_text": "即使他们能从这个位置"
+    },
+    {
+      "start": 777.92,
+      "end": 779.4,
+      "raw_text": "反弹个百分之二三十",
+      "corrected_text": "反弹个百分之二三十"
+    },
+    {
+      "start": 779.44,
+      "end": 782.8,
+      "raw_text": "但是到中长期究竟对他们是颠覆",
+      "corrected_text": "但是到中长期究竟对他们是颠覆"
+    },
+    {
+      "start": 782.84,
+      "end": 783.92,
+      "raw_text": "还是重生",
+      "corrected_text": "还是重生"
+    },
+    {
+      "start": 783.96,
+      "end": 785.16,
+      "raw_text": "依然存疑",
+      "corrected_text": "依然存疑"
+    },
+    {
+      "start": 785.4,
+      "end": 787.64,
+      "raw_text": "也就是说他们比较适合短期",
+      "corrected_text": "也就是说他们比较适合短期"
+    },
+    {
+      "start": 788.0,
+      "end": 789.44,
+      "raw_text": "去博弈空头回补",
+      "corrected_text": "去博弈空头回补"
+    },
+    {
+      "start": 790.2,
+      "end": 792.92,
+      "raw_text": "中长期来说有可能软硬笔",
+      "corrected_text": "中长期来说有可能软硬笔"
+    },
+    {
+      "start": 792.96,
+      "end": 794.88,
+      "raw_text": "回落到一定合理水平之后",
+      "corrected_text": "回落到一定合理水平之后"
+    },
+    {
+      "start": 794.92,
+      "end": 796.52,
+      "raw_text": "市场再度分化",
+      "corrected_text": "市场再度分化"
+    },
+    {
+      "start": 796.68,
+      "end": 797.72,
+      "raw_text": "也是有可能的",
+      "corrected_text": "也是有可能的"
+    },
+    {
+      "start": 798.48,
+      "end": 799.4,
+      "raw_text": "那么这里边",
+      "corrected_text": "那么这里边"
+    },
+    {
+      "start": 799.52,
+      "end": 802.6,
+      "raw_text": "IBM除了自身在AI领域",
+      "corrected_text": "IBM除了自身在AI领域"
+    },
+    {
+      "start": 802.6,
+      "end": 804.6,
+      "raw_text": "AI应用领域进展比较快之外",
+      "corrected_text": "AI应用领域进展比较快之外"
+    },
+    {
+      "start": 804.68,
+      "end": 807.44,
+      "raw_text": "他在上周还有一个量子计算这样的概念",
+      "corrected_text": "他在上周还有一个量子计算这样的概念"
+    },
+    {
+      "start": 807.44,
+      "end": 809.28,
+      "raw_text": "所以他反弹起来相对比较强势",
+      "corrected_text": "所以他反弹起来相对比较强势"
+    },
+    {
+      "start": 809.32,
+      "end": 811.4,
+      "raw_text": "但依然还是出来一个底部水平",
+      "corrected_text": "但依然还是出来一个底部水平"
+    },
+    {
+      "start": 811.64,
+      "end": 814.56,
+      "raw_text": "所以说如果你既想买一个",
+      "corrected_text": "所以说如果你既想买一个"
+    },
+    {
+      "start": 814.92,
+      "end": 816.52,
+      "raw_text": "软件SaaS的相对低位",
+      "corrected_text": "软件SaaS的相对低位"
+    },
+    {
+      "start": 816.52,
+      "end": 817.88,
+      "raw_text": "又想炒一个量子计算",
+      "corrected_text": "又想炒一个量子计算"
+    },
+    {
+      "start": 817.88,
+      "end": 819.44,
+      "raw_text": "那么IBM现在来说",
+      "corrected_text": "那么IBM现在来说"
+    },
+    {
+      "start": 819.48,
+      "end": 821.0,
+      "raw_text": "可能是一个不错的选项",
+      "corrected_text": "可能是一个不错的选项"
+    },
+    {
+      "start": 821.0,
+      "end": 822.08,
+      "raw_text": "大家也可以关注一下",
+      "corrected_text": "大家也可以关注一下"
+    },
+    {
+      "start": 823.0,
+      "end": 825.08,
+      "raw_text": "这是关于软件领域的",
+      "corrected_text": "这是关于软件领域的"
+    },
+    {
+      "start": 825.28,
+      "end": 828.2,
+      "raw_text": "然后我们把这几个放在",
+      "corrected_text": "然后我们把这几个放在"
+    },
+    {
+      "start": 828.24,
+      "end": 830.08,
+      "raw_text": "这个青色字体叫做多元化",
+      "corrected_text": "这个青色字体叫做多元化"
+    },
+    {
+      "start": 830.12,
+      "end": 833.24,
+      "raw_text": "包括了把GEV和BE并列了",
+      "corrected_text": "包括了把GEV和BE并列了"
+    },
+    {
+      "start": 833.28,
+      "end": 834.36,
+      "raw_text": "大家可以二选一",
+      "corrected_text": "大家可以二选一"
+    },
+    {
+      "start": 834.52,
+      "end": 836.8,
+      "raw_text": "那么GEV是做燃气轮机的",
+      "corrected_text": "那么GEV是做燃气轮机的"
+    },
+    {
+      "start": 837.92,
+      "end": 839.64,
+      "raw_text": "对于数据中心所用",
+      "corrected_text": "对于数据中心所用"
+    },
+    {
+      "start": 839.64,
+      "end": 841.08,
+      "raw_text": "BE是做燃料电池",
+      "corrected_text": "BE是做燃料电池"
+    },
+    {
+      "start": 841.2,
+      "end": 843.52,
+      "raw_text": "这个其实也跟数据中心相关",
+      "corrected_text": "这个其实也跟数据中心相关"
+    },
+    {
+      "start": 843.68,
+      "end": 846.36,
+      "raw_text": "上周我专门给大家去写了一篇圈子",
+      "corrected_text": "上周我专门给大家去写了一篇圈子"
+    },
+    {
+      "start": 846.4,
+      "end": 849.88,
+      "raw_text": "关于甲骨文",
+      "corrected_text": "关于甲骨文"
+    },
+    {
+      "start": 849.92,
+      "end": 852.36,
+      "raw_text": "由于受限于能源所限",
+      "corrected_text": "由于受限于能源所限"
+    },
+    {
+      "start": 852.48,
+      "end": 854.48,
+      "raw_text": "包括了政策监管的限制",
+      "corrected_text": "包括了政策监管的限制"
+    },
+    {
+      "start": 854.8,
+      "end": 857.52,
+      "raw_text": "放弃了两个多G把的",
+      "corrected_text": "放弃了两个多G把的"
+    },
+    {
+      "start": 857.56,
+      "end": 859.72,
+      "raw_text": "GEV的燃气轮机发电",
+      "corrected_text": "GEV的燃气轮机发电"
+    },
+    {
+      "start": 859.72,
+      "end": 863.24,
+      "raw_text": "而选择了BE燃料电池",
+      "corrected_text": "而选择了BE燃料电池"
+    },
+    {
+      "start": 863.36,
+      "end": 864.6,
+      "raw_text": "选择燃料电池",
+      "corrected_text": "选择燃料电池"
+    },
+    {
+      "start": 864.68,
+      "end": 866.92,
+      "raw_text": "这对燃料电池来说也是一个大的订单",
+      "corrected_text": "这对燃料电池来说也是一个大的订单"
+    },
+    {
+      "start": 866.96,
+      "end": 869.2,
+      "raw_text": "但是不是说GEV的燃气轮机",
+      "corrected_text": "但是不是说GEV的燃气轮机"
+    },
+    {
+      "start": 869.24,
+      "end": 870.28,
+      "raw_text": "从此就不行了呢",
+      "corrected_text": "从此就不行了呢"
+    },
+    {
+      "start": 870.28,
+      "end": 870.88,
+      "raw_text": "不是",
+      "corrected_text": "不是"
+    },
+    {
+      "start": 871.44,
+      "end": 874.88,
+      "raw_text": "因为对于有足够空间场地",
+      "corrected_text": "因为对于有足够空间场地"
+    },
+    {
+      "start": 875.04,
+      "end": 877.24,
+      "raw_text": "没有政策限制的数据中心来说",
+      "corrected_text": "没有政策限制的数据中心来说"
+    },
+    {
+      "start": 877.28,
+      "end": 879.48,
+      "raw_text": "燃气轮机依然是最高效",
+      "corrected_text": "燃气轮机依然是最高效"
+    },
+    {
+      "start": 879.48,
+      "end": 880.88,
+      "raw_text": "最好的方式",
+      "corrected_text": "最好的方式"
+    },
+    {
+      "start": 881.04,
+      "end": 883.48,
+      "raw_text": "而燃料电池方案贵",
+      "corrected_text": "而燃料电池方案贵"
+    },
+    {
+      "start": 883.52,
+      "end": 886.52,
+      "raw_text": "它只适合于小型的数据中心",
+      "corrected_text": "它只适合于小型的数据中心"
+    },
+    {
+      "start": 886.52,
+      "end": 889.84,
+      "raw_text": "或者是相对来说场地政策制约",
+      "corrected_text": "或者是相对来说场地政策制约"
+    },
+    {
+      "start": 889.88,
+      "end": 892.72,
+      "raw_text": "不得不分布式的",
+      "corrected_text": "不得不分布式的"
+    },
+    {
+      "start": 892.88,
+      "end": 895.32,
+      "raw_text": "所以说最主流最容易上产能的",
+      "corrected_text": "所以说最主流最容易上产能的"
+    },
+    {
+      "start": 895.36,
+      "end": 897.72,
+      "raw_text": "依然是GEV的燃气轮机方案",
+      "corrected_text": "依然是GEV的燃气轮机方案"
+    },
+    {
+      "start": 897.92,
+      "end": 901.6,
+      "raw_text": "但是BE也可以以此走一个niche market",
+      "corrected_text": "但是BE也可以以此走一个niche market"
+    },
+    {
+      "start": 901.64,
+      "end": 904.04,
+      "raw_text": "走一个小众小而美的赛道",
+      "corrected_text": "走一个小众小而美的赛道"
+    },
+    {
+      "start": 904.2,
+      "end": 905.84,
+      "raw_text": "这两个并不冲突",
+      "corrected_text": "这两个并不冲突"
+    },
+    {
+      "start": 905.88,
+      "end": 907.28,
+      "raw_text": "因为总的蛋糕",
+      "corrected_text": "因为总的蛋糕"
+    },
+    {
+      "start": 907.32,
+      "end": 909.84,
+      "raw_text": "总的盘子是在不断扩大的",
+      "corrected_text": "总的盘子是在不断扩大的"
+    },
+    {
+      "start": 909.84,
+      "end": 910.88,
+      "raw_text": "需求是旺盛的",
+      "corrected_text": "需求是旺盛的"
+    },
+    {
+      "start": 910.92,
+      "end": 912.28,
+      "raw_text": "所以你可以这么理解",
+      "corrected_text": "所以你可以这么理解"
+    },
+    {
+      "start": 912.32,
+      "end": 913.84,
+      "raw_text": "GEV就是",
+      "corrected_text": "GEV就是"
+    },
+    {
+      "start": 914.04,
+      "end": 914.84,
+      "raw_text": "英伟达",
+      "corrected_text": "英伟达"
+    },
+    {
+      "start": 915.2,
+      "end": 917.48,
+      "raw_text": "占着绝对的龙头",
+      "corrected_text": "占着绝对的龙头"
+    },
+    {
+      "start": 917.52,
+      "end": 918.6,
+      "raw_text": "大的市场份额",
+      "corrected_text": "大的市场份额"
+    },
+    {
+      "start": 918.84,
+      "end": 921.2,
+      "raw_text": "BE就是类似于谷歌的TPU",
+      "corrected_text": "BE就是类似于谷歌的TPU"
+    },
+    {
+      "start": 921.24,
+      "end": 922.84,
+      "raw_text": "能切出一条赛道",
+      "corrected_text": "能切出一条赛道"
+    },
+    {
+      "start": 923.04,
+      "end": 924.88,
+      "raw_text": "杀出自己的独特性来",
+      "corrected_text": "杀出自己的独特性来"
+    },
+    {
+      "start": 925.4,
+      "end": 929.8,
+      "raw_text": "两个来说都可以享受到整个数据中心",
+      "corrected_text": "两个来说都可以享受到整个数据中心"
+    },
+    {
+      "start": 929.84,
+      "end": 931.88,
+      "raw_text": "对电力对能源旺盛",
+      "corrected_text": "对电力对能源旺盛"
+    },
+    {
+      "start": 931.88,
+      "end": 933.6,
+      "raw_text": "需求的红利并不冲突",
+      "corrected_text": "需求的红利并不冲突"
+    },
+    {
+      "start": 935.04,
+      "end": 936.48,
+      "raw_text": "那么下面卡德比勒",
+      "corrected_text": "那么下面卡德比勒"
+    },
+    {
+      "start": 936.48,
+      "end": 937.52,
+      "raw_text": "我们继续是持有",
+      "corrected_text": "我们继续是持有"
+    },
+    {
+      "start": 937.52,
+      "end": 939.12,
+      "raw_text": "从年初到现在大家继续持有",
+      "corrected_text": "从年初到现在大家继续持有"
+    },
+    {
+      "start": 939.2,
+      "end": 941.28,
+      "raw_text": "这一方面对资源民族主义",
+      "corrected_text": "这一方面对资源民族主义"
+    },
+    {
+      "start": 941.28,
+      "end": 942.88,
+      "raw_text": "我们之前也强调过很多次了",
+      "corrected_text": "我们之前也强调过很多次了"
+    },
+    {
+      "start": 943.12,
+      "end": 944.12,
+      "raw_text": "对于矿山",
+      "corrected_text": "对于矿山"
+    },
+    {
+      "start": 944.16,
+      "end": 945.56,
+      "raw_text": "无论稀土还是有色",
+      "corrected_text": "无论稀土还是有色"
+    },
+    {
+      "start": 945.6,
+      "end": 947.16,
+      "raw_text": "贵金属来说的需求",
+      "corrected_text": "贵金属来说的需求"
+    },
+    {
+      "start": 947.2,
+      "end": 949.92,
+      "raw_text": "另外一方面就是它也有",
+      "corrected_text": "另外一方面就是它也有"
+    },
+    {
+      "start": 950.6,
+      "end": 952.52,
+      "raw_text": "燃气内燃机相关的",
+      "corrected_text": "燃气内燃机相关的"
+    },
+    {
+      "start": 953.08,
+      "end": 954.32,
+      "raw_text": "满足AI的需求",
+      "corrected_text": "满足AI的需求"
+    },
+    {
+      "start": 954.32,
+      "end": 955.24,
+      "raw_text": "双线驱动",
+      "corrected_text": "双线驱动"
+    },
+    {
+      "start": 955.44,
+      "end": 956.16,
+      "raw_text": "所以卡德比勒",
+      "corrected_text": "所以卡德比勒"
+    },
+    {
+      "start": 956.16,
+      "end": 958.12,
+      "raw_text": "我们可以继续作为中期持有标的",
+      "corrected_text": "我们可以继续作为中期持有标的"
+    },
+    {
+      "start": 959.44,
+      "end": 961.12,
+      "raw_text": "最后一个我们是",
+      "corrected_text": "最后一个我们是"
+    },
+    {
+      "start": 961.16,
+      "end": 962.04,
+      "raw_text": "资源民族主义",
+      "corrected_text": "资源民族主义"
+    },
+    {
+      "start": 962.04,
+      "end": 964.68,
+      "raw_text": "我们本次没有把黄金这些放上去",
+      "corrected_text": "我们本次没有把黄金这些放上去"
+    },
+    {
+      "start": 964.68,
+      "end": 966.64,
+      "raw_text": "是因为我们觉得黄金这些",
+      "corrected_text": "是因为我们觉得黄金这些"
+    },
+    {
+      "start": 966.68,
+      "end": 968.24,
+      "raw_text": "不用再重点强调",
+      "corrected_text": "不用再重点强调"
+    },
+    {
+      "start": 968.28,
+      "end": 969.28,
+      "raw_text": "对于很多朋友来说",
+      "corrected_text": "对于很多朋友来说"
+    },
+    {
+      "start": 969.28,
+      "end": 971.88,
+      "raw_text": "配置黄金都是长期持有的",
+      "corrected_text": "配置黄金都是长期持有的"
+    },
+    {
+      "start": 971.88,
+      "end": 973.48,
+      "raw_text": "都是不在乎短期波动的",
+      "corrected_text": "都是不在乎短期波动的"
+    },
+    {
+      "start": 973.52,
+      "end": 975.24,
+      "raw_text": "你就继续持有即可",
+      "corrected_text": "你就继续持有即可"
+    },
+    {
+      "start": 975.28,
+      "end": 977.48,
+      "raw_text": "我们对黄金今年的判断",
+      "corrected_text": "我们对黄金今年的判断"
+    },
+    {
+      "start": 977.48,
+      "end": 979.92,
+      "raw_text": "虽然说现在黄金是起起伏伏的",
+      "corrected_text": "虽然说现在黄金是起起伏伏的"
+    },
+    {
+      "start": 980.12,
+      "end": 982.08,
+      "raw_text": "但今天受益于",
+      "corrected_text": "但今天受益于"
+    },
+    {
+      "start": 982.32,
+      "end": 985.6,
+      "raw_text": "美国跟伊朗的冲突有所缓和",
+      "corrected_text": "美国跟伊朗的冲突有所缓和"
+    },
+    {
+      "start": 985.6,
+      "end": 987.36,
+      "raw_text": "其实黄金开始有所表现了",
+      "corrected_text": "其实黄金开始有所表现了"
+    },
+    {
+      "start": 988.08,
+      "end": 989.56,
+      "raw_text": "现在位置依然很低",
+      "corrected_text": "现在位置依然很低"
+    },
+    {
+      "start": 989.6,
+      "end": 990.88,
+      "raw_text": "4500左右",
+      "corrected_text": "4500左右"
+    },
+    {
+      "start": 991.0,
+      "end": 993.2,
+      "raw_text": "我们对黄金的判断认为",
+      "corrected_text": "我们对黄金的判断认为"
+    },
+    {
+      "start": 993.32,
+      "end": 995.92,
+      "raw_text": "今年依然是5500往上",
+      "corrected_text": "今年依然是5500往上"
+    },
+    {
+      "start": 996.68,
+      "end": 999.6,
+      "raw_text": "依然是冲到5500到5600左右",
+      "corrected_text": "依然是冲到5500到5600左右"
+    },
+    {
+      "start": 999.64,
+      "end": 1001.44,
+      "raw_text": "也就是说距离当下",
+      "corrected_text": "也就是说距离当下"
+    },
+    {
+      "start": 1001.6,
+      "end": 1003.72,
+      "raw_text": "黄金的空间还是有20%",
+      "corrected_text": "黄金的空间还是有20%"
+    },
+    {
+      "start": 1003.72,
+      "end": 1005.96,
+      "raw_text": "因此黄金大家就作为定投",
+      "corrected_text": "因此黄金大家就作为定投"
+    },
+    {
+      "start": 1006.0,
+      "end": 1007.56,
+      "raw_text": "作为长线来看就好了",
+      "corrected_text": "作为长线来看就好了"
+    },
+    {
+      "start": 1007.56,
+      "end": 1010.32,
+      "raw_text": "不用作为短中线的交易标的",
+      "corrected_text": "不用作为短中线的交易标的"
+    },
+    {
+      "start": 1010.32,
+      "end": 1011.4,
+      "raw_text": "没有太多意义",
+      "corrected_text": "没有太多意义"
+    },
+    {
+      "start": 1011.64,
+      "end": 1013.44,
+      "raw_text": "所以我们就没有把黄金放进来",
+      "corrected_text": "所以我们就没有把黄金放进来"
+    },
+    {
+      "start": 1013.6,
+      "end": 1016.24,
+      "raw_text": "我们给了两个我们认为更加",
+      "corrected_text": "我们给了两个我们认为更加"
+    },
+    {
+      "start": 1016.68,
+      "end": 1018.12,
+      "raw_text": "可能弹性高一些",
+      "corrected_text": "可能弹性高一些"
+    },
+    {
+      "start": 1018.16,
+      "end": 1019.88,
+      "raw_text": "具有稀缺性的",
+      "corrected_text": "具有稀缺性的"
+    },
+    {
+      "start": 1019.88,
+      "end": 1021.04,
+      "raw_text": "第一个是右旷",
+      "corrected_text": "第一个是右旷"
+    },
+    {
+      "start": 1021.08,
+      "end": 1022.96,
+      "raw_text": "中长期的右旷涨价",
+      "corrected_text": "中长期的右旷涨价"
+    },
+    {
+      "start": 1023.0,
+      "end": 1023.96,
+      "raw_text": "第二是铜矿",
+      "corrected_text": "第二是铜矿"
+    },
+    {
+      "start": 1024.0,
+      "end": 1025.72,
+      "raw_text": "我们认为铜矿也具备一些",
+      "corrected_text": "我们认为铜矿也具备一些"
+    },
+    {
+      "start": 1025.72,
+      "end": 1027.16,
+      "raw_text": "涨价的这样的逻辑",
+      "corrected_text": "涨价的这样的逻辑"
+    },
+    {
+      "start": 1027.32,
+      "end": 1029.04,
+      "raw_text": "所以黄金就不再重点强调",
+      "corrected_text": "所以黄金就不再重点强调"
+    },
+    {
+      "start": 1029.28,
+      "end": 1030.0,
+      "raw_text": "当然了",
+      "corrected_text": "当然了"
+    },
+    {
+      "start": 1030.0,
+      "end": 1031.28,
+      "raw_text": "如果你觉得",
+      "corrected_text": "如果你觉得"
+    },
+    {
+      "start": 1031.32,
+      "end": 1034.68,
+      "raw_text": "你觉得右和铜的速度",
+      "corrected_text": "你觉得右和铜的速度"
+    },
+    {
+      "start": 1034.68,
+      "end": 1036.2,
+      "raw_text": "也是没有那么快",
+      "corrected_text": "也是没有那么快"
+    },
+    {
+      "start": 1036.24,
+      "end": 1038.24,
+      "raw_text": "你不够刺激",
+      "corrected_text": "你不够刺激"
+    },
+    {
+      "start": 1038.24,
+      "end": 1039.48,
+      "raw_text": "那么在这个位置",
+      "corrected_text": "那么在这个位置"
+    },
+    {
+      "start": 1039.76,
+      "end": 1041.0,
+      "raw_text": "白银也可以",
+      "corrected_text": "白银也可以"
+    },
+    {
+      "start": 1041.0,
+      "end": 1042.52,
+      "raw_text": "白银弹性更大一些",
+      "corrected_text": "白银弹性更大一些"
+    },
+    {
+      "start": 1042.92,
+      "end": 1044.92,
+      "raw_text": "白银弹性更大一些",
+      "corrected_text": "白银弹性更大一些"
+    },
+    {
+      "start": 1044.92,
+      "end": 1047.4,
+      "raw_text": "白银现在的价格只有78美元",
+      "corrected_text": "白银现在的价格只有78美元"
+    },
+    {
+      "start": 1047.4,
+      "end": 1049.04,
+      "raw_text": "那么保守来看",
+      "corrected_text": "那么保守来看"
+    },
+    {
+      "start": 1049.04,
+      "end": 1050.84,
+      "raw_text": "今年到90几美元",
+      "corrected_text": "今年到90几美元"
+    },
+    {
+      "start": 1050.84,
+      "end": 1051.84,
+      "raw_text": "甚至冲到100",
+      "corrected_text": "甚至冲到100"
+    },
+    {
+      "start": 1052.0,
+      "end": 1053.52,
+      "raw_text": "也是有较大概率的",
+      "corrected_text": "也是有较大概率的"
+    },
+    {
+      "start": 1053.8,
+      "end": 1055.56,
+      "raw_text": "所以如果你希望高弹性",
+      "corrected_text": "所以如果你希望高弹性"
+    },
+    {
+      "start": 1055.6,
+      "end": 1056.56,
+      "raw_text": "不做配置方案",
+      "corrected_text": "不做配置方案"
+    },
+    {
+      "start": 1056.56,
+      "end": 1057.76,
+      "raw_text": "你可以不用右和铜",
+      "corrected_text": "你可以不用右和铜"
+    },
+    {
+      "start": 1057.76,
+      "end": 1059.08,
+      "raw_text": "用白银也OK",
+      "corrected_text": "用白银也OK"
+    },
+    {
+      "start": 1059.16,
+      "end": 1059.92,
+      "raw_text": "也OK",
+      "corrected_text": "也OK"
+    },
+    {
+      "start": 1060.32,
+      "end": 1061.96,
+      "raw_text": "这是我们整体的这样一个",
+      "corrected_text": "这是我们整体的这样一个"
+    },
+    {
+      "start": 1062.4,
+      "end": 1063.56,
+      "raw_text": "未来一个半月",
+      "corrected_text": "未来一个半月"
+    },
+    {
+      "start": 1063.56,
+      "end": 1065.2,
+      "raw_text": "这样一个时间的配置思路",
+      "corrected_text": "这样一个时间的配置思路"
+    },
+    {
+      "start": 1065.24,
+      "end": 1067.24,
+      "raw_text": "大家可以逐渐把仓位加上去",
+      "corrected_text": "大家可以逐渐把仓位加上去"
+    },
+    {
+      "start": 1067.4,
+      "end": 1069.28,
+      "raw_text": "有些偏高的半导体",
+      "corrected_text": "有些偏高的半导体"
+    },
+    {
+      "start": 1069.28,
+      "end": 1071.36,
+      "raw_text": "可以等等回调之后再往上加",
+      "corrected_text": "可以等等回调之后再往上加"
+    },
+    {
+      "start": 1071.68,
+      "end": 1073.56,
+      "raw_text": "尽量先选择低位的去加",
+      "corrected_text": "尽量先选择低位的去加"
+    },
+    {
+      "start": 1074.84,
+      "end": 1075.64,
+      "raw_text": "除此之外",
+      "corrected_text": "除此之外"
+    },
+    {
+      "start": 1075.64,
+      "end": 1077.64,
+      "raw_text": "我们在下面的备注中",
+      "corrected_text": "我们在下面的备注中"
+    },
+    {
+      "start": 1077.64,
+      "end": 1078.64,
+      "raw_text": "还写了一些",
+      "corrected_text": "还写了一些"
+    },
+    {
+      "start": 1078.76,
+      "end": 1080.0,
+      "raw_text": "包括了碳化硅",
+      "corrected_text": "包括了碳化硅"
+    },
+    {
+      "start": 1080.0,
+      "end": 1080.92,
+      "raw_text": "因为我们在",
+      "corrected_text": "因为我们在"
+    },
+    {
+      "start": 1080.96,
+      "end": 1082.52,
+      "raw_text": "跟踪一级度财报的时候",
+      "corrected_text": "跟踪一级度财报的时候"
+    },
+    {
+      "start": 1082.52,
+      "end": 1084.92,
+      "raw_text": "发现了整个碳化硅领域",
+      "corrected_text": "发现了整个碳化硅领域"
+    },
+    {
+      "start": 1085.16,
+      "end": 1086.12,
+      "raw_text": "整个功率半导体",
+      "corrected_text": "整个功率半导体"
+    },
+    {
+      "start": 1086.12,
+      "end": 1088.4,
+      "raw_text": "实际上景气度复苏了",
+      "corrected_text": "实际上景气度复苏了"
+    },
+    {
+      "start": 1088.44,
+      "end": 1089.28,
+      "raw_text": "复苏了",
+      "corrected_text": "复苏了"
+    },
+    {
+      "start": 1089.44,
+      "end": 1090.92,
+      "raw_text": "像什么Wolf",
+      "corrected_text": "像什么Wolf"
+    },
+    {
+      "start": 1091.92,
+      "end": 1093.0,
+      "raw_text": "德州仪器",
+      "corrected_text": "德州仪器"
+    },
+    {
+      "start": 1093.04,
+      "end": 1093.88,
+      "raw_text": "异法",
+      "corrected_text": "异法"
+    },
+    {
+      "start": 1094.12,
+      "end": 1095.84,
+      "raw_text": "这些英飞零等等",
+      "corrected_text": "这些英飞零等等"
+    },
+    {
+      "start": 1096.08,
+      "end": 1097.4,
+      "raw_text": "都是表现不错的",
+      "corrected_text": "都是表现不错的"
+    },
+    {
+      "start": 1097.64,
+      "end": 1098.96,
+      "raw_text": "所以我们把这几个",
+      "corrected_text": "所以我们把这几个"
+    },
+    {
+      "start": 1099.0,
+      "end": 1099.8,
+      "raw_text": "也列在下面",
+      "corrected_text": "也列在下面"
+    },
+    {
+      "start": 1099.8,
+      "end": 1101.28,
+      "raw_text": "碳化硅也是",
+      "corrected_text": "碳化硅也是"
+    },
+    {
+      "start": 1101.32,
+      "end": 1102.4,
+      "raw_text": "数以中心",
+      "corrected_text": "数以中心"
+    },
+    {
+      "start": 1102.44,
+      "end": 1104.36,
+      "raw_text": "电解决方案之一",
+      "corrected_text": "电解决方案之一"
+    },
+    {
+      "start": 1104.4,
+      "end": 1106.12,
+      "raw_text": "我们认为也是很有看点的",
+      "corrected_text": "我们认为也是很有看点的"
+    },
+    {
+      "start": 1106.16,
+      "end": 1109.0,
+      "raw_text": "只不过我们在上面配置的",
+      "corrected_text": "只不过我们在上面配置的"
+    },
+    {
+      "start": 1109.04,
+      "end": 1110.16,
+      "raw_text": "硬件太多了",
+      "corrected_text": "硬件太多了"
+    },
+    {
+      "start": 1110.2,
+      "end": 1111.76,
+      "raw_text": "这个就不作为强推了",
+      "corrected_text": "这个就不作为强推了"
+    },
+    {
+      "start": 1111.8,
+      "end": 1112.88,
+      "raw_text": "大家抓弹性的",
+      "corrected_text": "大家抓弹性的"
+    },
+    {
+      "start": 1112.88,
+      "end": 1114.04,
+      "raw_text": "可以自己去交易",
+      "corrected_text": "可以自己去交易"
+    },
+    {
+      "start": 1115.2,
+      "end": 1116.24,
+      "raw_text": "那么除此之外",
+      "corrected_text": "那么除此之外"
+    },
+    {
+      "start": 1116.4,
+      "end": 1118.64,
+      "raw_text": "英伟达产业链其他相关的",
+      "corrected_text": "英伟达产业链其他相关的"
+    },
+    {
+      "start": 1118.64,
+      "end": 1119.68,
+      "raw_text": "本质上都可以",
+      "corrected_text": "本质上都可以"
+    },
+    {
+      "start": 1119.68,
+      "end": 1122.2,
+      "raw_text": "视为两倍或三倍",
+      "corrected_text": "视为两倍或三倍"
+    },
+    {
+      "start": 1122.2,
+      "end": 1123.0,
+      "raw_text": "做多英伟达",
+      "corrected_text": "做多英伟达"
+    },
+    {
+      "start": 1123.0,
+      "end": 1125.44,
+      "raw_text": "比如说APH安菲诺",
+      "corrected_text": "比如说APH安菲诺"
+    },
+    {
+      "start": 1125.48,
+      "end": 1126.4,
+      "raw_text": "做铜缆的",
+      "corrected_text": "做铜缆的"
+    },
+    {
+      "start": 1126.44,
+      "end": 1128.2,
+      "raw_text": "VRT做液冷的",
+      "corrected_text": "VRT做液冷的"
+    },
+    {
+      "start": 1128.68,
+      "end": 1130.0,
+      "raw_text": "包括了像AOI",
+      "corrected_text": "包括了像AOI"
+    },
+    {
+      "start": 1130.04,
+      "end": 1131.04,
+      "raw_text": "光通信这些",
+      "corrected_text": "光通信这些"
+    },
+    {
+      "start": 1131.76,
+      "end": 1133.72,
+      "raw_text": "它属于比我们上面的光通信",
+      "corrected_text": "它属于比我们上面的光通信"
+    },
+    {
+      "start": 1133.72,
+      "end": 1134.72,
+      "raw_text": "弹性更大的",
+      "corrected_text": "弹性更大的"
+    },
+    {
+      "start": 1134.76,
+      "end": 1136.8,
+      "raw_text": "都可以视为两倍",
+      "corrected_text": "都可以视为两倍"
+    },
+    {
+      "start": 1136.84,
+      "end": 1138.6,
+      "raw_text": "或三倍做多英伟达",
+      "corrected_text": "或三倍做多英伟达"
+    },
+    {
+      "start": 1138.6,
+      "end": 1139.4,
+      "raw_text": "这两个工具",
+      "corrected_text": "这两个工具"
+    },
+    {
+      "start": 1139.92,
+      "end": 1141.56,
+      "raw_text": "以及还有",
+      "corrected_text": "以及还有"
+    },
+    {
+      "start": 1141.72,
+      "end": 1144.16,
+      "raw_text": "体量比较大的龙头企业",
+      "corrected_text": "体量比较大的龙头企业"
+    },
+    {
+      "start": 1144.16,
+      "end": 1145.24,
+      "raw_text": "比方说像波通",
+      "corrected_text": "比方说像波通"
+    },
+    {
+      "start": 1145.24,
+      "end": 1146.56,
+      "raw_text": "或者说阿斯迈等等",
+      "corrected_text": "或者说阿斯迈等等"
+    },
+    {
+      "start": 1146.6,
+      "end": 1148.76,
+      "raw_text": "这些也具备中长期配置价值",
+      "corrected_text": "这些也具备中长期配置价值"
+    },
+    {
+      "start": 1148.92,
+      "end": 1149.96,
+      "raw_text": "就不再重复了",
+      "corrected_text": "就不再重复了"
+    },
+    {
+      "start": 1150.24,
+      "end": 1152.8,
+      "raw_text": "那么我们在上面新机件中",
+      "corrected_text": "那么我们在上面新机件中"
+    },
+    {
+      "start": 1152.84,
+      "end": 1155.44,
+      "raw_text": "我们是把NBA-IS和CRW-V",
+      "corrected_text": "我们是把NBA-IS和CRW-V"
+    },
+    {
+      "start": 1155.44,
+      "end": 1156.76,
+      "raw_text": "CoreWave放上去了",
+      "corrected_text": "CoreWave放上去了"
+    },
+    {
+      "start": 1156.92,
+      "end": 1158.16,
+      "raw_text": "而甲骨纹",
+      "corrected_text": "而甲骨纹"
+    },
+    {
+      "start": 1158.88,
+      "end": 1159.96,
+      "raw_text": "它体量比较大",
+      "corrected_text": "它体量比较大"
+    },
+    {
+      "start": 1159.96,
+      "end": 1161.16,
+      "raw_text": "财务压力也比较重",
+      "corrected_text": "财务压力也比较重"
+    },
+    {
+      "start": 1161.16,
+      "end": 1162.84,
+      "raw_text": "所以它比较滞后一些",
+      "corrected_text": "所以它比较滞后一些"
+    },
+    {
+      "start": 1162.84,
+      "end": 1164.16,
+      "raw_text": "我们放在了备注中",
+      "corrected_text": "我们放在了备注中"
+    },
+    {
+      "start": 1164.48,
+      "end": 1166.32,
+      "raw_text": "虽然它也出现了右侧信号",
+      "corrected_text": "虽然它也出现了右侧信号"
+    },
+    {
+      "start": 1166.4,
+      "end": 1167.8,
+      "raw_text": "但是由于体量问题",
+      "corrected_text": "但是由于体量问题"
+    },
+    {
+      "start": 1167.8,
+      "end": 1169.2,
+      "raw_text": "我们优先去推一下",
+      "corrected_text": "我们优先去推一下"
+    },
+    {
+      "start": 1169.32,
+      "end": 1171.36,
+      "raw_text": "NBA-IS或者CRW-V",
+      "corrected_text": "NBA-IS或者CRW-V"
+    },
+    {
+      "start": 1171.44,
+      "end": 1173.0,
+      "raw_text": "甲骨纹相对滞后一些",
+      "corrected_text": "甲骨纹相对滞后一些"
+    },
+    {
+      "start": 1173.04,
+      "end": 1174.88,
+      "raw_text": "所以放在了备注中",
+      "corrected_text": "所以放在了备注中"
+    },
+    {
+      "start": 1175.48,
+      "end": 1176.48,
+      "raw_text": "还有一些",
+      "corrected_text": "还有一些"
+    },
+    {
+      "start": 1176.52,
+      "end": 1178.16,
+      "raw_text": "像国产的像芭芭",
+      "corrected_text": "像国产的像芭芭"
+    },
+    {
+      "start": 1179.16,
+      "end": 1181.32,
+      "raw_text": "金山云 世纪互联等等",
+      "corrected_text": "金山云 世纪互联等等"
+    },
+    {
+      "start": 1181.44,
+      "end": 1183.0,
+      "raw_text": "这些国产算力线",
+      "corrected_text": "这些国产算力线"
+    },
+    {
+      "start": 1183.2,
+      "end": 1184.96,
+      "raw_text": "受于国产的紧缺",
+      "corrected_text": "受于国产的紧缺"
+    },
+    {
+      "start": 1184.96,
+      "end": 1186.8,
+      "raw_text": "也会存在显著价值",
+      "corrected_text": "也会存在显著价值"
+    },
+    {
+      "start": 1186.84,
+      "end": 1187.84,
+      "raw_text": "只不过这些",
+      "corrected_text": "只不过这些"
+    },
+    {
+      "start": 1187.88,
+      "end": 1189.12,
+      "raw_text": "大家可以去咨询一下",
+      "corrected_text": "大家可以去咨询一下"
+    },
+    {
+      "start": 1189.12,
+      "end": 1190.12,
+      "raw_text": "港股的团队",
+      "corrected_text": "港股的团队"
+    },
+    {
+      "start": 1190.56,
+      "end": 1192.36,
+      "raw_text": "跟随他们节奏走就比较好",
+      "corrected_text": "跟随他们节奏走就比较好"
+    },
+    {
+      "start": 1193.04,
+      "end": 1194.52,
+      "raw_text": "那么由于上周五的",
+      "corrected_text": "那么由于上周五的"
+    },
+    {
+      "start": 1194.52,
+      "end": 1196.44,
+      "raw_text": "整个复途相关事件发酵",
+      "corrected_text": "整个复途相关事件发酵"
+    },
+    {
+      "start": 1196.48,
+      "end": 1197.2,
+      "raw_text": "我们算了算",
+      "corrected_text": "我们算了算"
+    },
+    {
+      "start": 1197.2,
+      "end": 1198.56,
+      "raw_text": "很可能恒生科技",
+      "corrected_text": "很可能恒生科技"
+    },
+    {
+      "start": 1198.6,
+      "end": 1200.08,
+      "raw_text": "如果静脉出的话",
+      "corrected_text": "如果静脉出的话"
+    },
+    {
+      "start": 1200.08,
+      "end": 1201.8,
+      "raw_text": "如果每天都是全砸的话",
+      "corrected_text": "如果每天都是全砸的话"
+    },
+    {
+      "start": 1201.8,
+      "end": 1203.04,
+      "raw_text": "很可能会有",
+      "corrected_text": "很可能会有"
+    },
+    {
+      "start": 1203.44,
+      "end": 1205.08,
+      "raw_text": "几个交易日的一个承压",
+      "corrected_text": "几个交易日的一个承压"
+    },
+    {
+      "start": 1205.08,
+      "end": 1206.04,
+      "raw_text": "这个要关注一下",
+      "corrected_text": "这个要关注一下"
+    },
+    {
+      "start": 1206.04,
+      "end": 1207.32,
+      "raw_text": "明天港股市场",
+      "corrected_text": "明天港股市场"
+    },
+    {
+      "start": 1207.36,
+      "end": 1208.48,
+      "raw_text": "开盘之后的表现",
+      "corrected_text": "开盘之后的表现"
+    },
+    {
+      "start": 1209.2,
+      "end": 1210.04,
+      "raw_text": "关于中概股",
+      "corrected_text": "关于中概股"
+    },
+    {
+      "start": 1210.04,
+      "end": 1211.28,
+      "raw_text": "恒生科技的东西",
+      "corrected_text": "恒生科技的东西"
+    },
+    {
+      "start": 1211.92,
+      "end": 1213.56,
+      "raw_text": "可能要再去等一等",
+      "corrected_text": "可能要再去等一等"
+    },
+    {
+      "start": 1213.6,
+      "end": 1214.2,
+      "raw_text": "这些具体",
+      "corrected_text": "这些具体"
+    },
+    {
+      "start": 1214.2,
+      "end": 1216.24,
+      "raw_text": "大家问一下港股团队",
+      "corrected_text": "大家问一下港股团队"
+    },
+    {
+      "start": 1216.24,
+      "end": 1217.4,
+      "raw_text": "问一下大帅那边",
+      "corrected_text": "问一下大帅那边"
+    },
+    {
+      "start": 1217.6,
+      "end": 1218.72,
+      "raw_text": "会获得更加",
+      "corrected_text": "会获得更加"
+    },
+    {
+      "start": 1218.84,
+      "end": 1221.16,
+      "raw_text": "精确的一些参考知识",
+      "corrected_text": "精确的一些参考知识"
+    },
+    {
+      "start": 1221.36,
+      "end": 1221.88,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 1223.12,
+      "end": 1224.8,
+      "raw_text": "还有一些我们没有放在表格中",
+      "corrected_text": "还有一些我们没有放在表格中"
+    },
+    {
+      "start": 1224.8,
+      "end": 1226.72,
+      "raw_text": "比如说像稀土这些",
+      "corrected_text": "比如说像稀土这些"
+    },
+    {
+      "start": 1226.72,
+      "end": 1228.0,
+      "raw_text": "对 稀土继续拿着",
+      "corrected_text": "对 稀土继续拿着"
+    },
+    {
+      "start": 1228.64,
+      "end": 1229.72,
+      "raw_text": "本次中其实双方",
+      "corrected_text": "本次中其实双方"
+    },
+    {
+      "start": 1229.72,
+      "end": 1231.16,
+      "raw_text": "没有谈什么稀土议题",
+      "corrected_text": "没有谈什么稀土议题"
+    },
+    {
+      "start": 1231.32,
+      "end": 1232.32,
+      "raw_text": "但是我们发现",
+      "corrected_text": "但是我们发现"
+    },
+    {
+      "start": 1232.44,
+      "end": 1234.12,
+      "raw_text": "美日加澳",
+      "corrected_text": "美日加澳"
+    },
+    {
+      "start": 1234.28,
+      "end": 1236.48,
+      "raw_text": "韩在加速稀土",
+      "corrected_text": "韩在加速稀土"
+    },
+    {
+      "start": 1236.88,
+      "end": 1237.88,
+      "raw_text": "产业链构建",
+      "corrected_text": "产业链构建"
+    },
+    {
+      "start": 1237.92,
+      "end": 1239.52,
+      "raw_text": "所以NP我们继续看好",
+      "corrected_text": "所以NP我们继续看好"
+    },
+    {
+      "start": 1239.56,
+      "end": 1240.68,
+      "raw_text": "NP也继续看好",
+      "corrected_text": "NP也继续看好"
+    },
+    {
+      "start": 1241.84,
+      "end": 1243.72,
+      "raw_text": "这是对于整个组合讲解",
+      "corrected_text": "这是对于整个组合讲解"
+    },
+    {
+      "start": 1243.76,
+      "end": 1244.68,
+      "raw_text": "大家对于组合",
+      "corrected_text": "大家对于组合"
+    },
+    {
+      "start": 1244.68,
+      "end": 1246.36,
+      "raw_text": "还有没有什么其他问题想问的",
+      "corrected_text": "还有没有什么其他问题想问的"
+    },
+    {
+      "start": 1248.78,
+      "end": 1250.58,
+      "raw_text": "对于组合有什么想问的",
+      "corrected_text": "对于组合有什么想问的"
+    },
+    {
+      "start": 1251.62,
+      "end": 1252.46,
+      "raw_text": "汪汪队长",
+      "corrected_text": "汪汪队长"
+    },
+    {
+      "start": 1252.98,
+      "end": 1254.58,
+      "raw_text": "诺基亚跟斯科",
+      "corrected_text": "诺基亚跟斯科"
+    },
+    {
+      "start": 1254.58,
+      "end": 1255.62,
+      "raw_text": "其实本轮中",
+      "corrected_text": "其实本轮中"
+    },
+    {
+      "start": 1255.62,
+      "end": 1257.82,
+      "raw_text": "也是受益于整个AI基建的",
+      "corrected_text": "也是受益于整个AI基建的"
+    },
+    {
+      "start": 1257.94,
+      "end": 1260.34,
+      "raw_text": "整个对于通信互联相关的",
+      "corrected_text": "整个对于通信互联相关的"
+    },
+    {
+      "start": 1260.58,
+      "end": 1262.94,
+      "raw_text": "也算老树开新花了",
+      "corrected_text": "也算老树开新花了"
+    },
+    {
+      "start": 1262.94,
+      "end": 1264.14,
+      "raw_text": "其实走势也不错",
+      "corrected_text": "其实走势也不错"
+    },
+    {
+      "start": 1264.18,
+      "end": 1266.7,
+      "raw_text": "本质上也是AI铲链的延伸",
+      "corrected_text": "本质上也是AI铲链的延伸"
+    },
+    {
+      "start": 1271.94,
+      "end": 1274.9,
+      "raw_text": "APP的话本季度存在一个",
+      "corrected_text": "APP的话本季度存在一个"
+    },
+    {
+      "start": 1274.9,
+      "end": 1277.18,
+      "raw_text": "增速放缓的这样一个情况",
+      "corrected_text": "增速放缓的这样一个情况"
+    },
+    {
+      "start": 1277.86,
+      "end": 1278.82,
+      "raw_text": "增速放缓",
+      "corrected_text": "增速放缓"
+    },
+    {
+      "start": 1279.06,
+      "end": 1282.26,
+      "raw_text": "所以我们认为它可能未来一段时间",
+      "corrected_text": "所以我们认为它可能未来一段时间"
+    },
+    {
+      "start": 1282.26,
+      "end": 1284.06,
+      "raw_text": "缺乏重大的催化",
+      "corrected_text": "缺乏重大的催化"
+    },
+    {
+      "start": 1284.58,
+      "end": 1285.66,
+      "raw_text": "那么它能不能跌呢",
+      "corrected_text": "那么它能不能跌呢"
+    },
+    {
+      "start": 1285.66,
+      "end": 1287.06,
+      "raw_text": "可能也跌不太动",
+      "corrected_text": "可能也跌不太动"
+    },
+    {
+      "start": 1287.3,
+      "end": 1288.3,
+      "raw_text": "但涨的话",
+      "corrected_text": "但涨的话"
+    },
+    {
+      "start": 1288.3,
+      "end": 1289.7,
+      "raw_text": "从现在480这个位置",
+      "corrected_text": "从现在480这个位置"
+    },
+    {
+      "start": 1289.7,
+      "end": 1292.7,
+      "raw_text": "可能会朝着520到540这个位置",
+      "corrected_text": "可能会朝着520到540这个位置"
+    },
+    {
+      "start": 1292.9,
+      "end": 1294.02,
+      "raw_text": "慢慢的往上移",
+      "corrected_text": "慢慢的往上移"
+    },
+    {
+      "start": 1294.14,
+      "end": 1296.7,
+      "raw_text": "它短期内大涨的可能性不太高",
+      "corrected_text": "它短期内大涨的可能性不太高"
+    },
+    {
+      "start": 1297.22,
+      "end": 1297.46,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 1297.46,
+      "end": 1299.3,
+      "raw_text": "因为本季度确实增速有点放缓",
+      "corrected_text": "因为本季度确实增速有点放缓"
+    },
+    {
+      "start": 1299.74,
+      "end": 1300.7,
+      "raw_text": "增速有点放缓",
+      "corrected_text": "增速有点放缓"
+    },
+    {
+      "start": 1301.42,
+      "end": 1302.18,
+      "raw_text": "就属于",
+      "corrected_text": "就属于"
+    },
+    {
+      "start": 1302.78,
+      "end": 1304.94,
+      "raw_text": "如果看绝对收益也能拿",
+      "corrected_text": "如果看绝对收益也能拿"
+    },
+    {
+      "start": 1304.94,
+      "end": 1306.18,
+      "raw_text": "但相对弹性来说",
+      "corrected_text": "但相对弹性来说"
+    },
+    {
+      "start": 1306.18,
+      "end": 1307.5,
+      "raw_text": "当下不是最优解",
+      "corrected_text": "当下不是最优解"
+    },
+    {
+      "start": 1311.36,
+      "end": 1313.6,
+      "raw_text": "周末的时候特朗普有给",
+      "corrected_text": "周末的时候特朗普有给"
+    },
+    {
+      "start": 1313.8,
+      "end": 1315.72,
+      "raw_text": "有给美光和闪迪",
+      "corrected_text": "有给美光和闪迪"
+    },
+    {
+      "start": 1315.72,
+      "end": 1317.36,
+      "raw_text": "有给美光去带货对吧",
+      "corrected_text": "有给美光去带货对吧"
+    },
+    {
+      "start": 1317.44,
+      "end": 1319.36,
+      "raw_text": "又给美光去带货继续吹美光",
+      "corrected_text": "又给美光去带货继续吹美光"
+    },
+    {
+      "start": 1319.72,
+      "end": 1320.8,
+      "raw_text": "那么在这个位置",
+      "corrected_text": "那么在这个位置"
+    },
+    {
+      "start": 1320.8,
+      "end": 1322.32,
+      "raw_text": "美光和闪迪能不能买",
+      "corrected_text": "美光和闪迪能不能买"
+    },
+    {
+      "start": 1322.32,
+      "end": 1323.4,
+      "raw_text": "在这个位置买",
+      "corrected_text": "在这个位置买"
+    },
+    {
+      "start": 1323.92,
+      "end": 1326.36,
+      "raw_text": "首先行业景气度没有结束",
+      "corrected_text": "首先行业景气度没有结束"
+    },
+    {
+      "start": 1326.64,
+      "end": 1328.92,
+      "raw_text": "但是在这个位置买美光和闪迪",
+      "corrected_text": "但是在这个位置买美光和闪迪"
+    },
+    {
+      "start": 1328.92,
+      "end": 1330.44,
+      "raw_text": "性价比没有那么高",
+      "corrected_text": "性价比没有那么高"
+    },
+    {
+      "start": 1330.6,
+      "end": 1333.08,
+      "raw_text": "因为他们现在有点做双头的",
+      "corrected_text": "因为他们现在有点做双头的"
+    },
+    {
+      "start": 1333.76,
+      "end": 1335.76,
+      "raw_text": "双头的图形有点难看",
+      "corrected_text": "双头的图形有点难看"
+    },
+    {
+      "start": 1336.04,
+      "end": 1337.76,
+      "raw_text": "所以我们有点担心",
+      "corrected_text": "所以我们有点担心"
+    },
+    {
+      "start": 1337.76,
+      "end": 1339.08,
+      "raw_text": "如果你之前没买的话",
+      "corrected_text": "如果你之前没买的话"
+    },
+    {
+      "start": 1339.08,
+      "end": 1340.6,
+      "raw_text": "在这个位置重仓再去买",
+      "corrected_text": "在这个位置重仓再去买"
+    },
+    {
+      "start": 1340.6,
+      "end": 1343.84,
+      "raw_text": "很容易被宽幅震荡给套住",
+      "corrected_text": "很容易被宽幅震荡给套住"
+    },
+    {
+      "start": 1343.84,
+      "end": 1345.88,
+      "raw_text": "给你套使这个点会比较难受",
+      "corrected_text": "给你套使这个点会比较难受"
+    },
+    {
+      "start": 1346.44,
+      "end": 1347.88,
+      "raw_text": "所以在这个位置的话",
+      "corrected_text": "所以在这个位置的话"
+    },
+    {
+      "start": 1347.88,
+      "end": 1349.28,
+      "raw_text": "我们可能不太推荐",
+      "corrected_text": "我们可能不太推荐"
+    },
+    {
+      "start": 1349.28,
+      "end": 1350.36,
+      "raw_text": "你在这个位置去买",
+      "corrected_text": "你在这个位置去买"
+    },
+    {
+      "start": 1350.48,
+      "end": 1352.28,
+      "raw_text": "如果你之前没有想买的话",
+      "corrected_text": "如果你之前没有想买的话"
+    },
+    {
+      "start": 1352.8,
+      "end": 1354.12,
+      "raw_text": "5个点左右就好了",
+      "corrected_text": "5个点左右就好了"
+    },
+    {
+      "start": 1354.48,
+      "end": 1356.2,
+      "raw_text": "不要这个位置再加重仓",
+      "corrected_text": "不要这个位置再加重仓"
+    },
+    {
+      "start": 1356.68,
+      "end": 1358.24,
+      "raw_text": "不要在这个位置再加重仓",
+      "corrected_text": "不要在这个位置再加重仓"
+    },
+    {
+      "start": 1358.24,
+      "end": 1358.88,
+      "raw_text": "不合适",
+      "corrected_text": "不合适"
+    },
+    {
+      "start": 1359.24,
+      "end": 1359.8,
+      "raw_text": "不合适",
+      "corrected_text": "不合适"
+    },
+    {
+      "start": 1360.24,
+      "end": 1360.64,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 1362.56,
+      "end": 1364.6,
+      "raw_text": "然后今天大家关注到",
+      "corrected_text": "然后今天大家关注到"
+    },
+    {
+      "start": 1364.6,
+      "end": 1366.4,
+      "raw_text": "华为那个套定率了吗",
+      "corrected_text": "华为那个套定率了吗"
+    },
+    {
+      "start": 1366.4,
+      "end": 1368.08,
+      "raw_text": "有人想听这个东西吗",
+      "corrected_text": "有人想听这个东西吗"
+    },
+    {
+      "start": 1371.12,
+      "end": 1373.16,
+      "raw_text": "华为今天套定率",
+      "corrected_text": "华为今天套定率"
+    },
+    {
+      "start": 1373.16,
+      "end": 1375.4,
+      "raw_text": "大家有想聊的吗",
+      "corrected_text": "大家有想聊的吗"
+    },
+    {
+      "start": 1383.78,
+      "end": 1387.5,
+      "raw_text": "SoX里边现在除了",
+      "corrected_text": "SoX里边现在除了"
+    },
+    {
+      "start": 1387.82,
+      "end": 1389.18,
+      "raw_text": "除了英伟达之外",
+      "corrected_text": "除了英伟达之外"
+    },
+    {
+      "start": 1389.18,
+      "end": 1391.14,
+      "raw_text": "整体上的叙事都是比较强的",
+      "corrected_text": "整体上的叙事都是比较强的"
+    },
+    {
+      "start": 1391.14,
+      "end": 1392.62,
+      "raw_text": "但是英伟达有点弱",
+      "corrected_text": "但是英伟达有点弱"
+    },
+    {
+      "start": 1393.06,
+      "end": 1394.5,
+      "raw_text": "英伟达有点弱",
+      "corrected_text": "英伟达有点弱"
+    },
+    {
+      "start": 1394.82,
+      "end": 1395.82,
+      "raw_text": "在这种情况下的话",
+      "corrected_text": "在这种情况下的话"
+    },
+    {
+      "start": 1395.82,
+      "end": 1398.38,
+      "raw_text": "可能SoX短期内也会有一波",
+      "corrected_text": "可能SoX短期内也会有一波"
+    },
+    {
+      "start": 1398.62,
+      "end": 1399.58,
+      "raw_text": "冲顶的局面",
+      "corrected_text": "冲顶的局面"
+    },
+    {
+      "start": 1399.82,
+      "end": 1400.58,
+      "raw_text": "这么说吧",
+      "corrected_text": "这么说吧"
+    },
+    {
+      "start": 1400.74,
+      "end": 1403.46,
+      "raw_text": "SoX和DRAM在这个位置",
+      "corrected_text": "SoX和DRAM在这个位置"
+    },
+    {
+      "start": 1403.46,
+      "end": 1404.66,
+      "raw_text": "如果你手中有",
+      "corrected_text": "如果你手中有"
+    },
+    {
+      "start": 1404.66,
+      "end": 1406.5,
+      "raw_text": "我是建议你可以继续拿",
+      "corrected_text": "我是建议你可以继续拿"
+    },
+    {
+      "start": 1406.98,
+      "end": 1409.42,
+      "raw_text": "但是你问我这个位置要不要加仓",
+      "corrected_text": "但是你问我这个位置要不要加仓"
+    },
+    {
+      "start": 1409.42,
+      "end": 1411.62,
+      "raw_text": "我会认为不太建议",
+      "corrected_text": "我会认为不太建议"
+    },
+    {
+      "start": 1411.9,
+      "end": 1412.82,
+      "raw_text": "参考美光",
+      "corrected_text": "参考美光"
+    },
+    {
+      "start": 1413.22,
+      "end": 1414.74,
+      "raw_text": "就是SoX和DRAM",
+      "corrected_text": "就是SoX和DRAM"
+    },
+    {
+      "start": 1415.02,
+      "end": 1417.42,
+      "raw_text": "本质上类似于美光处理",
+      "corrected_text": "本质上类似于美光处理"
+    },
+    {
+      "start": 1417.42,
+      "end": 1418.82,
+      "raw_text": "如果你在这个位置想加",
+      "corrected_text": "如果你在这个位置想加"
+    },
+    {
+      "start": 1418.82,
+      "end": 1419.78,
+      "raw_text": "你加5个点",
+      "corrected_text": "你加5个点"
+    },
+    {
+      "start": 1419.78,
+      "end": 1421.1,
+      "raw_text": "撑死加10个点",
+      "corrected_text": "撑死加10个点"
+    },
+    {
+      "start": 1421.1,
+      "end": 1421.62,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 1421.78,
+      "end": 1422.5,
+      "raw_text": "别太激进了",
+      "corrected_text": "别太激进了"
+    },
+    {
+      "start": 1422.5,
+      "end": 1423.66,
+      "raw_text": "在这个位置太高了",
+      "corrected_text": "在这个位置太高了"
+    },
+    {
+      "start": 1423.66,
+      "end": 1424.86,
+      "raw_text": "不太建议大家猛加",
+      "corrected_text": "不太建议大家猛加"
+    },
+    {
+      "start": 1425.18,
+      "end": 1425.74,
+      "raw_text": "猛加",
+      "corrected_text": "猛加"
+    },
+    {
+      "start": 1425.94,
+      "end": 1426.5,
+      "raw_text": "OK吗",
+      "corrected_text": "OK吗"
+    },
+    {
+      "start": 1426.7,
+      "end": 1427.58,
+      "raw_text": "好吧SoX DRAM",
+      "corrected_text": "好吧SoX DRAM"
+    },
+    {
+      "start": 1428.14,
+      "end": 1430.66,
+      "raw_text": "然后大饼的话要在",
+      "corrected_text": "然后大饼的话要在"
+    },
+    {
+      "start": 1430.66,
+      "end": 1434.5,
+      "raw_text": "要这个位置大饼有点尴尬",
+      "corrected_text": "要这个位置大饼有点尴尬"
+    },
+    {
+      "start": 1434.5,
+      "end": 1435.82,
+      "raw_text": "有点尴尬",
+      "corrected_text": "有点尴尬"
+    },
+    {
+      "start": 1439.34,
+      "end": 1441.38,
+      "raw_text": "因为也不确定",
+      "corrected_text": "因为也不确定"
+    },
+    {
+      "start": 1442.42,
+      "end": 1444.54,
+      "raw_text": "因为也不确定",
+      "corrected_text": "因为也不确定"
+    },
+    {
+      "start": 1446.18,
+      "end": 1447.62,
+      "raw_text": "涉及到复途这些事件",
+      "corrected_text": "涉及到复途这些事件"
+    },
+    {
+      "start": 1447.62,
+      "end": 1449.46,
+      "raw_text": "对于加密货币相关的冲击",
+      "corrected_text": "对于加密货币相关的冲击"
+    },
+    {
+      "start": 1449.46,
+      "end": 1451.26,
+      "raw_text": "所以大饼的话我建议在等等",
+      "corrected_text": "所以大饼的话我建议在等等"
+    },
+    {
+      "start": 1451.26,
+      "end": 1452.26,
+      "raw_text": "大饼在等等",
+      "corrected_text": "大饼在等等"
+    },
+    {
+      "start": 1453.06,
+      "end": 1454.02,
+      "raw_text": "微软可以",
+      "corrected_text": "微软可以"
+    },
+    {
+      "start": 1454.02,
+      "end": 1454.66,
+      "raw_text": "微软的话",
+      "corrected_text": "微软的话"
+    },
+    {
+      "start": 1454.66,
+      "end": 1456.94,
+      "raw_text": "如果你超低软件不知道想搞什么",
+      "corrected_text": "如果你超低软件不知道想搞什么"
+    },
+    {
+      "start": 1456.98,
+      "end": 1459.7,
+      "raw_text": "那么微软大家可以继续持有",
+      "corrected_text": "那么微软大家可以继续持有"
+    },
+    {
+      "start": 1459.7,
+      "end": 1461.74,
+      "raw_text": "我们认为微软作为软件中的整个",
+      "corrected_text": "我们认为微软作为软件中的整个"
+    },
+    {
+      "start": 1461.9,
+      "end": 1463.98,
+      "raw_text": "攻守兼备性价比也不错",
+      "corrected_text": "攻守兼备性价比也不错"
+    },
+    {
+      "start": 1463.98,
+      "end": 1464.82,
+      "raw_text": "微软可以",
+      "corrected_text": "微软可以"
+    },
+    {
+      "start": 1464.82,
+      "end": 1465.34,
+      "raw_text": "好",
+      "corrected_text": "好"
+    },
+    {
+      "start": 1465.58,
+      "end": 1469.06,
+      "raw_text": "然后我们来说一下",
+      "corrected_text": "然后我们来说一下"
+    },
+    {
+      "start": 1469.1,
+      "end": 1470.62,
+      "raw_text": "今天这个东西",
+      "corrected_text": "今天这个东西"
+    },
+    {
+      "start": 1471.14,
+      "end": 1474.74,
+      "raw_text": "其实这个东西对美股的影响不是很大",
+      "corrected_text": "其实这个东西对美股的影响不是很大"
+    },
+    {
+      "start": 1476.22,
+      "end": 1478.06,
+      "raw_text": "对美股的影响不是很大",
+      "corrected_text": "对美股的影响不是很大"
+    },
+    {
+      "start": 1478.22,
+      "end": 1479.7,
+      "raw_text": "因为虽然说",
+      "corrected_text": "因为虽然说"
+    },
+    {
+      "start": 1480.3,
+      "end": 1482.74,
+      "raw_text": "大家都把它讲成了一个",
+      "corrected_text": "大家都把它讲成了一个"
+    },
+    {
+      "start": 1482.78,
+      "end": 1484.78,
+      "raw_text": "好像怎么怎么样的东西",
+      "corrected_text": "好像怎么怎么样的东西"
+    },
+    {
+      "start": 1484.9,
+      "end": 1487.26,
+      "raw_text": "但是你们想想",
+      "corrected_text": "但是你们想想"
+    },
+    {
+      "start": 1487.38,
+      "end": 1490.02,
+      "raw_text": "如果你有充足的先进制程",
+      "corrected_text": "如果你有充足的先进制程"
+    },
+    {
+      "start": 1490.06,
+      "end": 1492.1,
+      "raw_text": "你会采用华为这个方案吗",
+      "corrected_text": "你会采用华为这个方案吗"
+    },
+    {
+      "start": 1492.1,
+      "end": 1492.86,
+      "raw_text": "来大家",
+      "corrected_text": "来大家"
+    },
+    {
+      "start": 1492.9,
+      "end": 1494.42,
+      "raw_text": "我们不带情绪的讲",
+      "corrected_text": "我们不带情绪的讲"
+    },
+    {
+      "start": 1494.62,
+      "end": 1496.46,
+      "raw_text": "不带情绪的去思考",
+      "corrected_text": "不带情绪的去思考"
+    },
+    {
+      "start": 1496.66,
+      "end": 1499.34,
+      "raw_text": "如果你有充足的先进制程",
+      "corrected_text": "如果你有充足的先进制程"
+    },
+    {
+      "start": 1499.46,
+      "end": 1501.38,
+      "raw_text": "请问你会",
+      "corrected_text": "请问你会"
+    },
+    {
+      "start": 1502.26,
+      "end": 1504.66,
+      "raw_text": "请问你会选用这个方案吗",
+      "corrected_text": "请问你会选用这个方案吗"
+    },
+    {
+      "start": 1506.98,
+      "end": 1507.66,
+      "raw_text": "不会",
+      "corrected_text": "不会"
+    },
+    {
+      "start": 1507.94,
+      "end": 1509.38,
+      "raw_text": "这是不得已而为之",
+      "corrected_text": "这是不得已而为之"
+    },
+    {
+      "start": 1509.38,
+      "end": 1511.5,
+      "raw_text": "因为你先进制程被卡死了",
+      "corrected_text": "因为你先进制程被卡死了"
+    },
+    {
+      "start": 1511.54,
+      "end": 1513.1,
+      "raw_text": "你没办法只靠先进制程",
+      "corrected_text": "你没办法只靠先进制程"
+    },
+    {
+      "start": 1513.1,
+      "end": 1515.54,
+      "raw_text": "你不得已在其他环节下功夫",
+      "corrected_text": "你不得已在其他环节下功夫"
+    },
+    {
+      "start": 1516.1,
+      "end": 1517.1,
+      "raw_text": "不得已",
+      "corrected_text": "不得已"
+    },
+    {
+      "start": 1517.82,
+      "end": 1519.7,
+      "raw_text": "在元器件",
+      "corrected_text": "在元器件"
+    },
+    {
+      "start": 1520.82,
+      "end": 1522.78,
+      "raw_text": "在整个电路板",
+      "corrected_text": "在整个电路板"
+    },
+    {
+      "start": 1522.94,
+      "end": 1524.1,
+      "raw_text": "在整个连接",
+      "corrected_text": "在整个连接"
+    },
+    {
+      "start": 1524.14,
+      "end": 1525.86,
+      "raw_text": "在整个方案中下功夫",
+      "corrected_text": "在整个方案中下功夫"
+    },
+    {
+      "start": 1525.9,
+      "end": 1527.66,
+      "raw_text": "来去让整个系统",
+      "corrected_text": "来去让整个系统"
+    },
+    {
+      "start": 1528.02,
+      "end": 1529.1,
+      "raw_text": "实现最优解",
+      "corrected_text": "实现最优解"
+    },
+    {
+      "start": 1531.65,
+      "end": 1532.93,
+      "raw_text": "就类似于冷战时期",
+      "corrected_text": "就类似于冷战时期"
+    },
+    {
+      "start": 1532.93,
+      "end": 1534.61,
+      "raw_text": "当时美国的军事技术",
+      "corrected_text": "当时美国的军事技术"
+    },
+    {
+      "start": 1534.65,
+      "end": 1536.01,
+      "raw_text": "始终领先于苏联一代",
+      "corrected_text": "始终领先于苏联一代"
+    },
+    {
+      "start": 1536.01,
+      "end": 1537.65,
+      "raw_text": "苏联做不出来最先进的怎么办",
+      "corrected_text": "苏联做不出来最先进的怎么办"
+    },
+    {
+      "start": 1538.05,
+      "end": 1540.85,
+      "raw_text": "只能用不太先进的元器件",
+      "corrected_text": "只能用不太先进的元器件"
+    },
+    {
+      "start": 1540.89,
+      "end": 1544.33,
+      "raw_text": "拼凑成一个整体系统还不错的产品",
+      "corrected_text": "拼凑成一个整体系统还不错的产品"
+    },
+    {
+      "start": 1545.01,
+      "end": 1548.17,
+      "raw_text": "这就是技术被别人卡死之下的无奈之举",
+      "corrected_text": "这就是技术被别人卡死之下的无奈之举"
+    },
+    {
+      "start": 1549.61,
+      "end": 1551.41,
+      "raw_text": "当然有价值没有有",
+      "corrected_text": "当然有价值没有有"
+    },
+    {
+      "start": 1551.81,
+      "end": 1554.45,
+      "raw_text": "但是也只能在我看来也只能说",
+      "corrected_text": "但是也只能在我看来也只能说"
+    },
+    {
+      "start": 1554.49,
+      "end": 1556.61,
+      "raw_text": "在有限范围内缝缝补补",
+      "corrected_text": "在有限范围内缝缝补补"
+    },
+    {
+      "start": 1557.53,
+      "end": 1559.05,
+      "raw_text": "可以提高效率可以优化",
+      "corrected_text": "可以提高效率可以优化"
+    },
+    {
+      "start": 1559.05,
+      "end": 1563.37,
+      "raw_text": "但是如果有的选肯定不是最优解",
+      "corrected_text": "但是如果有的选肯定不是最优解"
+    },
+    {
+      "start": 1563.41,
+      "end": 1566.49,
+      "raw_text": "所以对美国这些",
+      "corrected_text": "所以对美国这些"
+    },
+    {
+      "start": 1566.49,
+      "end": 1568.45,
+      "raw_text": "对全球范围内的铲链",
+      "corrected_text": "对全球范围内的铲链"
+    },
+    {
+      "start": 1568.49,
+      "end": 1570.13,
+      "raw_text": "半导体的冲击",
+      "corrected_text": "半导体的冲击"
+    },
+    {
+      "start": 1571.37,
+      "end": 1572.85,
+      "raw_text": "现阶段我们来判断",
+      "corrected_text": "现阶段我们来判断"
+    },
+    {
+      "start": 1573.45,
+      "end": 1574.85,
+      "raw_text": "几乎可以忽略不计",
+      "corrected_text": "几乎可以忽略不计"
+    },
+    {
+      "start": 1574.89,
+      "end": 1576.13,
+      "raw_text": "如果你持有的是",
+      "corrected_text": "如果你持有的是"
+    },
+    {
+      "start": 1576.53,
+      "end": 1580.25,
+      "raw_text": "美日韩欧台相关的半导体公司",
+      "corrected_text": "美日韩欧台相关的半导体公司"
+    },
+    {
+      "start": 1580.29,
+      "end": 1582.81,
+      "raw_text": "无论是设备端材料端器械芯片",
+      "corrected_text": "无论是设备端材料端器械芯片"
+    },
+    {
+      "start": 1582.85,
+      "end": 1583.65,
+      "raw_text": "制程等等",
+      "corrected_text": "制程等等"
+    },
+    {
+      "start": 1583.93,
+      "end": 1585.49,
+      "raw_text": "我认为没什么冲击",
+      "corrected_text": "我认为没什么冲击"
+    },
+    {
+      "start": 1586.21,
+      "end": 1587.29,
+      "raw_text": "没什么冲击",
+      "corrected_text": "没什么冲击"
+    },
+    {
+      "start": 1587.49,
+      "end": 1589.37,
+      "raw_text": "对国内是不是利好呢",
+      "corrected_text": "对国内是不是利好呢"
+    },
+    {
+      "start": 1589.41,
+      "end": 1590.49,
+      "raw_text": "是利好",
+      "corrected_text": "是利好"
+    },
+    {
+      "start": 1591.45,
+      "end": 1592.85,
+      "raw_text": "但是大家说",
+      "corrected_text": "但是大家说"
+    },
+    {
+      "start": 1593.13,
+      "end": 1596.61,
+      "raw_text": "难道华为是从今天才这么做的吗",
+      "corrected_text": "难道华为是从今天才这么做的吗"
+    },
+    {
+      "start": 1597.37,
+      "end": 1600.25,
+      "raw_text": "难道他之前从贸易战",
+      "corrected_text": "难道他之前从贸易战"
+    },
+    {
+      "start": 1600.25,
+      "end": 1602.89,
+      "raw_text": "中国半导体铲链被卡死之后",
+      "corrected_text": "中国半导体铲链被卡死之后"
+    },
+    {
+      "start": 1602.93,
+      "end": 1604.85,
+      "raw_text": "华为难道不是一直这么做的吗",
+      "corrected_text": "华为难道不是一直这么做的吗"
+    },
+    {
+      "start": 1605.85,
+      "end": 1608.05,
+      "raw_text": "所以今天你可以视为",
+      "corrected_text": "所以今天你可以视为"
+    },
+    {
+      "start": 1608.09,
+      "end": 1610.53,
+      "raw_text": "是我们国产不得不另辟蹊径",
+      "corrected_text": "是我们国产不得不另辟蹊径"
+    },
+    {
+      "start": 1610.57,
+      "end": 1612.01,
+      "raw_text": "走了一条技术路线",
+      "corrected_text": "走了一条技术路线"
+    },
+    {
+      "start": 1612.17,
+      "end": 1614.13,
+      "raw_text": "只是一个宣告一个里程碑",
+      "corrected_text": "只是一个宣告一个里程碑"
+    },
+    {
+      "start": 1614.13,
+      "end": 1615.89,
+      "raw_text": "而非正式开启",
+      "corrected_text": "而非正式开启"
+    },
+    {
+      "start": 1615.93,
+      "end": 1617.01,
+      "raw_text": "其实过去这几",
+      "corrected_text": "其实过去这几"
+    },
+    {
+      "start": 1617.01,
+      "end": 1618.37,
+      "raw_text": "从18年贸易战以来",
+      "corrected_text": "从18年贸易战以来"
+    },
+    {
+      "start": 1618.37,
+      "end": 1620.85,
+      "raw_text": "过去这8年国产半导体铲链",
+      "corrected_text": "过去这8年国产半导体铲链"
+    },
+    {
+      "start": 1620.89,
+      "end": 1622.89,
+      "raw_text": "一直就是受益于这个理念的",
+      "corrected_text": "一直就是受益于这个理念的"
+    },
+    {
+      "start": 1623.89,
+      "end": 1625.61,
+      "raw_text": "他不会因为今天",
+      "corrected_text": "他不会因为今天"
+    },
+    {
+      "start": 1625.65,
+      "end": 1627.09,
+      "raw_text": "提出这个理念之后",
+      "corrected_text": "提出这个理念之后"
+    },
+    {
+      "start": 1627.13,
+      "end": 1629.13,
+      "raw_text": "就额外有什么增量",
+      "corrected_text": "就额外有什么增量"
+    },
+    {
+      "start": 1629.77,
+      "end": 1630.73,
+      "raw_text": "这个不对",
+      "corrected_text": "这个不对"
+    },
+    {
+      "start": 1630.85,
+      "end": 1631.69,
+      "raw_text": "这个不对",
+      "corrected_text": "这个不对"
+    },
+    {
+      "start": 1631.81,
+      "end": 1633.81,
+      "raw_text": "只能说情绪上是提振",
+      "corrected_text": "只能说情绪上是提振"
+    },
+    {
+      "start": 1634.05,
+      "end": 1635.93,
+      "raw_text": "但是事实上来看",
+      "corrected_text": "但是事实上来看"
+    },
+    {
+      "start": 1635.93,
+      "end": 1637.53,
+      "raw_text": "不是因为今天提出这个理念",
+      "corrected_text": "不是因为今天提出这个理念"
+    },
+    {
+      "start": 1637.53,
+      "end": 1638.69,
+      "raw_text": "就受益了",
+      "corrected_text": "就受益了"
+    },
+    {
+      "start": 1639.21,
+      "end": 1640.37,
+      "raw_text": "你与其讨论这个",
+      "corrected_text": "你与其讨论这个"
+    },
+    {
+      "start": 1640.37,
+      "end": 1641.41,
+      "raw_text": "还不是讨论说",
+      "corrected_text": "还不是讨论说"
+    },
+    {
+      "start": 1642.25,
+      "end": 1644.29,
+      "raw_text": "长存长新等等相关的",
+      "corrected_text": "长存长新等等相关的"
+    },
+    {
+      "start": 1644.29,
+      "end": 1646.29,
+      "raw_text": "扩产上市融资",
+      "corrected_text": "扩产上市融资"
+    },
+    {
+      "start": 1646.29,
+      "end": 1647.85,
+      "raw_text": "然后对整个产链的需求",
+      "corrected_text": "然后对整个产链的需求"
+    },
+    {
+      "start": 1647.85,
+      "end": 1649.73,
+      "raw_text": "那个更加实实在在的",
+      "corrected_text": "那个更加实实在在的"
+    },
+    {
+      "start": 1649.77,
+      "end": 1652.49,
+      "raw_text": "而华为这个更多是情绪上的一个振奋",
+      "corrected_text": "而华为这个更多是情绪上的一个振奋"
+    },
+    {
+      "start": 1653.25,
+      "end": 1655.53,
+      "raw_text": "但实际上他已经默默的",
+      "corrected_text": "但实际上他已经默默的"
+    },
+    {
+      "start": 1656.01,
+      "end": 1658.25,
+      "raw_text": "默默的践行了很多年了",
+      "corrected_text": "默默的践行了很多年了"
+    },
+    {
+      "start": 1658.37,
+      "end": 1659.61,
+      "raw_text": "整个国产半导体",
+      "corrected_text": "整个国产半导体"
+    },
+    {
+      "start": 1659.65,
+      "end": 1661.33,
+      "raw_text": "一直受益于这个方向",
+      "corrected_text": "一直受益于这个方向"
+    },
+    {
+      "start": 1662.13,
+      "end": 1664.05,
+      "raw_text": "所以说你如果炒A股",
+      "corrected_text": "所以说你如果炒A股"
+    },
+    {
+      "start": 1664.05,
+      "end": 1665.17,
+      "raw_text": "沿着这个产业链",
+      "corrected_text": "沿着这个产业链"
+    },
+    {
+      "start": 1665.41,
+      "end": 1668.33,
+      "raw_text": "看我们总结这些受益的公司去炒",
+      "corrected_text": "看我们总结这些受益的公司去炒"
+    },
+    {
+      "start": 1668.37,
+      "end": 1669.45,
+      "raw_text": "这个是OK的",
+      "corrected_text": "这个是OK的"
+    },
+    {
+      "start": 1669.49,
+      "end": 1671.77,
+      "raw_text": "但是实际上对全球半导体来说",
+      "corrected_text": "但是实际上对全球半导体来说"
+    },
+    {
+      "start": 1671.81,
+      "end": 1673.29,
+      "raw_text": "没有什么实质性冲击",
+      "corrected_text": "没有什么实质性冲击"
+    },
+    {
+      "start": 1673.41,
+      "end": 1674.61,
+      "raw_text": "不会因此",
+      "corrected_text": "不会因此"
+    },
+    {
+      "start": 1674.77,
+      "end": 1676.01,
+      "raw_text": "投资者去抛售",
+      "corrected_text": "投资者去抛售"
+    },
+    {
+      "start": 1676.05,
+      "end": 1678.69,
+      "raw_text": "美股中日韩台的半导体公司",
+      "corrected_text": "美股中日韩台的半导体公司"
+    },
+    {
+      "start": 1678.69,
+      "end": 1679.49,
+      "raw_text": "这不合理",
+      "corrected_text": "这不合理"
+    },
+    {
+      "start": 1679.61,
+      "end": 1680.37,
+      "raw_text": "这不合理",
+      "corrected_text": "这不合理"
+    },
+    {
+      "start": 1680.81,
+      "end": 1681.37,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 1681.65,
+      "end": 1682.57,
+      "raw_text": "那摩尔道头",
+      "corrected_text": "那摩尔道头"
+    },
+    {
+      "start": 1682.57,
+      "end": 1684.01,
+      "raw_text": "难道是今天才意识到的吗",
+      "corrected_text": "难道是今天才意识到的吗"
+    },
+    {
+      "start": 1684.01,
+      "end": 1684.73,
+      "raw_text": "不是的",
+      "corrected_text": "不是的"
+    },
+    {
+      "start": 1684.97,
+      "end": 1685.89,
+      "raw_text": "不是的",
+      "corrected_text": "不是的"
+    },
+    {
+      "start": 1686.17,
+      "end": 1687.17,
+      "raw_text": "不是的",
+      "corrected_text": "不是的"
+    },
+    {
+      "start": 1688.45,
+      "end": 1690.37,
+      "raw_text": "所以有人把它称之为",
+      "corrected_text": "所以有人把它称之为"
+    },
+    {
+      "start": 1691.21,
+      "end": 1693.33,
+      "raw_text": "2026年的deep sick时刻",
+      "corrected_text": "2026年的deep sick时刻"
+    },
+    {
+      "start": 1693.65,
+      "end": 1696.53,
+      "raw_text": "那么这个说法就有点太那个啥了",
+      "corrected_text": "那么这个说法就有点太那个啥了"
+    },
+    {
+      "start": 1696.69,
+      "end": 1698.65,
+      "raw_text": "你如果真想把它称为deep sick时刻",
+      "corrected_text": "你如果真想把它称为deep sick时刻"
+    },
+    {
+      "start": 1698.65,
+      "end": 1700.93,
+      "raw_text": "我倒认为你8年前的时候",
+      "corrected_text": "我倒认为你8年前的时候"
+    },
+    {
+      "start": 1700.97,
+      "end": 1702.33,
+      "raw_text": "华为开始做的时候",
+      "corrected_text": "华为开始做的时候"
+    },
+    {
+      "start": 1702.37,
+      "end": 1704.25,
+      "raw_text": "你那个时候称之为deep sick时刻",
+      "corrected_text": "你那个时候称之为deep sick时刻"
+    },
+    {
+      "start": 1704.29,
+      "end": 1705.33,
+      "raw_text": "更加靠谱一些",
+      "corrected_text": "更加靠谱一些"
+    },
+    {
+      "start": 1705.69,
+      "end": 1707.33,
+      "raw_text": "现在只能算一个正式",
+      "corrected_text": "现在只能算一个正式"
+    },
+    {
+      "start": 1707.81,
+      "end": 1708.77,
+      "raw_text": "现有实质",
+      "corrected_text": "现有实质"
+    },
+    {
+      "start": 1708.81,
+      "end": 1709.81,
+      "raw_text": "后有名分",
+      "corrected_text": "后有名分"
+    },
+    {
+      "start": 1709.85,
+      "end": 1711.73,
+      "raw_text": "今天领了结婚证而已",
+      "corrected_text": "今天领了结婚证而已"
+    },
+    {
+      "start": 1711.77,
+      "end": 1713.09,
+      "raw_text": "只是一个宣告",
+      "corrected_text": "只是一个宣告"
+    },
+    {
+      "start": 1713.45,
+      "end": 1713.97,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 1715.25,
+      "end": 1717.49,
+      "raw_text": "所以你想炒A股的",
+      "corrected_text": "所以你想炒A股的"
+    },
+    {
+      "start": 1717.65,
+      "end": 1718.41,
+      "raw_text": "没问题",
+      "corrected_text": "没问题"
+    },
+    {
+      "start": 1718.49,
+      "end": 1719.93,
+      "raw_text": "但是不要因此而",
+      "corrected_text": "但是不要因此而"
+    },
+    {
+      "start": 1720.09,
+      "end": 1721.01,
+      "raw_text": "而太那个啥",
+      "corrected_text": "而太那个啥"
+    },
+    {
+      "start": 1721.05,
+      "end": 1721.65,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 1722.29,
+      "end": 1725.21,
+      "raw_text": "本质上我个人认为是无奈之举",
+      "corrected_text": "本质上我个人认为是无奈之举"
+    },
+    {
+      "start": 1725.25,
+      "end": 1726.17,
+      "raw_text": "无奈之举",
+      "corrected_text": "无奈之举"
+    },
+    {
+      "start": 1726.77,
+      "end": 1728.61,
+      "raw_text": "虽然我们可以大赢特赢",
+      "corrected_text": "虽然我们可以大赢特赢"
+    },
+    {
+      "start": 1728.65,
+      "end": 1730.05,
+      "raw_text": "但实际上你平心而论",
+      "corrected_text": "但实际上你平心而论"
+    },
+    {
+      "start": 1730.09,
+      "end": 1730.77,
+      "raw_text": "有更好的",
+      "corrected_text": "有更好的"
+    },
+    {
+      "start": 1730.77,
+      "end": 1731.85,
+      "raw_text": "你会不会用更好的",
+      "corrected_text": "你会不会用更好的"
+    },
+    {
+      "start": 1731.89,
+      "end": 1732.61,
+      "raw_text": "还是会的",
+      "corrected_text": "还是会的"
+    },
+    {
+      "start": 1733.29,
+      "end": 1734.09,
+      "raw_text": "难道我更好的",
+      "corrected_text": "难道我更好的"
+    },
+    {
+      "start": 1734.09,
+      "end": 1735.29,
+      "raw_text": "就不能用这个方案了吗",
+      "corrected_text": "就不能用这个方案了吗"
+    },
+    {
+      "start": 1735.33,
+      "end": 1736.01,
+      "raw_text": "也可以",
+      "corrected_text": "也可以"
+    },
+    {
+      "start": 1736.05,
+      "end": 1737.41,
+      "raw_text": "我有两纳米心静之诚",
+      "corrected_text": "我有两纳米心静之诚"
+    },
+    {
+      "start": 1737.41,
+      "end": 1739.01,
+      "raw_text": "我依然可以用掏定率",
+      "corrected_text": "我依然可以用掏定率"
+    },
+    {
+      "start": 1739.17,
+      "end": 1739.57,
+      "raw_text": "对不对",
+      "corrected_text": "对不对"
+    },
+    {
+      "start": 1739.57,
+      "end": 1741.17,
+      "raw_text": "我为什么非要用7纳米的",
+      "corrected_text": "我为什么非要用7纳米的"
+    },
+    {
+      "start": 1741.33,
+      "end": 1742.65,
+      "raw_text": "方案情况下用掏定率",
+      "corrected_text": "方案情况下用掏定率"
+    },
+    {
+      "start": 1743.13,
+      "end": 1743.89,
+      "raw_text": "你说是不是",
+      "corrected_text": "你说是不是"
+    },
+    {
+      "start": 1744.45,
+      "end": 1744.97,
+      "raw_text": "好",
+      "corrected_text": "好"
+    },
+    {
+      "start": 1745.57,
+      "end": 1745.81,
+      "raw_text": "行",
+      "corrected_text": "行"
+    },
+    {
+      "start": 1746.85,
+      "end": 1747.53,
+      "raw_text": "政治不正确",
+      "corrected_text": "政治不正确"
+    },
+    {
+      "start": 1747.53,
+      "end": 1748.57,
+      "raw_text": "大家听完就算了",
+      "corrected_text": "大家听完就算了"
+    },
+    {
+      "start": 1748.73,
+      "end": 1749.45,
+      "raw_text": "听完就算了",
+      "corrected_text": "听完就算了"
+    },
+    {
+      "start": 1749.45,
+      "end": 1750.25,
+      "raw_text": "政治不正确",
+      "corrected_text": "政治不正确"
+    },
+    {
+      "start": 1751.37,
+      "end": 1752.85,
+      "raw_text": "然后谷歌不用讲",
+      "corrected_text": "然后谷歌不用讲"
+    },
+    {
+      "start": 1753.09,
+      "end": 1755.05,
+      "raw_text": "谷歌就是坚定持有",
+      "corrected_text": "谷歌就是坚定持有"
+    },
+    {
+      "start": 1755.05,
+      "end": 1757.01,
+      "raw_text": "谷歌作为AID梯队",
+      "corrected_text": "谷歌作为AID梯队"
+    },
+    {
+      "start": 1757.21,
+      "end": 1757.93,
+      "raw_text": "芯片领域",
+      "corrected_text": "芯片领域"
+    },
+    {
+      "start": 1757.93,
+      "end": 1759.33,
+      "raw_text": "包括应用领域都不错",
+      "corrected_text": "包括应用领域都不错"
+    },
+    {
+      "start": 1760.49,
+      "end": 1764.33,
+      "raw_text": "谷歌云的加速也是进展不错的",
+      "corrected_text": "谷歌云的加速也是进展不错的"
+    },
+    {
+      "start": 1764.33,
+      "end": 1765.57,
+      "raw_text": "而且谷歌在大模型领域",
+      "corrected_text": "而且谷歌在大模型领域"
+    },
+    {
+      "start": 1765.57,
+      "end": 1766.89,
+      "raw_text": "自然能力也是很强的",
+      "corrected_text": "自然能力也是很强的"
+    },
+    {
+      "start": 1767.09,
+      "end": 1769.57,
+      "raw_text": "所以不用关注",
+      "corrected_text": "所以不用关注"
+    },
+    {
+      "start": 1771.33,
+      "end": 1774.01,
+      "raw_text": "然后还有一个右是吧",
+      "corrected_text": "然后还有一个右是吧"
+    },
+    {
+      "start": 1774.01,
+      "end": 1776.57,
+      "raw_text": "右我们不是推了右框吗",
+      "corrected_text": "右我们不是推了右框吗"
+    },
+    {
+      "start": 1776.57,
+      "end": 1778.49,
+      "raw_text": "所以L1右的话你不想等",
+      "corrected_text": "所以L1右的话你不想等"
+    },
+    {
+      "start": 1778.49,
+      "end": 1779.53,
+      "raw_text": "你可以换成右框",
+      "corrected_text": "你可以换成右框"
+    },
+    {
+      "start": 1779.77,
+      "end": 1780.85,
+      "raw_text": "右框你不想买的话",
+      "corrected_text": "右框你不想买的话"
+    },
+    {
+      "start": 1780.85,
+      "end": 1782.81,
+      "raw_text": "就换成黄金白银都可以",
+      "corrected_text": "就换成黄金白银都可以"
+    },
+    {
+      "start": 1784.01,
+      "end": 1784.41,
+      "raw_text": "好",
+      "corrected_text": "好"
+    },
+    {
+      "start": 1792.15,
+      "end": 1793.55,
+      "raw_text": "大家还有别的什么问题吗",
+      "corrected_text": "大家还有别的什么问题吗"
+    },
+    {
+      "start": 1796.9,
+      "end": 1798.5,
+      "raw_text": "在这个位置加谷歌",
+      "corrected_text": "在这个位置加谷歌"
+    },
+    {
+      "start": 1798.5,
+      "end": 1799.9,
+      "raw_text": "性价比没有那么高",
+      "corrected_text": "性价比没有那么高"
+    },
+    {
+      "start": 1800.02,
+      "end": 1801.26,
+      "raw_text": "没有那么高",
+      "corrected_text": "没有那么高"
+    },
+    {
+      "start": 1801.58,
+      "end": 1802.14,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 1803.86,
+      "end": 1806.1,
+      "raw_text": "谷歌的话在这个位置",
+      "corrected_text": "谷歌的话在这个位置"
+    },
+    {
+      "start": 1808.1,
+      "end": 1810.1,
+      "raw_text": "可能他可能要调几个点",
+      "corrected_text": "可能他可能要调几个点"
+    },
+    {
+      "start": 1810.1,
+      "end": 1812.06,
+      "raw_text": "可能他要在高位震荡中",
+      "corrected_text": "可能他要在高位震荡中"
+    },
+    {
+      "start": 1812.1,
+      "end": 1814.78,
+      "raw_text": "因为从5月初财报超预期之后",
+      "corrected_text": "因为从5月初财报超预期之后"
+    },
+    {
+      "start": 1814.98,
+      "end": 1819.5,
+      "raw_text": "市场对他的热情发酵",
+      "corrected_text": "市场对他的热情发酵"
+    },
+    {
+      "start": 1819.5,
+      "end": 1820.26,
+      "raw_text": "比较充分了",
+      "corrected_text": "比较充分了"
+    },
+    {
+      "start": 1820.26,
+      "end": 1821.58,
+      "raw_text": "可能在这个高位",
+      "corrected_text": "可能在这个高位"
+    },
+    {
+      "start": 1821.58,
+      "end": 1825.58,
+      "raw_text": "在这个380到400左右要震荡一段时间",
+      "corrected_text": "在这个380到400左右要震荡一段时间"
+    },
+    {
+      "start": 1825.9,
+      "end": 1827.22,
+      "raw_text": "所以可以等一等",
+      "corrected_text": "所以可以等一等"
+    },
+    {
+      "start": 1827.42,
+      "end": 1829.34,
+      "raw_text": "不急好吧",
+      "corrected_text": "不急好吧"
+    },
+    {
+      "start": 1829.74,
+      "end": 1832.26,
+      "raw_text": "因为就算你现在买了",
+      "corrected_text": "因为就算你现在买了"
+    },
+    {
+      "start": 1832.26,
+      "end": 1833.86,
+      "raw_text": "比如说他现在380",
+      "corrected_text": "比如说他现在380"
+    },
+    {
+      "start": 1833.86,
+      "end": 1835.06,
+      "raw_text": "你现在加了之后",
+      "corrected_text": "你现在加了之后"
+    },
+    {
+      "start": 1835.06,
+      "end": 1836.22,
+      "raw_text": "他回调到360左右",
+      "corrected_text": "他回调到360左右"
+    },
+    {
+      "start": 1836.22,
+      "end": 1838.42,
+      "raw_text": "然后过一段时间再回调到380",
+      "corrected_text": "然后过一段时间再回调到380"
+    },
+    {
+      "start": 1838.58,
+      "end": 1839.94,
+      "raw_text": "你那时候再买会好一些",
+      "corrected_text": "你那时候再买会好一些"
+    },
+    {
+      "start": 1842.41,
+      "end": 1845.97,
+      "raw_text": "SpaceX IPO对东西的影响会很大",
+      "corrected_text": "SpaceX IPO对东西的影响会很大"
+    },
+    {
+      "start": 1846.21,
+      "end": 1847.17,
+      "raw_text": "会很大",
+      "corrected_text": "会很大"
+    },
+    {
+      "start": 1848.41,
+      "end": 1849.17,
+      "raw_text": "会很大",
+      "corrected_text": "会很大"
+    },
+    {
+      "start": 1849.73,
+      "end": 1851.93,
+      "raw_text": "其实6月份",
+      "corrected_text": "其实6月份"
+    },
+    {
+      "start": 1852.25,
+      "end": 1855.61,
+      "raw_text": "包括下半年中美的巨无霸",
+      "corrected_text": "包括下半年中美的巨无霸"
+    },
+    {
+      "start": 1855.77,
+      "end": 1857.05,
+      "raw_text": "IPO太多了",
+      "corrected_text": "IPO太多了"
+    },
+    {
+      "start": 1857.09,
+      "end": 1859.13,
+      "raw_text": "这个对市场抽血是比较严重的",
+      "corrected_text": "这个对市场抽血是比较严重的"
+    },
+    {
+      "start": 1859.13,
+      "end": 1860.17,
+      "raw_text": "这也是为什么",
+      "corrected_text": "这也是为什么"
+    },
+    {
+      "start": 1860.37,
+      "end": 1862.85,
+      "raw_text": "我们认为科技股后续的",
+      "corrected_text": "我们认为科技股后续的"
+    },
+    {
+      "start": 1863.09,
+      "end": 1864.93,
+      "raw_text": "震荡概率会迅速上升",
+      "corrected_text": "震荡概率会迅速上升"
+    },
+    {
+      "start": 1865.25,
+      "end": 1866.49,
+      "raw_text": "震荡会迅速上升",
+      "corrected_text": "震荡会迅速上升"
+    },
+    {
+      "start": 1866.89,
+      "end": 1870.29,
+      "raw_text": "所以这些可能会视为",
+      "corrected_text": "所以这些可能会视为"
+    },
+    {
+      "start": 1870.57,
+      "end": 1872.93,
+      "raw_text": "一个情绪的极限信号",
+      "corrected_text": "一个情绪的极限信号"
+    },
+    {
+      "start": 1874.61,
+      "end": 1877.93,
+      "raw_text": "每一次巨头上市的时候抽血都会",
+      "corrected_text": "每一次巨头上市的时候抽血都会"
+    },
+    {
+      "start": 1878.21,
+      "end": 1880.21,
+      "raw_text": "对科技板块造成致命一击",
+      "corrected_text": "对科技板块造成致命一击"
+    },
+    {
+      "start": 1880.65,
+      "end": 1882.77,
+      "raw_text": "所以大家不要太上头",
+      "corrected_text": "所以大家不要太上头"
+    },
+    {
+      "start": 1883.37,
+      "end": 1886.13,
+      "raw_text": "DRAM我们说了DRAM SOX包括美光",
+      "corrected_text": "DRAM我们说了DRAM SOX包括美光"
+    },
+    {
+      "start": 1886.25,
+      "end": 1887.49,
+      "raw_text": "你最多加10个点",
+      "corrected_text": "你最多加10个点"
+    },
+    {
+      "start": 1887.49,
+      "end": 1888.89,
+      "raw_text": "其实我认为5个点就OK了",
+      "corrected_text": "其实我认为5个点就OK了"
+    },
+    {
+      "start": 1889.21,
+      "end": 1890.01,
+      "raw_text": "最多加10个点",
+      "corrected_text": "最多加10个点"
+    },
+    {
+      "start": 1894.61,
+      "end": 1896.57,
+      "raw_text": "META还没到爆发时间点了",
+      "corrected_text": "META还没到爆发时间点了"
+    },
+    {
+      "start": 1896.57,
+      "end": 1897.65,
+      "raw_text": "META我们一直讲了",
+      "corrected_text": "META我们一直讲了"
+    },
+    {
+      "start": 1897.65,
+      "end": 1901.65,
+      "raw_text": "它类似于24年底的谷歌",
+      "corrected_text": "它类似于24年底的谷歌"
+    },
+    {
+      "start": 1902.61,
+      "end": 1904.89,
+      "raw_text": "它的追赶还需要几个季度时间",
+      "corrected_text": "它的追赶还需要几个季度时间"
+    },
+    {
+      "start": 1905.33,
+      "end": 1906.41,
+      "raw_text": "还需要几个季度时间",
+      "corrected_text": "还需要几个季度时间"
+    },
+    {
+      "start": 1906.61,
+      "end": 1907.25,
+      "raw_text": "没那么快",
+      "corrected_text": "没那么快"
+    },
+    {
+      "start": 1907.25,
+      "end": 1908.13,
+      "raw_text": "META没那么快",
+      "corrected_text": "META没那么快"
+    },
+    {
+      "start": 1914.18,
+      "end": 1915.18,
+      "raw_text": "大家关注一下",
+      "corrected_text": "大家关注一下"
+    },
+    {
+      "start": 1915.42,
+      "end": 1919.26,
+      "raw_text": "你看一下总龙头标的英伟达",
+      "corrected_text": "你看一下总龙头标的英伟达"
+    },
+    {
+      "start": 1920.38,
+      "end": 1924.58,
+      "raw_text": "在前一段时间冲到236之后",
+      "corrected_text": "在前一段时间冲到236之后"
+    },
+    {
+      "start": 1924.58,
+      "end": 1927.14,
+      "raw_text": "其实一直在缓慢的往下震荡",
+      "corrected_text": "其实一直在缓慢的往下震荡"
+    },
+    {
+      "start": 1927.54,
+      "end": 1929.58,
+      "raw_text": "这其实是一个不是那么好的信号",
+      "corrected_text": "这其实是一个不是那么好的信号"
+    },
+    {
+      "start": 1930.5,
+      "end": 1932.9,
+      "raw_text": "虽然说SOX还在往上顶",
+      "corrected_text": "虽然说SOX还在往上顶"
+    },
+    {
+      "start": 1932.9,
+      "end": 1934.14,
+      "raw_text": "但是我们说了英伟达",
+      "corrected_text": "但是我们说了英伟达"
+    },
+    {
+      "start": 1935.62,
+      "end": 1938.26,
+      "raw_text": "当它有点涨不动或者承压的时候",
+      "corrected_text": "当它有点涨不动或者承压的时候"
+    },
+    {
+      "start": 1939.02,
+      "end": 1939.94,
+      "raw_text": "承压的时候",
+      "corrected_text": "承压的时候"
+    },
+    {
+      "start": 1941.98,
+      "end": 1944.5,
+      "raw_text": "后续的封篇是会下降的",
+      "corrected_text": "后续的封篇是会下降的"
+    },
+    {
+      "start": 1952.41,
+      "end": 1954.01,
+      "raw_text": "右的话你可以只买URA",
+      "corrected_text": "右的话你可以只买URA"
+    },
+    {
+      "start": 1954.01,
+      "end": 1955.85,
+      "raw_text": "就直接做右框一帖F也可以",
+      "corrected_text": "就直接做右框一帖F也可以"
+    },
+    {
+      "start": 1960.99,
+      "end": 1963.59,
+      "raw_text": "这张华为韬定律相关的图片",
+      "corrected_text": "这张华为韬定律相关的图片"
+    },
+    {
+      "start": 1963.59,
+      "end": 1965.07,
+      "raw_text": "你们有收到吗",
+      "corrected_text": "你们有收到吗"
+    },
+    {
+      "start": 1966.39,
+      "end": 1967.35,
+      "raw_text": "这是我们总结的",
+      "corrected_text": "这是我们总结的"
+    },
+    {
+      "start": 1967.47,
+      "end": 1968.31,
+      "raw_text": "如果大家没收到的话",
+      "corrected_text": "如果大家没收到的话"
+    },
+    {
+      "start": 1968.31,
+      "end": 1969.75,
+      "raw_text": "我可以让小助理发给大家",
+      "corrected_text": "我可以让小助理发给大家"
+    },
+    {
+      "start": 1972.79,
+      "end": 1973.75,
+      "raw_text": "这个你们有收到吗",
+      "corrected_text": "这个你们有收到吗"
+    },
+    {
+      "start": 1986.23,
+      "end": 1987.39,
+      "raw_text": "大家还有其他问题吗",
+      "corrected_text": "大家还有其他问题吗"
+    },
+    {
+      "start": 1996.35,
+      "end": 1997.71,
+      "raw_text": "还有什么其他想问的吗",
+      "corrected_text": "还有什么其他想问的吗"
+    },
+    {
+      "start": 2003.51,
+      "end": 2005.23,
+      "raw_text": "没收到我让小助理发给大家",
+      "corrected_text": "没收到我让小助理发给大家"
+    },
+    {
+      "start": 2006.19,
+      "end": 2007.15,
+      "raw_text": "我让小助理发给大家",
+      "corrected_text": "我让小助理发给大家"
+    },
+    {
+      "start": 2020.82,
+      "end": 2023.78,
+      "raw_text": "然后周末我算了算",
+      "corrected_text": "然后周末我算了算"
+    },
+    {
+      "start": 2024.02,
+      "end": 2025.46,
+      "raw_text": "就是富途",
+      "corrected_text": "就是富途"
+    },
+    {
+      "start": 2026.26,
+      "end": 2027.18,
+      "raw_text": "富途",
+      "corrected_text": "富途"
+    },
+    {
+      "start": 2028.34,
+      "end": 2029.9,
+      "raw_text": "老虎长桥等等",
+      "corrected_text": "老虎长桥等等"
+    },
+    {
+      "start": 2031.62,
+      "end": 2032.3,
+      "raw_text": "他们",
+      "corrected_text": "他们"
+    },
+    {
+      "start": 2033.06,
+      "end": 2033.98,
+      "raw_text": "他们",
+      "corrected_text": "他们"
+    },
+    {
+      "start": 2035.5,
+      "end": 2037.46,
+      "raw_text": "现在他们具体有多少体量的",
+      "corrected_text": "现在他们具体有多少体量的"
+    },
+    {
+      "start": 2037.46,
+      "end": 2040.1,
+      "raw_text": "中概股和港股没有确数",
+      "corrected_text": "中概股和港股没有确数"
+    },
+    {
+      "start": 2040.1,
+      "end": 2041.42,
+      "raw_text": "但大概推算一下",
+      "corrected_text": "但大概推算一下"
+    },
+    {
+      "start": 2041.86,
+      "end": 2043.38,
+      "raw_text": "现在每天恒生科技",
+      "corrected_text": "现在每天恒生科技"
+    },
+    {
+      "start": 2043.38,
+      "end": 2045.82,
+      "raw_text": "大概交易量是700亿左右人民币",
+      "corrected_text": "大概交易量是700亿左右人民币"
+    },
+    {
+      "start": 2046.5,
+      "end": 2048.42,
+      "raw_text": "然后在美国上市的中概股",
+      "corrected_text": "然后在美国上市的中概股"
+    },
+    {
+      "start": 2048.42,
+      "end": 2050.62,
+      "raw_text": "大概每天成交额也七八百亿",
+      "corrected_text": "大概每天成交额也七八百亿"
+    },
+    {
+      "start": 2051.78,
+      "end": 2052.62,
+      "raw_text": "我算了算",
+      "corrected_text": "我算了算"
+    },
+    {
+      "start": 2053.58,
+      "end": 2056.7,
+      "raw_text": "就是这三家券商持有的中概股和",
+      "corrected_text": "就是这三家券商持有的中概股和"
+    },
+    {
+      "start": 2057.14,
+      "end": 2058.46,
+      "raw_text": "恒科相关的",
+      "corrected_text": "恒科相关的"
+    },
+    {
+      "start": 2059.06,
+      "end": 2061.42,
+      "raw_text": "资金体价大概是1200亿美元",
+      "corrected_text": "资金体价大概是1200亿美元"
+    },
+    {
+      "start": 2061.94,
+      "end": 2062.82,
+      "raw_text": "1200亿美元",
+      "corrected_text": "1200亿美元"
+    },
+    {
+      "start": 2063.18,
+      "end": 2065.94,
+      "raw_text": "那么算一下大概就是8000多亿的",
+      "corrected_text": "那么算一下大概就是8000多亿的"
+    },
+    {
+      "start": 2066.74,
+      "end": 2067.22,
+      "raw_text": "人民币",
+      "corrected_text": "人民币"
+    },
+    {
+      "start": 2068.26,
+      "end": 2069.34,
+      "raw_text": "按照每天",
+      "corrected_text": "按照每天"
+    },
+    {
+      "start": 2069.98,
+      "end": 2071.38,
+      "raw_text": "恒生科技加中概股",
+      "corrected_text": "恒生科技加中概股"
+    },
+    {
+      "start": 2071.98,
+      "end": 2073.74,
+      "raw_text": "成交1500亿左右来说的话",
+      "corrected_text": "成交1500亿左右来说的话"
+    },
+    {
+      "start": 2074.06,
+      "end": 2076.3,
+      "raw_text": "相当于需要6个交易日",
+      "corrected_text": "相当于需要6个交易日"
+    },
+    {
+      "start": 2076.54,
+      "end": 2077.78,
+      "raw_text": "竞卖出才能卖完",
+      "corrected_text": "竞卖出才能卖完"
+    },
+    {
+      "start": 2078.02,
+      "end": 2078.94,
+      "raw_text": "就是我们假设",
+      "corrected_text": "就是我们假设"
+    },
+    {
+      "start": 2079.26,
+      "end": 2081.34,
+      "raw_text": "假设上周末客户开始恐慌了",
+      "corrected_text": "假设上周末客户开始恐慌了"
+    },
+    {
+      "start": 2081.82,
+      "end": 2084.14,
+      "raw_text": "从明天开始开始疯狂卖",
+      "corrected_text": "从明天开始开始疯狂卖"
+    },
+    {
+      "start": 2084.74,
+      "end": 2087.02,
+      "raw_text": "你手中的中概股和恒生科技",
+      "corrected_text": "你手中的中概股和恒生科技"
+    },
+    {
+      "start": 2087.42,
+      "end": 2089.82,
+      "raw_text": "那么可能需要6个交易日才能彻底卖完",
+      "corrected_text": "那么可能需要6个交易日才能彻底卖完"
+    },
+    {
+      "start": 2090.46,
+      "end": 2091.82,
+      "raw_text": "当然这是最悲观情况",
+      "corrected_text": "当然这是最悲观情况"
+    },
+    {
+      "start": 2091.82,
+      "end": 2092.54,
+      "raw_text": "因为实际上",
+      "corrected_text": "因为实际上"
+    },
+    {
+      "start": 2092.86,
+      "end": 2094.22,
+      "raw_text": "实际上肯定没那么恐慌",
+      "corrected_text": "实际上肯定没那么恐慌"
+    },
+    {
+      "start": 2094.34,
+      "end": 2095.74,
+      "raw_text": "因为毕竟给了两年时间处理",
+      "corrected_text": "因为毕竟给了两年时间处理"
+    },
+    {
+      "start": 2096.3,
+      "end": 2097.54,
+      "raw_text": "可能会分散去卖",
+      "corrected_text": "可能会分散去卖"
+    },
+    {
+      "start": 2097.54,
+      "end": 2099.58,
+      "raw_text": "所以抛押也许没有那么严重",
+      "corrected_text": "所以抛押也许没有那么严重"
+    },
+    {
+      "start": 2100.06,
+      "end": 2102.74,
+      "raw_text": "但无论如何有这么几千亿的存量要去抛",
+      "corrected_text": "但无论如何有这么几千亿的存量要去抛"
+    },
+    {
+      "start": 2103.46,
+      "end": 2106.62,
+      "raw_text": "所以很可能还要去承押",
+      "corrected_text": "所以很可能还要去承押"
+    },
+    {
+      "start": 2107.82,
+      "end": 2108.78,
+      "raw_text": "一段时间有可能",
+      "corrected_text": "一段时间有可能"
+    },
+    {
+      "start": 2109.14,
+      "end": 2111.7,
+      "raw_text": "无论是恒科或者说中概互联指数",
+      "corrected_text": "无论是恒科或者说中概互联指数"
+    },
+    {
+      "start": 2111.7,
+      "end": 2112.7,
+      "raw_text": "有可能会承压5个点",
+      "corrected_text": "有可能会承压5个点"
+    },
+    {
+      "start": 2112.7,
+      "end": 2114.02,
+      "raw_text": "甚至10个点都不排除",
+      "corrected_text": "甚至10个点都不排除"
+    },
+    {
+      "start": 2114.26,
+      "end": 2115.82,
+      "raw_text": "这个要看他们卖的节奏了",
+      "corrected_text": "这个要看他们卖的节奏了"
+    },
+    {
+      "start": 2116.06,
+      "end": 2117.1,
+      "raw_text": "这个大家心里有个数",
+      "corrected_text": "这个大家心里有个数"
+    },
+    {
+      "start": 2117.3,
+      "end": 2118.46,
+      "raw_text": "好吧具体怎么操作",
+      "corrected_text": "好吧具体怎么操作"
+    },
+    {
+      "start": 2118.62,
+      "end": 2119.5,
+      "raw_text": "可以问一下大帅",
+      "corrected_text": "可以问一下大帅"
+    },
+    {
+      "start": 2119.5,
+      "end": 2120.54,
+      "raw_text": "问一下大帅他们那边",
+      "corrected_text": "问一下大帅他们那边"
+    },
+    {
+      "start": 2121.22,
+      "end": 2122.66,
+      "raw_text": "这个就额外提醒大家一下",
+      "corrected_text": "这个就额外提醒大家一下"
+    },
+    {
+      "start": 2126.21,
+      "end": 2128.13,
+      "raw_text": "我们最近总结了AI图片很多",
+      "corrected_text": "我们最近总结了AI图片很多"
+    },
+    {
+      "start": 2128.69,
+      "end": 2130.21,
+      "raw_text": "稍后我让小助理都发给大家",
+      "corrected_text": "稍后我让小助理都发给大家"
+    },
+    {
+      "start": 2130.53,
+      "end": 2131.25,
+      "raw_text": "都发给大家",
+      "corrected_text": "都发给大家"
+    },
+    {
+      "start": 2132.41,
+      "end": 2132.85,
+      "raw_text": "行",
+      "corrected_text": "行"
+    },
+    {
+      "start": 2133.05,
+      "end": 2134.41,
+      "raw_text": "如果大家没有别的问题的话",
+      "corrected_text": "如果大家没有别的问题的话"
+    },
+    {
+      "start": 2134.41,
+      "end": 2135.77,
+      "raw_text": "我们今天先讲到这里",
+      "corrected_text": "我们今天先讲到这里"
+    },
+    {
+      "start": 2135.77,
+      "end": 2137.17,
+      "raw_text": "后续有什么问题",
+      "corrected_text": "后续有什么问题"
+    },
+    {
+      "start": 2137.17,
+      "end": 2138.49,
+      "raw_text": "可以联系我们",
+      "corrected_text": "可以联系我们"
+    },
+    {
+      "start": 2138.49,
+      "end": 2140.01,
+      "raw_text": "或者说提问",
+      "corrected_text": "或者说提问"
+    },
+    {
+      "start": 2140.01,
+      "end": 2141.25,
+      "raw_text": "或者一对一互动都可以",
+      "corrected_text": "或者一对一互动都可以"
+    },
+    {
+      "start": 2141.69,
+      "end": 2142.13,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 2142.69,
+      "end": 2144.77,
+      "raw_text": "我们今天就先到这里了",
+      "corrected_text": "我们今天就先到这里了"
+    },
+    {
+      "start": 2144.97,
+      "end": 2146.41,
+      "raw_text": "未来一段时间大家注意一下",
+      "corrected_text": "未来一段时间大家注意一下"
+    },
+    {
+      "start": 2146.41,
+      "end": 2147.81,
+      "raw_text": "市场宽幅震荡风险",
+      "corrected_text": "市场宽幅震荡风险"
+    },
+    {
+      "start": 2147.81,
+      "end": 2149.13,
+      "raw_text": "不要在这个位置加仓",
+      "corrected_text": "不要在这个位置加仓"
+    },
+    {
+      "start": 2149.37,
+      "end": 2150.25,
+      "raw_text": "不要上头",
+      "corrected_text": "不要上头"
+    },
+    {
+      "start": 2150.25,
+      "end": 2152.45,
+      "raw_text": "不要每天被20厘米所迷惑",
+      "corrected_text": "不要每天被20厘米所迷惑"
+    },
+    {
+      "start": 2152.45,
+      "end": 2152.89,
+      "raw_text": "好吧",
+      "corrected_text": "好吧"
+    },
+    {
+      "start": 2153.41,
+      "end": 2153.89,
+      "raw_text": "就这样了",
+      "corrected_text": "就这样了"
+    },
+    {
+      "start": 2154.13,
+      "end": 2155.37,
+      "raw_text": "我们周四再聊",
+      "corrected_text": "我们周四再聊"
+    },
+    {
+      "start": 2155.81,
+      "end": 2156.29,
+      "raw_text": "拜拜",
+      "corrected_text": "拜拜"
+    }
+  ]
+}

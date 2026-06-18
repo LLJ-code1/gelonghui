@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "processed_date": "2026-06-04",
+    "video_key": "美股周观点_5",
+    "source_video": "/Users/a123/Downloads/格隆汇视频/美股周观点(5).mp4",
+    "status": "visual_reviewed",
+    "note": "候选项来自转写中涉及图表、标的代码、比例、目标市值和财报数字的内容。"
+  },
+  "candidates": [
+    {
+      "id": "vr-001",
+      "time": "00:01:47",
+      "reason": "讲者讲解英伟达五层蛋糕理论，需要确认五层结构和标的代码。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr001_000147_five_layer.jpg"
+    },
+    {
+      "id": "vr-002",
+      "time": "00:03:00",
+      "reason": "讲者引用英伟达投资版图和13F/投资清单，需要确认投资对象。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr002_000300_nvda_investment_map.jpg"
+    },
+    {
+      "id": "vr-003",
+      "time": "00:07:20",
+      "reason": "讲者称存储是GB300/VR200增量最大的环节，需要确认画面为BOM和增量表。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr003_000720_storage_increment.jpg"
+    },
+    {
+      "id": "vr-004",
+      "time": "00:10:35",
+      "reason": "讲者列举三星P4、海力士M15X、美光A3等产能，需要确认热点追踪文字。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr004_001035_memory_capacity.jpg"
+    },
+    {
+      "id": "vr-005",
+      "time": "00:13:08",
+      "reason": "讲者讲AI PC新三角与旧三角，需要确认标题和核心观点。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr005_001308_ai_pc.jpg"
+    },
+    {
+      "id": "vr-006",
+      "time": "00:18:43",
+      "reason": "讲者讲CRWD涨幅和回调，需要确认图表对象和走势。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr006_001843_crowdstrike_chart.jpg"
+    },
+    {
+      "id": "vr-007",
+      "time": "00:23:05",
+      "reason": "讲者讲PC高端市场份额侵蚀，需要确认画面仍是PC行业核心博弈页。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr007_002305_pc_share_shift.jpg"
+    },
+    {
+      "id": "vr-008",
+      "time": "00:26:45",
+      "reason": "讲者讲CRDO财报和200G进度，需要确认画面股票/财报对象。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr008_002645_crdo.jpg"
+    },
+    {
+      "id": "vr-009",
+      "time": "00:27:35",
+      "reason": "讲者讲Marvell与英伟达深度绑定，需要确认画面标题和时间线。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr009_002735_marvell.jpg"
+    },
+    {
+      "id": "vr-010",
+      "time": "00:32:18",
+      "reason": "讲者讲Broadcom财报miss和盘后下跌，需要确认财报页标题与关键数字。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr010_003218_broadcom.jpg"
+    },
+    {
+      "id": "vr-011",
+      "time": "00:34:47",
+      "reason": "讲者在Q&A中总结三大优先级，需要确认画面回到五层蛋糕页。",
+      "frame": "data/video_frames/2026-06-04/美股周观点_5/vr011_003447_priority_summary.jpg"
+    }
+  ]
+}
